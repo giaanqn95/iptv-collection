@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Node (if used in future)
+node_modules/
+.npm/
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+
+# Secrets
+.env
+.env.local
+*.key
+
+# Editor
+.vscode/
+.idea/
+*.code-workspace

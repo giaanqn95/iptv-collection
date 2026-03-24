@@ -36,17 +36,20 @@ async function loadChannels() {
 
 function normalizeChannel(ch) {
   return {
-    id:       ch.id       || crypto.randomUUID?.() || Math.random().toString(36).slice(2),
-    name:     ch.name     || 'Unknown Channel',
-    url:      ch.url      || ch.stream_url || '',
-    logo:     ch.logo     || ch.logo_url   || '',
-    country:  ch.country  || ch.country_code || '',
-    country_name: ch.country_name || ch.country || '',
-    language: Array.isArray(ch.languages) ? ch.languages.join(', ') : (ch.language || ''),
-    category: ch.category || ch.group     || 'General',
-    nsfw:     !!ch.nsfw,
-    source:   ch.source   || '',
-    status:   ch.status   || 'unknown',
+    id:           ch.id       || crypto.randomUUID?.() || Math.random().toString(36).slice(2),
+    name:         ch.name     || 'Unknown Channel',
+    url:          ch.url      || ch.stream_url || '',
+    logo:         ch.logo     || ch.logo_url   || '',
+    // Default to 'Unknown' so filter counts always have a non-empty key
+    country:      ch.country      || ch.country_code || 'Unknown',
+    country_name: ch.country_name || ch.country      || 'Unknown',
+    language:     Array.isArray(ch.languages)
+                    ? ch.languages.join(', ')
+                    : (ch.language || 'Unknown'),
+    category:     ch.category || ch.group || 'General',
+    nsfw:         !!ch.nsfw,
+    source:       ch.source  || '',
+    status:       ch.status  || 'unknown',
   };
 }
 
@@ -79,13 +82,15 @@ function renderStats(data) {
 // ── Sidebar filters ──────────────────────────────────────────
 function buildSidebarFilters() {
   buildFilterList('category-filter', 'category');
-  buildFilterList('country-filter', 'country_name', 'country');
+  buildFilterList('country-filter',  'country_name', 'country');
+  buildFilterList('language-filter', 'language');
 }
 
 function buildFilterList(containerId, field, valueField) {
   const container = document.getElementById(containerId);
   if (!container) return;
 
+  // Count unique values for this field across all channels
   const counts = {};
   allChannels.forEach(ch => {
     const key = ch[field] || 'Unknown';
@@ -93,16 +98,24 @@ function buildFilterList(containerId, field, valueField) {
   });
 
   const sorted = Object.entries(counts).sort((a, b) => b[1] - a[1]);
+  const filterType = valueField || field;
 
-  container.innerHTML = sorted.map(([name, count]) => `
-    <button class="filter-pill" data-field="${valueField || field}" data-value="${escape(name)}" onclick="setFilter('${valueField || field}', '${escape(name)}')">
-      <span class="truncate">${name}</span>
-      <span class="text-xs text-gray-600 shrink-0">${count}</span>
-    </button>
-  `).join('');
+  container.innerHTML = sorted.map(([name]) => {
+    // data-value and onclick args use JS-escaped value;
+    // display text uses HTML-escaped value to prevent DOM corruption
+    const safeAttr = name.replace(/'/g, "\\'");
+    const safeHtml = htmlEsc(name);
+    const count    = counts[name];
+    return `
+      <button class="filter-pill"
+        data-field="${filterType}"
+        data-value="${safeAttr}"
+        onclick="setFilter('${filterType}', '${safeAttr}')">
+        <span class="truncate">${safeHtml}</span>
+        <span class="text-xs text-gray-600 shrink-0">${count}</span>
+      </button>`;
+  }).join('');
 }
-
-function escape(s) { return s.replace(/'/g, "\\'"); }
 
 // ── Filtering ────────────────────────────────────────────────
 function applyFilters() {
@@ -295,24 +308,32 @@ function renderChannels() {
 }
 
 function renderCard(ch) {
+  // Pre-escape every field used as text content in innerHTML
+  const safeName  = htmlEsc(ch.name);
+  const safeCat   = htmlEsc(ch.category);
+  const safeCtry  = htmlEsc(ch.country);
+  const safeLang  = htmlEsc(ch.language);
+  const safeUrl   = escUrl(ch.url);
+  const safeLogo  = htmlEsc(ch.logo);
+
   const logo = ch.logo
-    ? `<img src="${ch.logo}" alt="" class="channel-logo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'" /><div class="channel-logo-placeholder" style="display:none">📺</div>`
+    ? `<img src="${safeLogo}" alt="" class="channel-logo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'" /><div class="channel-logo-placeholder" style="display:none">📺</div>`
     : `<div class="channel-logo-placeholder">📺</div>`;
 
   const nsfw = ch.nsfw ? `<span class="badge badge-nsfw">18+</span>` : '';
-  const cat  = ch.category ? `<span class="badge badge-category">${ch.category}</span>` : '';
-  const ctry = ch.country  ? `<span class="badge badge-country">${ch.country}</span>` : '';
+  const cat  = safeCat  && safeCat  !== 'General'  ? `<span class="badge badge-category">${safeCat}</span>` : '';
+  const ctry = safeCtry && safeCtry !== 'Unknown'  ? `<span class="badge badge-country">${safeCtry}</span>` : '';
 
   if (isListView) {
     return `
       <div class="channel-card list-mode" onclick="openModal('${ch.id}')">
         ${logo}
         <div class="flex-1 min-w-0">
-          <div class="font-medium text-sm text-white truncate">${ch.name}</div>
+          <div class="font-medium text-sm text-white truncate">${safeName}</div>
           <div class="flex flex-wrap gap-1 mt-0.5">${cat}${ctry}${nsfw}</div>
         </div>
         <div class="flex gap-1.5 shrink-0">
-          ${ch.url ? `<button class="btn-action btn-copy" onclick="event.stopPropagation();copyUrl('${escUrl(ch.url)}')">
+          ${ch.url ? `<button class="btn-action btn-copy" onclick="event.stopPropagation();copyUrl('${safeUrl}')">
             <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z"/></svg>
           </button>` : ''}
         </div>
@@ -324,14 +345,14 @@ function renderCard(ch) {
       <div class="flex items-start gap-3">
         ${logo}
         <div class="flex-1 min-w-0">
-          <div class="font-semibold text-sm text-white leading-tight line-clamp-2">${ch.name}</div>
-          ${ch.language ? `<div class="text-xs text-gray-500 mt-0.5">${ch.language}</div>` : ''}
+          <div class="font-semibold text-sm text-white leading-tight line-clamp-2">${safeName}</div>
+          ${safeLang && safeLang !== 'Unknown' ? `<div class="text-xs text-gray-500 mt-0.5">${safeLang}</div>` : ''}
         </div>
       </div>
       <div class="flex flex-wrap gap-1">${cat}${ctry}${nsfw}</div>
       <div class="flex gap-2 mt-auto pt-1">
         ${ch.url ? `
-          <button class="btn-action btn-copy flex-1 justify-center" onclick="event.stopPropagation();copyUrl('${escUrl(ch.url)}')">
+          <button class="btn-action btn-copy flex-1 justify-center" onclick="event.stopPropagation();copyUrl('${safeUrl}')">
             <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z"/></svg>
             Copy URL
           </button>
@@ -343,7 +364,17 @@ function renderCard(ch) {
     </div>`;
 }
 
-function escUrl(url) { return url.replace(/'/g, '%27').replace(/"/g, '%22'); }
+function escUrl(url) { return String(url || '').replace(/'/g, '%27').replace(/"/g, '%22'); }
+
+// Escape text before inserting into innerHTML to prevent HTML injection
+// breaking card rendering (e.g. channel names containing &, <, >)
+function htmlEsc(s) {
+  return String(s || '')
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
 
 // ── Pagination ───────────────────────────────────────────────
 function renderPagination() {

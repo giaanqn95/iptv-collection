@@ -2,9 +2,9 @@
 """
 IPTV Aggregation Script
 =======================
-Fetches M3U playlists from:
-  - Free-TV/IPTV  (github.com/Free-TV/IPTV/tree/master/lists)
-  - iptv-org/iptv (github.com/iptv-org/iptv — index playlists)
+Fetches M3U/M3U8 playlists from:
+  - Free-TV/IPTV  — /lists  and /playlists directories (via GitHub API)
+  - iptv-org/iptv — index playlist
 
 Optionally validates stream URLs, deduplicates, and outputs:
   - data/channels.json
@@ -23,16 +23,18 @@ from pathlib import Path
 from datetime import datetime, timezone
 from urllib.parse import urlparse
 
-import httpx
+import requests
 import aiohttp
 
 # ── Config ────────────────────────────────────────────────────
 OUTPUT_DIR = Path(__file__).parent.parent / "data"
 LOG_LEVEL  = logging.INFO
 
-# GitHub API endpoints
-FREE_TV_API   = "https://api.github.com/repos/Free-TV/IPTV/contents/playlists"
-FREE_TV_RAW   = "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/{filename}"
+# GitHub API endpoints — both directories in Free-TV/IPTV
+FREE_TV_DIRS = [
+    "https://api.github.com/repos/Free-TV/IPTV/contents/lists",
+    "https://api.github.com/repos/Free-TV/IPTV/contents/playlists",
+]
 IPTV_ORG_INDEX = "https://iptv-org.github.io/iptv/index.m3u"
 
 # Validation settings
@@ -106,14 +108,15 @@ def parse_extinf(line: str) -> dict:
         channel["name"] = name_match.group(1).strip()
 
     def attr(key: str) -> str:
-        m = re.search(rf'{key}="([^"]*)"', line, re.IGNORECASE)
+        # [^"]+ (one-or-more) skips empty attributes like tvg-country=""
+        m = re.search(rf'{key}="([^"]+)"', line, re.IGNORECASE)
         return m.group(1).strip() if m else ""
 
     channel["logo"]         = attr("tvg-logo")
     channel["tvg_id"]       = attr("tvg-id")
-    channel["country"]      = attr("tvg-country") or attr("country")
-    channel["country_name"] = attr("tvg-country") or attr("country")
-    channel["language"]     = attr("tvg-language") or attr("language")
+    channel["country"]      = attr("tvg-country") or attr("country") or "Unknown"
+    channel["country_name"] = attr("tvg-country") or attr("country") or "Unknown"
+    channel["language"]     = attr("tvg-language") or attr("language") or "Unknown"
 
     group = attr("group-title")
     if group:
@@ -142,59 +145,107 @@ def channel_id(ch: dict) -> str:
 # ── Fetchers ──────────────────────────────────────────────────
 
 def fetch(url: str, timeout: int = 30) -> str | None:
+    """GET a URL and return its text body, or None on any error."""
     try:
-        with httpx.Client(headers=HEADERS, follow_redirects=True, timeout=timeout) as client:
-            r = client.get(url)
-            r.raise_for_status()
-            return r.text
-    except Exception as e:
-        log.warning(f"Failed to fetch {url}: {e}")
-        return None
+        r = requests.get(url, headers=HEADERS, timeout=timeout, allow_redirects=True)
+        r.raise_for_status()
+        r.encoding = r.apparent_encoding or "utf-8"
+        return r.text
+    except requests.exceptions.Timeout:
+        log.warning(f"Timeout fetching {url}")
+    except requests.exceptions.HTTPError as e:
+        log.warning(f"HTTP {e.response.status_code} fetching {url}")
+    except requests.exceptions.RequestException as e:
+        log.warning(f"Request error fetching {url}: {e}")
+    return None
+
+
+def _list_m3u_files_from_api(api_url: str) -> list[dict]:
+    """
+    Call a GitHub Contents API endpoint and return file entries
+    whose names end with .m3u or .m3u8.
+    Returns a list of dicts with at least {name, download_url}.
+    """
+    log.info(f"  Listing files via GitHub API: {api_url}")
+    text = fetch(api_url)
+    if not text:
+        log.warning(f"  Could not reach API endpoint: {api_url}")
+        return []
+
+    try:
+        entries = json.loads(text)
+    except json.JSONDecodeError as e:
+        log.warning(f"  JSON decode error for {api_url}: {e}")
+        return []
+
+    if not isinstance(entries, list):
+        # GitHub returns a dict (with 'message') when rate-limited or not found
+        msg = entries.get("message", "") if isinstance(entries, dict) else ""
+        log.warning(f"  Unexpected API response for {api_url}: {msg or entries}")
+        return []
+
+    files = [
+        e for e in entries
+        if isinstance(e, dict)
+        and e.get("type") == "file"
+        and e.get("name", "").lower().endswith((".m3u", ".m3u8"))
+        and e.get("download_url")
+    ]
+    log.info(f"  Found {len(files)} M3U/M3U8 file(s)")
+    return files
 
 
 def fetch_free_tv() -> list[dict]:
-    """Fetch all M3U playlists from Free-TV/IPTV."""
-    log.info("Fetching Free-TV/IPTV playlist list…")
+    """
+    Fetch all M3U/M3U8 playlists from Free-TV/IPTV.
+
+    Queries both /lists and /playlists via the GitHub REST API,
+    uses each file's download_url to fetch raw content, parses it,
+    and deduplicates by stream URL before returning.
+    """
+    log.info("=== Fetching Free-TV/IPTV ===")
     channels: list[dict] = []
+    seen_urls: set[str]  = set()   # URL-level dedup within this source
 
-    # Try GitHub API first to enumerate files
-    contents = None
-    api_text = fetch(FREE_TV_API)
-    if api_text:
-        try:
-            contents = json.loads(api_text)
-        except json.JSONDecodeError:
-            pass
+    for api_url in FREE_TV_DIRS:
+        files = _list_m3u_files_from_api(api_url)
 
-    if contents and isinstance(contents, list):
-        m3u_files = [f["name"] for f in contents if f["name"].endswith(".m3u")]
-        log.info(f"  Found {len(m3u_files)} playlist files")
-        for fname in m3u_files:
-            raw_url = FREE_TV_RAW.format(filename=fname)
-            log.info(f"  Downloading {fname}…")
-            text = fetch(raw_url)
-            if text:
-                parsed = parse_m3u(text, source=f"Free-TV/{fname}")
-                log.info(f"    → {len(parsed)} channels")
-                channels.extend(parsed)
-            time.sleep(0.3)
-    else:
-        # Fallback: try known filenames
-        log.warning("  GitHub API unavailable, trying known files…")
-        fallback_files = [
-            "playlist_ar.m3u", "playlist_de.m3u", "playlist_en.m3u",
-            "playlist_es.m3u", "playlist_fr.m3u", "playlist_it.m3u",
-            "playlist_pt.m3u", "playlist_ru.m3u", "playlist_tr.m3u",
-            "playlist_zh.m3u",
-        ]
-        for fname in fallback_files:
-            raw_url = FREE_TV_RAW.format(filename=fname)
-            text = fetch(raw_url)
-            if text:
-                parsed = parse_m3u(text, source=f"Free-TV/{fname}")
-                channels.extend(parsed)
+        for file_entry in files:
+            fname        = file_entry["name"]
+            download_url = file_entry["download_url"]
+            source_label = f"Free-TV/{fname}"
 
-    log.info(f"Free-TV total: {len(channels)} channels")
+            log.info(f"  Downloading {fname} …")
+            try:
+                text = fetch(download_url, timeout=45)
+            except Exception as e:
+                log.warning(f"  Unexpected error downloading {fname}: {e}")
+                continue
+
+            if not text:
+                log.warning(f"  Empty or failed response for {fname}, skipping")
+                continue
+
+            try:
+                parsed = parse_m3u(text, source=source_label)
+            except Exception as e:
+                log.warning(f"  Parse error for {fname}: {e}")
+                continue
+
+            # Deduplicate by URL within this source
+            new_channels = []
+            for ch in parsed:
+                url = ch.get("url", "").strip()
+                if url and url not in seen_urls:
+                    seen_urls.add(url)
+                    new_channels.append(ch)
+
+            log.info(f"    → {len(new_channels)} unique channels (skipped {len(parsed)-len(new_channels)} dupes)")
+            channels.extend(new_channels)
+
+            time.sleep(0.2)   # be polite to GitHub's CDN
+
+    log.info(f"Free-TV total: {len(channels)} channels from both directories")
     return channels
 
 

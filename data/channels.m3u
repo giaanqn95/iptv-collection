@@ -3311,8 +3311,6 @@ https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 https://live.x2.co.th/live/13livetv-th.m3u8
 #EXTINF:-1 tvg-id="13T.cl@SD" tvg-logo="https://i.imgur.com/csBNi2L.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Series",13 Teleseries (720p)
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
-#EXTINF:-1 tvg-id="13Ulica.pl@SD" tvg-logo="https://i.imgur.com/0gCNnLq.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Entertainment",13 Ulica (1080p)
-https://lowa8026-cmyk.github.io/13Ulica.m3u8
 #EXTINF:-1 tvg-id="13C.cl@SD" tvg-logo="https://i.imgur.com/Zfe2f5j.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Culture",13C (1080p)
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:-1 tvg-id="15PlusMusic.ru@HD" tvg-logo="https://i.imgur.com/kj21hwd.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Music",15+ Music (1080p)
@@ -7151,42 +7149,18 @@ http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTVPlus2.cn@SD" tvg-logo="https://i.imgur.com/qSg862A.png" tvg-country="Unknown" tvg-language="Unknown" group-title="News",CCTV+ 2 (600p) [Not 24/7]
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV1.cn@SD" tvg-logo="https://i.imgur.com/TpA3cUl.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",CCTV-1 (2160p) [Geo-blocked]
-http://123.175.209.52:9003/hls/1/index.m3u8
-#EXTINF:-1 tvg-id="CCTV11.cn@SD" tvg-logo="https://i.imgur.com/CjOWx7L.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Music",CCTV-11 (576p) [Geo-blocked]
-http://123.175.209.52:9003/hls/12/index.m3u8
-#EXTINF:-1 tvg-id="CCTV12.cn@SD" tvg-logo="https://i.imgur.com/3yTuiOM.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Lifestyle",CCTV-12 (2160p) [Geo-blocked]
-http://123.175.209.52:9003/hls/13/index.m3u8
-#EXTINF:-1 tvg-id="CCTV13.cn@SD" tvg-logo="https://i.imgur.com/6MTar6J.png" tvg-country="Unknown" tvg-language="Unknown" group-title="News",CCTV-13新闻 (2160p) [Geo-blocked]
-http://123.175.209.52:9003/hls/14/index.m3u8
-#EXTINF:-1 tvg-id="CCTV15.cn@SD" tvg-logo="https://i.imgur.com/CCV0eRG.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Music",CCTV-15 (576p)
-http://123.175.209.52:9003/hls/16/index.m3u8
+#EXTINF:-1 tvg-id="CCTV13.cn@SD" tvg-logo="https://i.imgur.com/6MTar6J.png" tvg-country="Unknown" tvg-language="Unknown" group-title="News",CCTV-13 (1080p)
+https://cdn3.163189.xyz/163189/cctv13
 #EXTINF:-1 tvg-id="CCTV16.cn@SD" tvg-logo="https://i.imgur.com/ZzV6JQp.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Sports",CCTV-16
 http://74.91.26.218:82/live/cctv16hd.m3u8
-#EXTINF:-1 tvg-id="CCTV17.cn@SD" tvg-logo="https://i.imgur.com/jSQURxS.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Education;Outdoor",CCTV-17 (2160p) [Geo-blocked]
-http://123.175.209.52:9003/hls/18/index.m3u8
-#EXTINF:-1 tvg-id="CCTV2.cn@SD" tvg-logo="https://i.imgur.com/ILamhwU.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Business",CCTV-2 (2160p) [Geo-blocked]
-http://123.175.209.52:9003/hls/2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV3.cn@SD" tvg-logo="https://i.imgur.com/iFlkIuw.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Entertainment",CCTV-3 (2160p) [Geo-blocked]
-http://123.175.209.52:9003/hls/3/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4Asia.cn@SD" tvg-logo="https://i.imgur.com/tWt4Wou.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",CCTV-4 (2160p) [Geo-blocked]
-http://123.175.209.52:9003/hls/4/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4America.cn@SD" tvg-logo="https://i.imgur.com/gBbLyqh.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",CCTV-4 America (1080p)
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 #EXTINF:-1 tvg-id="CCTV4Europe.cn@SD" tvg-logo="https://i.imgur.com/HGLFdfk.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",CCTV-4 Europe
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV5.cn@SD" tvg-logo="https://i.imgur.com/nbmnGwE.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Sports",CCTV-5 (2160p) [Geo-blocked]
-http://123.175.209.52:9003/hls/5/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5Plus.cn@SD" tvg-logo="https://i.imgur.com/OK8mdJV.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Sports",CCTV-5+ (2160p) [Geo-blocked]
-http://123.175.209.52:9003/hls/6/index.m3u8
-#EXTINF:-1 tvg-id="CCTV6.cn@SD" tvg-logo="https://i.imgur.com/rFiaef7.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Movies",CCTV-6 (2160p) [Geo-blocked]
-http://123.175.209.52:9003/hls/7/index.m3u8
-#EXTINF:-1 tvg-id="CCTV7.cn@SD" tvg-logo="https://i.imgur.com/CKcPMQC.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Education",CCTV-7 (2160p) [Geo-blocked]
-http://123.175.209.52:9003/hls/8/index.m3u8
-#EXTINF:-1 tvg-id="CCTV8.cn@SD" tvg-logo="https://i.imgur.com/GyHaZ8X.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Culture",CCTV-8 (2160p) [Geo-blocked]
-http://123.175.209.52:9003/hls/9/index.m3u8
-#EXTINF:-1 tvg-id="CCTV9.cn@SD" tvg-logo="https://i.imgur.com/3tivvMm.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Documentary",CCTV-9 (2160p) [Geo-blocked]
-http://123.175.209.52:9003/hls/10/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5Plus.cn@SD" tvg-logo="https://i.imgur.com/OK8mdJV.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Sports",CCTV-5+ (576i)
+http://69.30.246.194/live/cctv5p.m3u8
+#EXTINF:-1 tvg-id="CCTV9.cn@SD" tvg-logo="https://i.imgur.com/3tivvMm.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Documentary",CCTV-9 (576i)
+https://xykt-fix.github.io/Y77.m3u8
 #EXTINF:-1 tvg-id="CCV.in@SD" tvg-logo="https://i.imgur.com/4ss0KfA.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",CCV (480p)
 https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
 #EXTINF:-1 tvg-id="CCX1.us@SD" tvg-logo="https://i.imgur.com/1hHW3IK.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",CCX1 (1080p)
@@ -9115,6 +9089,8 @@ http://146.59.85.40:89/dunahd/index.m3u8
 http://146.59.85.40:89/dunaworld/index.m3u8
 #EXTINF:-1 tvg-id="DunamisTV.ng@SD" tvg-logo="https://i.imgur.com/thGAXeM.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Religious",Dunamis TV (576p) [Not 24/7]
 https://atechgroupuk.site/DTV.m3u8
+#EXTINF:-1 tvg-id="DungeonTV.us@SD" tvg-logo="https://i.imgur.com/cwazXHb.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Undefined",Dungeon TV (480i)
+https://stream-us-east-1.getpublica.com/cl/260429d7p1k35skjef7n2hpgog/1280x720_2750882_1_f.m3u8?i=513_2251
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-country="Unknown" tvg-language="Unknown" group-title="Undefined",Dungeons & Dragons Adventures (1080p) [Geo-blocked]
 https://amg00461-eone-amg00461c3-firetv-us-5211.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DuniaSinema.my@SD" tvg-logo="" tvg-country="Unknown" tvg-language="Unknown" group-title="Movies",Dunia Sinema (1080p)
@@ -16541,6 +16517,8 @@ http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 http://195.64.140.147:10121/121
 #EXTINF:-1 tvg-id="Nickelodeon.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Kids",Nickelodeon (576p)
 http://103.72.101.252:8080/live/545.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Kids",Nickelodeon (720p)
+http://95.70.222.188:1234/stream/tivibucocuk/nickelodeon/stream.m3u8
 #EXTINF:-1 tvg-id="NickelodeonAsia.sg@Indonesia" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Kids",Nickelodeon Asia Indonesia (1080p)
 https://cdn10jtedge.indihometv.com/atm/DASH/nickelodeon/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-country="Unknown" tvg-language="Unknown" group-title="Undefined",Nickelodeon Classics (720p)
@@ -16551,6 +16529,8 @@ https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
 https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8
 #EXTINF:-1 tvg-id="NickenEspanol.us@SD" tvg-logo="https://i.imgur.com/G1J4IsT.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Kids",Nickelodeon en español
 https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
+#EXTINF:-1 tvg-id="NickelodeonGlobal.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Kids",Nickelodeon Global (576p)
+http://46.149.191.217:9011/play/a018
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-country="Unknown" tvg-language="Unknown" group-title="Undefined",Nickelodeon iCarly
 https://jmp2.uk/plu-620ff46e0a576e0007dc2f89.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-country="Unknown" tvg-language="Unknown" group-title="Undefined",Nickelodeon iCarly
@@ -18735,8 +18715,6 @@ https://cdn-s-lb2.pluscdn.pl/lv/1533809/392/dash/3de17d4a/live.mpd
 https://lb2-e3-20.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd
 #EXTINF:-1 tvg-id="PolsatReality.pl@SD" tvg-logo="https://i.imgur.com/yBecqPa.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Entertainment",Polsat Reality (1080p)
 http://78.130.250.2:8023/play/a064/index.m3u8
-#EXTINF:-1 tvg-id="PolsatRodzina.pl@SD" tvg-logo="https://i.imgur.com/IS0AW48.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Undefined",Polsat Rodzina (1080p)
-https://lowa8026-cmyk.github.io/PolsatRodzina.m3u8
 #EXTINF:-1 tvg-id="PolsatSeriale.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Polsat_Seriale_2021_gradient.svg/500px-Polsat_Seriale_2021_gradient.svg.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Series",Polsat Seriale (1080p)
 http://78.130.250.2:8023/play/a06h/index.m3u8
 #EXTINF:-1 tvg-id="PolsatSport1.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Polsat_Sport_1_2024.svg/500px-Polsat_Sport_1_2024.svg.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Undefined",Polsat Sport 1 (1080p) [Geo-blocked]
@@ -23045,6 +23023,8 @@ https://cloud.fastchannel.es/mic/manifiest/hls/televigo/televigo.m3u8
 https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GaJIRN3.jpg" tvg-country="Unknown" tvg-language="Unknown" group-title="Vod Italy",Televisa Telenovelas
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TelevisionCanaria.es@SD" tvg-logo="https://rtvc.es/archivos/2020/03/logo-mobilretina.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Undefined",Television Canaria (576p)
+https://d1oyt3v08gcy18.cloudfront.net/index-events.m3u8
 #EXTINF:-1 tvg-id="TelevisionCaribbean.kn@SD" tvg-logo="https://i.imgur.com/Ogw0COv.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",Television Caribbean (1080p)
 https://live.kingdom-tv.com:3545/stream/play.m3u8
 #EXTINF:-1 tvg-id="TelevisiondelEste.do@SD" tvg-logo="https://i.imgur.com/mmjbcGr.png" tvg-country="Unknown" tvg-language="Unknown" group-title="News",Television del Este (1080p) [Not 24/7]

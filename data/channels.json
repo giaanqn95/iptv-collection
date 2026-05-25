@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-24T06:36:13.469325+00:00",
-  "total": 14158,
+  "updated_at": "2026-05-25T07:13:06.048861+00:00",
+  "total": 14160,
   "channels": [
     {
       "name": "Andorra TV",
@@ -33380,7 +33380,7 @@
     },
     {
       "name": "AntenaSport (1280p) [Not 24/7]",
-      "logo": "",
+      "logo": "https://cdn.as.ro/wp-content/themes/antenasport/images/icons-as/as.svg",
       "category": "Sports",
       "country": "Unknown",
       "country_name": "Unknown",
@@ -93173,6 +93173,20 @@
       "id": "6a37c75e80e912e132b55ced3215a54c"
     },
     {
+      "name": "Las Vegas Tonight with Dale Davidson (1080p)",
+      "logo": "https://i.imgur.com/05Xdqa6.png",
+      "category": "General",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "LasVegasTonightwithDaleDavidson.us@HD",
+      "url": "https://cdn.vegasplus.us/vegas/lasvegastonight/playlist.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "093a836a967bb622bda87c84e3a597ec"
+    },
+    {
       "name": "Lassie (1080p)",
       "logo": "",
       "category": "Undefined",
@@ -106289,6 +106303,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "c82f7f6c9b161e94bddd7af2042df6c8"
+    },
+    {
+      "name": "mfm (1080p)",
+      "logo": "https://www.mtv.com.lb/images/header/mfm-logo.svg",
+      "category": "Music",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "mfm.lb@HD",
+      "url": "https://hms.pfs.gdn/hms/v1/broadcast/hlmvmp2hfriode891/playlist.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "6943e23b3f2059217d6993491ffefa9e"
     },
     {
       "name": "MGI TV (720p) [Geo-blocked]",

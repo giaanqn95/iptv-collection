@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-25T07:13:06.048861+00:00",
-  "total": 14160,
+  "updated_at": "2026-05-26T06:43:43.066506+00:00",
+  "total": 14148,
   "channels": [
     {
       "name": "Andorra TV",
@@ -33029,7 +33029,7 @@
       "id": "0ab73f50a446856624e65aa6adf156d6"
     },
     {
-      "name": "ANIME x HIDIVE (720p)",
+      "name": "ANIME x HIDIVE (720p) [Geo-blocked]",
       "logo": "https://i.imgur.com/v0BlxCa.png",
       "category": "Animation",
       "country": "Unknown",
@@ -33040,7 +33040,7 @@
       "url": "https://d3f088nnrrvkwf.cloudfront.net/v1/amc_anime_x_hidive_1/samsungheadend_us/latest/main/hls/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "8ee1ea205e647034eb792fac8e07be95"
+      "id": "9543b11af8f794caa545bd2f03e6a355"
     },
     {
       "name": "Anime Zone TV (480p)",
@@ -55171,10 +55171,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "ColorsCineplex.in@HD",
-      "url": "http://103.122.249.134:8000/play/a05j",
+      "url": "http://149.71.34.166:8000/play/a00b/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "b9ad2894a9329d75b8e4bfa7748218a2"
+      "id": "a7dd7878012e2f473992deadf47a389e"
     },
     {
       "name": "Colors Cineplex Superhits (576p)",
@@ -61839,20 +61839,6 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "0e4d4c6c84a9f947114624bf8fbac40a"
-    },
-    {
-      "name": "Disney Channel (576p)",
-      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL/images/LOGO_HD/image.png",
-      "category": "Kids",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "DisneyChannel.in@SD",
-      "url": "http://103.122.249.134:8000/play/a05f",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "c0d28fb73564f94ec7b74329b07012f8"
     },
     {
       "name": "Disney Channel (576p) [Geo-Blocked]",
@@ -75757,20 +75743,6 @@
       "id": "52d72ed8c0929865561f11f6af05ec2b"
     },
     {
-      "name": "Goal Zone (1080p)",
-      "logo": "https://shahid.mbc.net/mediaObject/18bf9987-49ab-4c51-bb94-c568efa51db7?height=auto&width=512&croppingPoint=&version=1&type=png",
-      "category": "Sports",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "GoalZone.sa@SD",
-      "url": "https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "25ad34a45a8b59b4c2ad312d3dd2f520"
-    },
-    {
       "name": "God Stands TV",
       "logo": "https://i.imgur.com/EO6cYUI.png",
       "category": "Religious",
@@ -87447,20 +87419,6 @@
       "id": "c66e7eeaa53308f754ff6dc91a4c3458"
     },
     {
-      "name": "Jordan Sport 2 (1080p) [Geo-blocked]",
-      "logo": "https://static.jrtv.gov.jo/resize-width/380/content/D/yH/2972/Poster.png",
-      "category": "Sports",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "JordanSport2.jo@HD",
-      "url": "https://jrtv-live.ercdn.net/learning2/learning2.m3u8",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "d6bd17d28aa63ef99c62d0405bf28303"
-    },
-    {
       "name": "Jordan Tourism (1080p)",
       "logo": "https://i.imgur.com/gpeIoU9.png",
       "category": "Undefined",
@@ -91144,13 +91102,13 @@
     },
     {
       "name": "KSCN-DT1",
-      "logo": "https://i.imgur.com/HFmkjiR.png",
+      "logo": "",
       "category": "Undefined",
       "country": "Unknown",
       "country_name": "Unknown",
       "language": "Unknown",
       "nsfw": false,
-      "tvg_id": "KSCNTV631.us@HD",
+      "tvg_id": "KSCNTV221.us@HD",
       "url": "https://stream-losangeles.scientology.org/master.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
@@ -108349,6 +108307,34 @@
       "id": "ccb35cf33028a1ad0d7502b338311d59"
     },
     {
+      "name": "Monroe Community Media Education Channel",
+      "logo": "https://i.imgur.com/gS4x0uX.png",
+      "category": "Education",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "MonroeCommunityMediaEducationChannel.us@SD",
+      "url": "https://reflect-monroe-public-access.cablecast.tv/live-4/live/live.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "aa17342a05ef80027d222b27156f402f"
+    },
+    {
+      "name": "Monroe Community Media Public Access Channel",
+      "logo": "https://i.imgur.com/gS4x0uX.png",
+      "category": "General",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "MonroeCommunityMediaPublicAccessChannel.us@SD",
+      "url": "https://reflect-monroe-public-access.cablecast.tv/live-3/live/live.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "8316775fb6e7872b60a2f1dcb7bd8d9e"
+    },
+    {
       "name": "Monroe County Television MCTV (Monroe County FL) (1080p)",
       "logo": "https://i.imgur.com/YJfzdSu.png",
       "category": "Legislative",
@@ -109141,10 +109127,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "MoviesThriller.sa@SD",
-      "url": "https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8",
+      "url": "https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "fc8c99bd24abe955759115e4f43adf7b"
+      "id": "19d85f661805acdfd367df0d8c17e10b"
     },
     {
       "name": "Movies! (480p)",
@@ -115627,20 +115613,6 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "73b29b88c435f91d3d67ba315d91d879"
-    },
-    {
-      "name": "Nick Jr. (576p)",
-      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_JUNIOR/images/LOGO_HD/image.png",
-      "category": "Kids",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "NickJr.in@SD",
-      "url": "http://103.122.249.134:8000/play/a04y",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "e43827371c51702f48a38d6530712c58"
     },
     {
       "name": "Nick Jr. Club",
@@ -150209,20 +150181,6 @@
       "id": "b0daf1e33ef0627930951e5943c58e32"
     },
     {
-      "name": "Sonic (576p)",
-      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png",
-      "category": "Kids",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "Sonic.in@SD",
-      "url": "http://103.122.249.134:8000/play/a051",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "83358d0a56c0c995d3b9ec493cef93e4"
-    },
-    {
       "name": "Sonic The Hedgehog (720p)",
       "logo": "",
       "category": "Undefined",
@@ -150389,20 +150347,6 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "8d71095455bd6e365ec79cf156dfee21"
-    },
-    {
-      "name": "Sony Max HD (1080p)",
-      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png",
-      "category": "Movies",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "SonyMax.in@HD",
-      "url": "http://103.122.249.134:8000/play/a05a",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "459f8d46f6d0e7fc121d9a2e9acd3bfa"
     },
     {
       "name": "Sony One Blacklist (1080p)",
@@ -150683,20 +150627,6 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "7a8e418ac4354f00765fd29ff9899156"
-    },
-    {
-      "name": "Sony Sports Ten 5 HD (1080p)",
-      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png",
-      "category": "Sports",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "SonySportsTen5.in@HD",
-      "url": "http://103.122.249.134:8000/play/a03d",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "6bf8283bfecd80927ddc85eb28ebefca"
     },
     {
       "name": "Sony Wah (1080p) [Geo-blocked]",
@@ -151819,7 +151749,7 @@
       "id": "c7e484d9219537afab93f9acbe22a57c"
     },
     {
-      "name": "Spacetoon Arabic (1080p)",
+      "name": "Spacetoon Arabic (576p)",
       "logo": "https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png",
       "category": "Animation;Kids",
       "country": "Unknown",
@@ -151827,10 +151757,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "SpacetoonArabic.ae@SD",
-      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8",
+      "url": "https://live-uae.spacetoongo.com/ST_Live_UAE/hls/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "ce35c2b9b60a5b4a25e4ad02a29f7113"
+      "id": "a0f6d09d38749388337fe97eee405e21"
     },
     {
       "name": "Spark TV (1080p)",
@@ -152659,20 +152589,6 @@
       "id": "4a70e66d1747fcda871e6d45b20fb492"
     },
     {
-      "name": "Star Bharat HD (1080p)",
-      "logo": "https://i.imgur.com/Q8ajPij.png",
-      "category": "News",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "StarBharat.in@HD",
-      "url": "http://103.122.249.134:8000/play/a054",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "d1fc196fe54aa3f438aa8cc5d4da1400"
-    },
-    {
       "name": "STAR Channel (Finland) (720p)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
       "category": "Undefined",
@@ -152939,48 +152855,6 @@
       "id": "d64ac9ea126249bd1a34585045418761"
     },
     {
-      "name": "Star Sports 1 Hindi HD (1080p)",
-      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD_HINDI/images/LOGO_HD/image.png",
-      "category": "Sports",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "StarSports1Hindi.in@HD",
-      "url": "http://103.122.249.134:8000/play/a059",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "fdb8553ebf59fa5f3cc88c1f21b49483"
-    },
-    {
-      "name": "Star Sports 1 Tamil HD (1080p)",
-      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_TAMIL/images/LOGO_HD/image.png",
-      "category": "Sports",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "StarSports1Tamil.in@HD",
-      "url": "http://103.122.249.134:8000/play/a04e",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "117a6e28b85e10ec849bea427552a134"
-    },
-    {
-      "name": "Star Sports 2 HD (1080p)",
-      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png",
-      "category": "Sports",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "StarSports2.in@HD",
-      "url": "http://103.122.249.134:8000/play/a055",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "c78af7fecf5ccfb3438b03bed444d304"
-    },
-    {
       "name": "Star Sports 2 Hindi HD (1080p)",
       "logo": "https://i.imgur.com/kHerF19.png",
       "category": "Sports",
@@ -152993,34 +152867,6 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "c90b18aff803b2b19f88c01d8ebd3b67"
-    },
-    {
-      "name": "Star Sports 2 Tamil (576p)",
-      "logo": "https://i.imgur.com/eWPoUxB.png",
-      "category": "Sports",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "StarSports2Tamil.in@SD",
-      "url": "http://103.122.249.134:8000/play/a04i",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "d44572013b4c987c961df0ff8ab39e66"
-    },
-    {
-      "name": "Star Sports 3 (576p)",
-      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_3/images/LOGO_HD/image.png",
-      "category": "Sports",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "StarSports3.in@SD",
-      "url": "http://103.122.249.134:8000/play/a04u",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "be0eed4bbfc5b5524d13ab21ddfa9940"
     },
     {
       "name": "Star Suvarna HD (1080p)",
@@ -187699,20 +187545,6 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "a1b3800be4e1b8bb10466c3c9bfa278b"
-    },
-    {
-      "name": "Zee Bangla Sonar (576p)",
-      "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00287G7K.png?lock=720x540",
-      "category": "Entertainment",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "ZeeBanglaSonar.in@SD",
-      "url": "http://103.122.249.134:8000/play/a030",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "d655073ed65ec35213e17462880a4f0c"
     },
     {
       "name": "Zee Bharat (720p)",

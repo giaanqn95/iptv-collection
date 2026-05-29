@@ -4233,8 +4233,8 @@ http://149.100.11.244:8001/play/a07n/index.m3u8
 https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlSharqiyaMinKabla.ae@SD" tvg-logo="https://i.imgur.com/m4qheI4.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",Al Sharqiya Min Kabla (1080p)
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa@SD" tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/fullhd_879e557011826f507a045b4e0b4c3b57ba93edae.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Religious",Al Sunnah Al Nabawiyah TV (720p)
-http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa@SD" tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/fullhd_879e557011826f507a045b4e0b4c3b57ba93edae.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Religious",Al Sunnah Al Nabawiyah TV (1080p)
+https://aloula-redirect.vercel.app/6/playlist.m3u8
 #EXTINF:-1 tvg-id="AlWilayah.ir@SD" tvg-logo="https://i.imgur.com/OI1HQv5.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Religious",Al Wilayah (720p)
 https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8
 #EXTINF:-1 tvg-id="AlWoustaTV.ae@SD" tvg-logo="https://i.imgur.com/zgMqQPQ.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",Al Wousta TV (1080p)
@@ -4905,8 +4905,6 @@ https://amtv.tulixcdn.com/amtv3/am3abr/index.m3u8
 https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
 #EXTINF:-1 tvg-id="ArputharYesuTV.in@SD" tvg-logo="https://arputharyesutv.net/wp-content/uploads/2022/07/AR-LOGO-PNG.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Religious",Arputhar Yesu TV (720p)
 https://arputharyesutv.arputharyesutv.com/live/md/index.m3u8
-#EXTINF:-1 tvg-id="ART.gr@SD" tvg-logo="https://i.imgur.com/mNeLu04.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Culture",ART (1080p)
-https://1a-1791.com/live/qt9k24wa/slot-55/2k5m-t871_1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="ARTTelevision.lk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/ART_Television_%28Sri_Lanka%29_%28logo%29.png/960px-ART_Television_%28Sri_Lanka%29_%28logo%29.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",ART Television (720p)
 https://mini.allinonereborn.fun/tata.php?id=11585
 #EXTINF:-1 tvg-id="arte.de@SD" tvg-logo="https://i.imgur.com/ecXMjNl.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Entertainment",arte (1080p)
@@ -5033,6 +5031,8 @@ https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8
 https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8
 #EXTINF:-1 tvg-id="Atlas.us@SD" tvg-logo="https://whiplash.cc/assets/img/channels/atlas.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Documentary",Atlas (480p)
 https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
+#EXTINF:-1 tvg-id="ATMRozrywkaREWORK.pl@HD" tvg-logo="https://i.ibb.co/B5BfmQNs/ATM.jpg" tvg-country="Unknown" tvg-language="Unknown" group-title="Entertainment",ATM Rozrywka REWORK (1080p)
+https://grupaatmrr.org.pl:8888/fallback/index.m3u8
 #EXTINF:-1 tvg-id="ATNBanglaUK.uk@SD" tvg-logo="https://i.imgur.com/vFpjggf.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",ATN Bangla UK (576p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ATNMusic.bd@SD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/atnmusic.jpg?x50681" tvg-country="Unknown" tvg-language="Unknown" group-title="Music",ATN Music (360p)
@@ -11641,12 +11641,10 @@ https://liveh12.vtvprime.vn/hls/HTVKey/index.m3u8
 https://fox.hostlagarto.com:8081/canalhtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="HTVSports.vn@SD" tvg-logo="" tvg-country="Unknown" tvg-language="Unknown" group-title="Sports",HTV Thể thao (1080p) [Geo-blocked]
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="HTV1.vn@SD" tvg-logo="" tvg-country="Unknown" tvg-language="Unknown" group-title="General",HTV1 (720p)
-https://vc.101vn.com/htv/htvcmb.php?id=2631
 #EXTINF:-1 tvg-id="HTV2.vn@SD" tvg-logo="" tvg-country="Unknown" tvg-language="Unknown" group-title="Entertainment;General",HTV2
 http://liveh12.vtvprime.vn/hls/HTV2/03.m3u8
-#EXTINF:-1 tvg-id="HTV3.vn@SD" tvg-logo="" tvg-country="Unknown" tvg-language="Unknown" group-title="Entertainment;General;Series",HTV3 (720p)
-https://vc.101vn.com/htv/htvcmb.php?id=2535
+#EXTINF:-1 tvg-id="HTV3.vn@SD" tvg-logo="" tvg-country="Unknown" tvg-language="Unknown" group-title="Entertainment;General;Series",HTV3
+https://liveh12byt.vtvprime.vn/hls/HTV3/03.m3u8
 #EXTINF:-1 tvg-id="HTV7.vn@HD" tvg-logo="" tvg-country="Unknown" tvg-language="Unknown" group-title="General",HTV7 HD (1080p)
 https://liveh12.vtvprime.vn/hls/HTV7HD/index.m3u8
 #EXTINF:-1 tvg-id="HTV9.vn@HD" tvg-logo="" tvg-country="Unknown" tvg-language="Unknown" group-title="General;News",HTV9 HD (1080p) [Geo-blocked]
@@ -13037,6 +13035,12 @@ https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kriv-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="Kronehit.at@SD" tvg-logo="https://i.imgur.com/dQJQv1X.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Music",Kronehit (1080p)
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="KSASports1.sa@SD" tvg-logo="https://i.imgur.com/ONKNOAp.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Sports",KSA Sports 1 (1080p)
+https://aloula-redirect.vercel.app/9/playlist.m3u8
+#EXTINF:-1 tvg-id="KSASports2.sa@SD" tvg-logo="https://i.imgur.com/v8ULLqg.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Sports",KSA Sports 2 (1080p)
+https://aloula-redirect.vercel.app/10/playlist.m3u8
+#EXTINF:-1 tvg-id="KSASports3.sa@SD" tvg-logo="https://i.imgur.com/BXfCvez.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Sports",KSA Sports 3 (1080p)
+https://aloula-redirect.vercel.app/16/playlist.m3u8
 #EXTINF:-1 tvg-id="KSAZTV101.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Fts-phoenix-a.svg/960px-Fts-phoenix-a.svg.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",KSAZ-DT1 (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ksaz-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="KSCE382.us@HD" tvg-logo="https://i.imgur.com/970zAEn.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Religious",KSCE Vida Cristiana (360p)
@@ -17251,8 +17255,6 @@ https://livestream.telvue.com/ogat1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlis
 https://cnn.hostlagarto.com/orbittv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="OrbitaChileTV.cl@HD" tvg-logo="https://i.imgur.com/gbNh79Z.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Movies;Music",Orbita Chile TV (1080p)
 https://orbitachiletv.org/hls/0/stream.m3u8
-#EXTINF:-1 tvg-id="ORF2.at@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/ORF2_logo_n.svg" tvg-country="Unknown" tvg-language="Unknown" group-title="General",ORF 2
-https://dash4.antik.sk/live/test_orf_zwei_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="ORF2.at@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/ORF2_logo_n.svg" tvg-country="Unknown" tvg-language="Unknown" group-title="General",ORF 2 (720p)
 https://orf2-247.mdn.ors.at/orf/orf2/qxa-247/manifest.m3u8
 #EXTINF:-1 tvg-id="ORF2Tirol.at@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/960px-ORF2_logo_n.svg.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",ORF 2 Tirol HD (720p) [Geo-Blocked]
@@ -23513,6 +23515,8 @@ https://thedovetv.bozztv.com/thedovetv/thedovetv/index.m3u8
 https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-country="Unknown" tvg-language="Unknown" group-title="Undefined",TheSorryGirls TV (1080p)
 https://d11iia85bv1ffj.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="ThikrayatTV.sa@SD" tvg-logo="https://i.imgur.com/AKa1X9d.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Classic",Thikrayat TV (1080p)
+https://aloula-redirect.vercel.app/3/playlist.m3u8
 #EXTINF:-1 tvg-id="ThisisBulgariaHD.bg@SD" tvg-logo="https://i.imgur.com/062jkXw.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Entertainment",This is Bulgaria HD (1080p)
 https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
 #EXTINF:-1 tvg-id="ThisOldHouse.us@SD" tvg-logo="https://i.imgur.com/nrVLyE6.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Series",This Old House (1080p)

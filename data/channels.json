@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-30T06:21:44.102897+00:00",
-  "total": 14136,
+  "updated_at": "2026-05-31T06:56:40.047063+00:00",
+  "total": 14145,
   "channels": [
     {
       "name": "Andorra TV",
@@ -24671,7 +24671,7 @@
       "id": "50e269ef40a9a0d26f21e8fbd6f55a3d"
     },
     {
-      "name": "6ter (1080p) [Geo-blocked] [Geo-Blocked]",
+      "name": "6ter (1080p) [Not 24/7]",
       "logo": "https://i.imgur.com/2nd5Cox.png",
       "category": "Entertainment",
       "country": "Unknown",
@@ -24682,7 +24682,7 @@
       "url": "https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "ef818c7f656ae65049ae2d0ec5fc31a5"
+      "id": "4814441b42271dea8cd69a8c47c9e9fc"
     },
     {
       "name": "7 RadioVisione (720p)",
@@ -95399,7 +95399,7 @@
       "id": "3dff165f1890e150e2f3d884edd6bd3b"
     },
     {
-      "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Sports\",Radio Turrialba TV Sports (720p) [Not 24/7]",
+      "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Sports\",Radio Turrialba TV Sports (720p)",
       "logo": "https://i.imgur.com/2ZcUXbE.png",
       "category": "Sports",
       "country": "Unknown",
@@ -95407,10 +95407,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "RadioTurrialbaTVSports.cr@SD",
-      "url": "https://live-stream.iblups.com/live/a5ae024a1bbc4a05a68debbc9d379db6bb6a6da3.m3u8",
+      "url": "https://sc2.escuela4.com/live/92974f62a8d5e5caf8f6d1c98fe9b2615f2238c5.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "ca204bc19f232da06d4ef875005b956b"
+      "id": "900eb1cf41901f4c2015835dceba9068"
     },
     {
       "name": "like Gecko) Chrome/129.0.0.0 Safari/537.36\" group-title=\"Undefined\",TV Bahia (1080i)",
@@ -102203,6 +102203,20 @@
       "id": "2887a5b336ff49de222c5a2884962774"
     },
     {
+      "name": "M6 Music",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/c/c9/M6_Music_%282012%29.png",
+      "category": "Music",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "M6Music.fr@SD",
+      "url": "https://test.946985.filegear-sg.me/proxy/803c517b325bfafc",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "babc62ff02895bfac8fdbb33894a87a8"
+    },
+    {
       "name": "M95 Televisión Marbella (1080p) [Not 24/7]",
       "logo": "https://i.imgur.com/RzAkP1V.png",
       "category": "News",
@@ -106331,6 +106345,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "959e1b12c14b8336933a9f165ad8c9ff"
+    },
+    {
+      "name": "Mezzo Live",
+      "logo": "https://i.imgur.com/H9ytKPN.png",
+      "category": "Music",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "MezzoLive.fr@SD",
+      "url": "https://test.946985.filegear-sg.me/proxy/749755700e4ed9c6",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "ca7c2ac4169bc5bb7c2ea4f6e009ca65"
     },
     {
       "name": "Mezőkövesdi Televízió (360p)",
@@ -117587,6 +117615,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "0b3c5eeef3a0827dc8f15cbdde904c07"
+    },
+    {
+      "name": "NRJ Hits",
+      "logo": "https://i.imgur.com/2xDVwOh.png",
+      "category": "Music",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "NRJHits.fr@SD",
+      "url": "https://test.946985.filegear-sg.me/proxy/a23981548880f405",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "474eab969cf2ed0c934226184c0704e5"
     },
     {
       "name": "NRK 1 (1080i) [Geo-blocked]",
@@ -131111,6 +131153,34 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "55b795776703f00674fe15c31d64c2fd"
+    },
+    {
+      "name": "Polsat Sport Premium 1",
+      "logo": "https://i.imgur.com/hy1SKE0.png",
+      "category": "Sports",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "PolsatSportPremium1.pl@SD",
+      "url": "https://test.946985.filegear-sg.me/proxy/2d01a86f2b919823",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "aae2d9a6e3c0deb78ec5cf8bc96f7442"
+    },
+    {
+      "name": "Polsat Sport Premium 2",
+      "logo": "https://i.imgur.com/myyWeXY.png",
+      "category": "Sports",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "PolsatSportPremium2.pl@SD",
+      "url": "https://test.946985.filegear-sg.me/proxy/0d12c4e1bf16ebac",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "71263aacb3000e24cd5c1180bb30fb49"
     },
     {
       "name": "Pomona Internet Streaming Channel (Pomona CA) (720p)",
@@ -151931,6 +152001,48 @@
       "id": "5677393596b8aab465610e246816ac33"
     },
     {
+      "name": "Sport TV1",
+      "logo": "https://i.imgur.com/YWic36u.png",
+      "category": "Sports",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "SportTV1.pt@SD",
+      "url": "https://test.946985.filegear-sg.me/proxy/b57707d48ea3395e",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "12559f20dc1cd9adc54221361ce49a52"
+    },
+    {
+      "name": "Sport TV5",
+      "logo": "https://i.imgur.com/4w4vuad.png",
+      "category": "Sports",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "SportTV5.pt@SD",
+      "url": "https://test.946985.filegear-sg.me/proxy/2e5a3cb38f72a6dd",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "193e8c1e1abd558b577efbf4a60781fd"
+    },
+    {
+      "name": "Sport TV7",
+      "logo": "https://i.imgur.com/2HmCAm5.png",
+      "category": "Sports",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "SportTV7.pt@SD",
+      "url": "https://test.946985.filegear-sg.me/proxy/a8c7608240dec023",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "e522c8d9ceeaf411c44d7f81be2849c6"
+    },
+    {
       "name": "Sport – Pluto TV",
       "logo": "https://i.imgur.com/o2psAYW.png",
       "category": "Vod Italy",
@@ -157133,10 +157245,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "TalkTV.uk@SD",
-      "url": "https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8",
+      "url": "https://488f4ce4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfVGFsa19ITFM/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "ad80dacad9d40021a14e9d715be30743"
+      "id": "92a20922426d18ee77d848011c46f548"
     },
     {
       "name": "TAM TV (720p)",
@@ -161883,6 +161995,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "e05ca5b7e922542ca5006e5365604569"
+    },
+    {
+      "name": "TF1 (720p)",
+      "logo": "https://i.imgur.com/QxHt9NC.png",
+      "category": "Entertainment",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "TF1.fr@SD",
+      "url": "https://test.946985.filegear-sg.me/proxy/71eb898aa398f1b9",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "f488769b9d7f73e38070a19bd897811a"
     },
     {
       "name": "TF1 HD (720p) [Geo-Blocked]",

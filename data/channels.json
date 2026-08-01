@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-31T06:09:08.597852+00:00",
-  "total": 15414,
+  "updated_at": "2026-08-01T05:52:30.637211+00:00",
+  "total": 15425,
   "channels": [
     {
       "name": "Andorra TV",
@@ -29781,7 +29781,7 @@
       "id": "176b6d6b98530bdf8320cf9dd17f32ec"
     },
     {
-      "name": "Ahlulbayt TV (1080p) [Not 24/7]",
+      "name": "Ahlulbayt TV (1080p)",
       "logo": "https://i.imgur.com/lNGJGjy.png",
       "category": "Religious",
       "country": "Unknown",
@@ -29789,10 +29789,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "AhlulbaytTV.uk@SD",
-      "url": "https://cdn5.iqsat.net/iqb02/35fae546b99b61a038d52353487e8190.sdp/playlist.m3u8",
+      "url": "https://cd198.anystream.uk:8082/hls/abtv3ng/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "7ad031cb7e877f286be06bb0753080df"
+      "id": "379bc0d4eba4c71ac74a8f4563032323"
     },
     {
       "name": "Ahora TV (1080p) [Not 24/7]",
@@ -35941,6 +35941,20 @@
       "id": "15b0dfed537e91980dedce296a3b6585"
     },
     {
+      "name": "Arryadia",
+      "logo": "https://i.imgur.com/XjzK3gZ.png",
+      "category": "Sports",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "Arryadia.ma@SD",
+      "url": "http://149.100.11.252:8000/play/a065/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "9d10769da98969c797272e26af8ef55c"
+    },
+    {
       "name": "ART (1080p)",
       "logo": "https://i.imgur.com/mNeLu04.png",
       "category": "Culture",
@@ -36149,6 +36163,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "2599fda0621c6d6ca0197e657e2aae2c"
+    },
+    {
+      "name": "ArubaTV +",
+      "logo": "https://i.imgur.com/9s6LZJZ.png",
+      "category": "Entertainment",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "ArubaTVPlus.aw@SD",
+      "url": "https://rtmpcontrol.com:1936/atvplus/ngrp:atvplus_all/playlist.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "c53aa0ca350f3d7a983a9cad03d05c65"
     },
     {
       "name": "Arvan TV",
@@ -41709,7 +41737,7 @@
       "id": "616bfd84a2a1788d4971fd9ae360618e"
     },
     {
-      "name": "beIN Sports USA (720p)",
+      "name": "beIN Sports USA (1080p) [Geo-blocked]",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png",
       "category": "Sports",
       "country": "Unknown",
@@ -41717,10 +41745,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "beINSportsUSA.us@SD",
-      "url": "http://23.237.104.106:8080/USA_BEIN/index.m3u8",
+      "url": "https://messi.damitv.st/papi/ts/beinsports-usa/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "32d5389c027cf366b0573e0c174b7a6e"
+      "id": "bf58102e5692feac20345d1d40b24223"
     },
     {
       "name": "beIN SPORTS XTRA (1080p)",
@@ -46693,6 +46721,20 @@
       "id": "c216ecd7b1d136cd70915b17fded36ee"
     },
     {
+      "name": "BVC",
+      "logo": "https://i.imgur.com/I06TSx0.png",
+      "category": "Undefined",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "BVC.ar@SD",
+      "url": "https://vivo.solumedia.com:19360/bvnet/bvnet.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "0742227549cf7d659d30eb6b4d9cd41a"
+    },
+    {
       "name": "BX Arts (720p)",
       "logo": "https://i.imgur.com/PF71rdZ.png",
       "category": "Culture",
@@ -48945,6 +48987,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "83a591b8710d05220d8e9c64abaaa704"
+    },
+    {
+      "name": "Canal 4 Esquel",
+      "logo": "https://i.imgur.com/6kbOr16.png",
+      "category": "Undefined",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "Canal4Esquel.ar@SD",
+      "url": "https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "db0504993ff30735dbf1b2066c68e762"
     },
     {
       "name": "Canal 4 Jujuy",
@@ -60728,6 +60784,20 @@
       "country_name": "Unknown",
       "language": "Unknown",
       "nsfw": false,
+      "tvg_id": "CosmosTv.ar@HD",
+      "url": "https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "3464c59a1ad498824f79c5dc3d74c61f"
+    },
+    {
+      "name": "Cosmos Tv",
+      "logo": "https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png",
+      "category": "Movies;News",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
       "tvg_id": "CosmosTv.ar@SD",
       "url": "https://canaletaplus.com:3922/live/cosmoslive.m3u8",
       "source": "iptv-org/index",
@@ -62653,7 +62723,7 @@
       "id": "fd03c300d064b36610a5daaeab2cccf5"
     },
     {
-      "name": "CW (720p)",
+      "name": "CW (1080p) [Geo-blocked]",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/960px-The_CW_2024.svg.png",
       "category": "General",
       "country": "Unknown",
@@ -62661,10 +62731,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "CW.us@East",
-      "url": "https://gpuserver3.tier1streams.com/CW/index.m3u8",
+      "url": "https://messi.damitv.st/papi/ts/cw-usa/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "20201968d1a0741e44158e03d672f68a"
+      "id": "c9f542574ac0f7532cd04ccd2958787f"
     },
     {
       "name": "CW FOREVER (1080p)",
@@ -64599,7 +64669,7 @@
       "id": "5169333448febfb2e9b1d77bae25a720"
     },
     {
-      "name": "Deen TV (576p) [Not 24/7]",
+      "name": "Deen TV (576p)",
       "logo": "https://i.imgur.com/Zp62Nbd.png",
       "category": "General",
       "country": "Unknown",
@@ -64607,10 +64677,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "DeenTV.uk@SD",
-      "url": "https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8",
+      "url": "https://cd198.anystream.uk:9092/iqapp/d33ntv/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "7718291ec05ca7634c9b37c7b638d3d2"
+      "id": "64c5cd0146240fea17180c9c1778e0bd"
     },
     {
       "name": "DeepHouse District (1080p)",
@@ -84815,6 +84885,20 @@
       "id": "804e2fedc1472007d4c0d67e72cc83a9"
     },
     {
+      "name": "Heart Radio Aruba",
+      "logo": "https://i.imgur.com/MKZCskA.png",
+      "category": "Music",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "HeartRadioAruba.aw@SD",
+      "url": "https://live2.tensila.com/heart-v-1.heartar/hls/live/mystream.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "fb438f6c84eda7a0856fd7bd0ede9435"
+    },
+    {
       "name": "HeartFelt TV (1080p)",
       "logo": "",
       "category": "Undefined",
@@ -91535,7 +91619,7 @@
       "id": "e930a8c92c2bd70846f9b15205dbffd6"
     },
     {
-      "name": "It's Supernatural! Network (ISN Network) (1080p)",
+      "name": "It's Supernatural! Network (1080p)",
       "logo": "https://i.imgur.com/JWrdL9a.png",
       "category": "Religious",
       "country": "Unknown",
@@ -91543,10 +91627,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "ItsSupernaturalNetwork.us@SD",
-      "url": "https://content.uplynk.com/channel/fbc0f835332e476397b12216f9042f78.m3u8",
+      "url": "https://content.uplynk.com/channel/b880a791bf95426d917a509e0c44796a.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "920e62875526e971fb5b57db582484d2"
+      "id": "00441cafd7bc08659b93c00e8d0d39b2"
     },
     {
       "name": "IT-3 (720p)",
@@ -93899,6 +93983,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "2a610d96e0d319b5055001700e2ebf88"
+    },
+    {
+      "name": "JTBS Classic (480p)",
+      "logo": "https://jtbs-classic.web.app/logo.png",
+      "category": "Culture;Religious",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "JTBSClassic.in@Main",
+      "url": "https://jtbsclassic.dpdns.org/live.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "5cc015def5963be1a1e92d9b98d5a602"
     },
     {
       "name": "JTV (720p)",
@@ -125247,6 +125345,20 @@
       "id": "ccbabd7cd4fc9983e69f54b546d54659"
     },
     {
+      "name": "NBC Sports Bay Area (1080p) [Geo-blocked]",
+      "logo": "https://i.imgur.com/MTgUVKx.png",
+      "category": "Sports",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "NBCSportsBayArea.us@SD",
+      "url": "https://messi.damitv.st/papi/ts/nbc-sports-bayarea/playlist.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "119babe351676349f11e1ff94d45331f"
+    },
+    {
       "name": "NBC Sports Chicago (720p)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/NBC_Sports_Chicago_Logo.svg/500px-NBC_Sports_Chicago_Logo.svg.png",
       "category": "Sports",
@@ -125273,6 +125385,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "e33254fcddbcaf53e527565ee10b3f07"
+    },
+    {
+      "name": "NBC Sports Philadelphia (1080p) [Geo-blocked]",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/NBC_Sports_Philadelphia.png/960px-NBC_Sports_Philadelphia.png",
+      "category": "Sports",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "NBCSportsPhiladelphia.us@SD",
+      "url": "https://messi.damitv.st/papi/ts/nbc-sports-philly/playlist.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "f634d2741d535ff201f7492ac688b47c"
     },
     {
       "name": "NBC TV (1080p) [Not 24/7]",
@@ -127221,7 +127347,7 @@
       "id": "c0b3a170abf5082e9a7b486412c90507"
     },
     {
-      "name": "NFL Network (720p)",
+      "name": "NFL Network (1080p) [Geo-blocked]",
       "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png",
       "category": "Sports",
       "country": "Unknown",
@@ -127229,10 +127355,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "NFLNetwork.us@SD",
-      "url": "http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8",
+      "url": "https://messi.damitv.st/papi/ts/nflnetwork-usa/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "8caae7912348f4ad33951eb0f9b8f468"
+      "id": "ab147bf74f9df79dc013364404a0030f"
     },
     {
       "name": "NG Federal (720p)",
@@ -131727,6 +131853,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "035f4a1ffe8f1e6b81d694519a170620"
+    },
+    {
+      "name": "Omega (720p)",
+      "logo": "https://i.imgur.com/doybFbZ.png",
+      "category": "Religious",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "Omega.is@SD",
+      "url": "https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiJkM2NlZTBhY2RmYTlkNWUzMTQ1MzMyMjk4Y2FlNGQ1YiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzg1NTYxNzEyLCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.mbhyruuIdBBCY-HxJTyLdG3OH1nvFFuzwhBGEainaCV5EkRv20p22JUd-x8yzyghm_X-soPuxO_h_lf6aSsxQz1qMCQ8ZGcN_GVRW8j2Tv3hRJTj_DQnxk0s5LXmrQCkUo1szfCNjkOaa062r3x5qL1-kZ5fKDRnSBpGJyx_H6G1SHOTzlTd9mGggrZ3aH7Omuu1vKDHvxE-C0oN0KpgjO0oht5DM9ClTtXB1Wabu0mqfYRGXBpuBHhAn7hvDOxHTlWrtTUMcUXv5uQ-oXyfLCqHHFk_CV2TUUq6lmO6sIC93EeZrBWFQJr_t32xGMJpgOhfxjaL39B5XeUYypzAGQ/manifest/video.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "3317d05874b852b55d86edb7c04fd56f"
     },
     {
       "name": "Omega TV (720p) [Not 24/7]",
@@ -173057,6 +173197,20 @@
       "id": "6dd0619e88cff9f76c4db7e85c836d89"
     },
     {
+      "name": "Takbeer TV (720p)",
+      "logo": "https://i.imgur.com/Cvnps2J.jpg",
+      "category": "Undefined",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "TakbeerTV.uk@SD",
+      "url": "https://cd198.anystream.uk:9092/iqapp/t5kb86tv/playlist.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "42e4f064dcafbc2df9c736d1ed086320"
+    },
+    {
       "name": "Takeshi's Castle",
       "logo": "https://images.pluto.tv/channels/6054a9f4bc8a5f000771504c/colorLogoPNG.png",
       "category": "Comedy",
@@ -176431,7 +176585,7 @@
       "id": "e01cea0283b5e220d29d42fa559ab385"
     },
     {
-      "name": "Telemundo (720p)",
+      "name": "Telemundo (1080p)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png",
       "category": "General",
       "country": "Unknown",
@@ -176439,10 +176593,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Telemundo.us@East",
-      "url": "http://170.254.17.2:80/TELEMUNDO/index.m3u8",
+      "url": "http://45.190.13.8/TelemundoHD/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "7b21dec7b659084c675f80ee2fcc8301"
+      "id": "e59c354e5ee382f9eacd72583d999501"
     },
     {
       "name": "Telemundo Accion (1080p)",
@@ -176585,7 +176739,7 @@
       "id": "6252e9b20ea14d0191aa097595d6f7e6"
     },
     {
-      "name": "Telemundo West (720p)",
+      "name": "Telemundo West (1080p) [Geo-blocked]",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png",
       "category": "General",
       "country": "Unknown",
@@ -176593,10 +176747,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Telemundo.us@West",
-      "url": "http://181.119.108.43:9001/play/a044/index.m3u8",
+      "url": "https://messi.damitv.st/papi/ts/telemundo-usa/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "67e94bb09c3931375b1ab692cb075a63"
+      "id": "d670761a0c609871b0ffbad314e736c6"
     },
     {
       "name": "TeleMusik Senegal (720p)",
@@ -205257,7 +205411,7 @@
       "id": "8500ddb4c128768af1d8c705cdc85059"
     },
     {
-      "name": "Yazd",
+      "name": "Yazd TV",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Yazd_taban.svg/960px-Yazd_taban.svg.png",
       "category": "Undefined",
       "country": "Unknown",
@@ -205265,10 +205419,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "YazdTV.ir@SD",
-      "url": "https://ncdn.telewebion.ir/taban/live/playlist.m3u8",
+      "url": "http://89.45.60.82/0.ts",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "ceffb1b82bc2412ee4964080a282c0d1"
+      "id": "e0c1f8127ddd0ef5feec220dd6a7c518"
     },
     {
       "name": "Yemen Shabab Channel (1080p)",

@@ -6221,8 +6221,6 @@ https://jireh-7-hls-video-us-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f
 https://dkaiai6digij6.cloudfront.net/Lights_Legends_Icons.m3u8
 #EXTINF:-1 tvg-id="BiosferaTV.es@SD" tvg-logo="https://i.imgur.com/khytcgd.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Undefined",Biosfera TV (720p) [Not 24/7]
 https://tvdatta.com:3021/live/biosferatvlive.m3u8
-#EXTINF:-1 tvg-id="BioskopTelkomVision.id@HD" tvg-logo="https://hosting.renderforestsites.com/35126779/1657983/media/2471109432fded503146d8fcf24c151e.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Movies",Bioskop TelkomVision (576p)
-https://gist.githubusercontent.com/iptvonlinetv/8bf6f2e766091c54a07743ac6827f0f4/raw/afa1fdc6afa1fed44a29458da114bf98c2f9a0d6/udp810.710.800:2000.m3u8
 #EXTINF:-1 tvg-id="BirTV.tr@SD" tvg-logo="https://birtv.tv/assets/upload/637f83951df60.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Undefined",Bir TV (720p)
 https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="bitMe.mx@SD" tvg-logo="https://i.imgur.com/79hrcx8.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Entertainment",bitMe (1080p)
@@ -8364,7 +8362,7 @@ https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlis
 #EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://i.imgur.com/bUfeG7Y.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Business",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 tvg-id="CNBCIndonesia.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/CNBC_Indonesia_2025.svg/960px-CNBC_Indonesia_2025.svg.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Business",CNBC Indonesia (720p)
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CNBCTV18.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNBCTV18.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Business",CNBC TV18 (1080p)
 https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-id="CNBCTV18PrimeHD.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNBCTV18Prime.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Business",CNBC TV18 Prime HD (1080p)
@@ -9915,12 +9913,10 @@ https://jmp2.uk/plu-64d1606b4c5ed80008e3b8b9.m3u8
 https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="E24.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_E24/images/LOGO_HD/image.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Entertainment",E 24 (576p)
 https://trs1.aynaott.com/e24/index.m3u8
-#EXTINF:-1 tvg-id="EInternational.id@America" tvg-logo="https://hosting.renderforestsites.com/35126779/1659328/media/1058391c8059a0d092426e145d55951b.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",E International (576p)
-https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp120.510.450:6060.m3u8
 #EXTINF:-1 tvg-id="EInternational.id@Asia" tvg-logo="https://hosting.renderforestsites.com/35126779/1659328/media/1058391c8059a0d092426e145d55951b.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",E International Asia (576p)
 https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp315.520.789:8060.m3u8
 #EXTINF:-1 tvg-id="EInternational.id@Europe" tvg-logo="https://hosting.renderforestsites.com/35126779/1659328/media/1058391c8059a0d092426e145d55951b.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",E International Europe (576p)
-https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp410.310.578:2020.m3u8
+https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp120.510.450:6060.m3u8
 #EXTINF:-1 tvg-id="E.us@East" tvg-logo="https://i.imgur.com/TWFDkap.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Entertainment",E! (1080p)
 http://23.237.104.106:8080/USA_E/index.m3u8
 #EXTINF:-1 tvg-id="E.us@Greece" tvg-logo="https://i.imgur.com/TWFDkap.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Entertainment",E! (720p)
@@ -11859,6 +11855,8 @@ https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlis
 https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
 #EXTINF:-1 tvg-id="GreenGoldTV.np@SD" tvg-logo="https://i.ibb.co/TDPsPVkT/Greengoldtv.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Kids",Green Gold TV
 https://vglivessai.akamaized.net/eu/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/fbdb017c-7b61-4f62-8719-28b27e44c862/4.m3u8
+#EXTINF:-1 tvg-id="GreenGoldTV.np@HD" tvg-logo="https://i.ibb.co/TDPsPVkT/Greengoldtv.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Kids",Green Gold TV HD
+https://vglivessai.akamaized.net/eu/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/fbdb017c-7b61-4f62-8719-28b27e44c862/0.m3u8
 #EXTINF:-1 tvg-id="GreenTV.bd@SD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/12/green-tv.jpg" tvg-country="Unknown" tvg-language="Unknown" group-title="Family",Green TV (1080p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="GreensboroTV.us@SD" tvg-logo="" tvg-country="Unknown" tvg-language="Unknown" group-title="Legislative",Greensboro TV (Greensboro NC) (720p)
@@ -14643,6 +14641,8 @@ http://88.212.15.19/live/moziklub_atk/index.m3u8
 http://88.212.15.19/live/sorozatklub_atk/index.m3u8
 #EXTINF:-1 tvg-id="1Plus1Ukraina.ua@SD" tvg-logo="https://i.imgur.com/FlG7npq.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="General",1+1 Ukraina (1080p)
 http://stream.mcquack.net/219/index.m3u8
+#EXTINF:-1 tvg-id="ArmeniaTV.am@SD" tvg-logo="https://i.imgur.com/UnoI5uM.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="General",Armenia TV (720p)
+http://starcius-cinema.com/20690/index.m3u8
 #EXTINF:-1 tvg-id="Qazaqstan.kz@SD" tvg-logo="https://i.imgur.com/oI8g396.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="General",Qazaqstan (1080p)
 https://vs137.vcdn.biz/6aa0d03eb8d337c5a12c8275477af53a_megogo/live/hls/b/700_2490_4000/u_sid/0/o/229009131/rsid/15fbd560-a86a-45ca-8058-baf9f5f61c8e/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/45.80.208.174*asn/u_srvc/84416/u_did/web_MjE7M10AtBKsWN3CHzhzNBgiG7LkULPx/type.live/chunklist-sid8840242905769027046-b4000000.m3u8
 #EXTINF:-1 tvg-id="Kolyokklub.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/K%C3%B6ly%C3%B6kklub_II.svg/1920px-K%C3%B6ly%C3%B6kklub_II.svg.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Kids",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Kids",Kolyokklub
@@ -14909,13 +14909,13 @@ https://server.thelegitpro.in/northeastlive/northeastlive/index.fmp4.m3u8
 https://powertvkannada.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="CiudadMagazine.ar@SD" tvg-logo="https://i.imgur.com/V1xZV72.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",like Gecko) Chrome/143.0.0.0 Safari/537.36" group-title="General",Ciudad Magazine (1080p)
 http://190.7.19.197:232/play/a04l/index.m3u8
-#EXTINF:-1 tvg-id="BloombergTVMongolia.mn@SD" tvg-logo="https://i.imgur.com/OuogLHx.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Business",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Business",Bloomberg TV Mongolia HD (1080p)
+#EXTINF:-1 tvg-id="BloombergTVMongolia.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/44.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Business",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Business",Bloomberg TV Mongolia HD (1080p)
 https://cdn4.skygo.mn/live/disk1/BloombergMon/DASH-FTA/BloombergMon.mpd
 #EXTINF:-1 tvg-id="CNBCMongolia.mn@SD" tvg-logo="https://cnbc.mn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F07.5c42b114.png&w=828&q=75" tvg-country="Unknown" tvg-language="Unknown" group-title="Business;News",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Business;News",CNBC Mongolia (720p)
 https://cdn4.skygo.mn/live/disk1/CNBC/HLSv3-FTA/CNBC.m3u8
-#EXTINF:-1 tvg-id="MalchinTV.mn@SD" tvg-logo="https://i.imgur.com/vCdEBZo.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Culture",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Culture",Malchin TV (1080p)
+#EXTINF:-1 tvg-id="MalchinTV.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/12.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Culture",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Culture",Malchin TV (1080p)
 https://cdn4.skygo.mn/live/disk1/Malchin/DASH-FTA/Malchin.mpd
-#EXTINF:-1 tvg-id="EdutainmentTV.mn@SD" tvg-logo="https://i.imgur.com/0m8t3vh.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Education;Entertainment",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Education;Entertainment",Education (1080p)
+#EXTINF:-1 tvg-id="EdutainmentTV.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/8.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Education;Entertainment",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Education;Entertainment",Education (1080p)
 https://cdn4.skygo.mn/live/disk1/Education/DASH-FTA/Education.mpd
 #EXTINF:-1 tvg-id="AsianBox.mn@SD" tvg-logo="https://i.imgur.com/WAYZSgx.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Entertainment",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Entertainment",AsianBox (1080p)
 https://cdn4.skygo.mn/live/disk1/AsianBOX/DASH-FTA/AsianBOX.mpd
@@ -14923,37 +14923,37 @@ https://cdn4.skygo.mn/live/disk1/AsianBOX/DASH-FTA/AsianBOX.mpd
 https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
 #EXTINF:-1 tvg-id="STSLove.ru@SD" tvg-logo="https://i.imgur.com/YBVZoDd.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Family",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Family",STS Love (576i)
 https://cdn4.skygo.mn/live/disk1/Fashion_TV/HLSv3-FTA/Fashion_TV.m3u8
-#EXTINF:-1 tvg-id="C1.mn@SD" tvg-logo="https://i.imgur.com/v1mHG5x.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",C1 (1080p)
+#EXTINF:-1 tvg-id="C1.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/11.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",C1 (1080p)
 https://cdn4.skygo.mn/live/disk1/C1/DASH-FTA/C1.mpd
-#EXTINF:-1 tvg-id="CentralTV.mn@SD" tvg-logo="https://i.imgur.com/E9wAUrT.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",Central TV (1080p)
+#EXTINF:-1 tvg-id="CentralTV.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/7.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",Central TV (1080p)
 https://cdn4.skygo.mn/live/disk1/Ekh_Oron/DASH-FTA/Ekh_Oron.mpd
 #EXTINF:-1 tvg-id="Channel11.mn@SD" tvg-logo="https://i.imgur.com/GztOajC.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",Channel 11 (1080p)
 https://cdn4.skygo.mn/live/disk1/Channel11/DASH-FTA/Channel11.mpd
 #EXTINF:-1 tvg-id="LotusTV.mo@SD" tvg-logo="https://i.imgur.com/7j8Lnog.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",Lotus Macau HD 720p (720p)
 https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
-#EXTINF:-1 tvg-id="TV25.mn@SD" tvg-logo="https://i.imgur.com/F3MMJMd.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",MN25 (1080p)
+#EXTINF:-1 tvg-id="TV25.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/5.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",MN25 (1080p)
 https://cdn4.skygo.mn/live/disk1/MN25/DASH-FTA/MN25.mpd
 #EXTINF:-1 tvg-id="MNB.mn@SD" tvg-logo="https://i.imgur.com/RdRd0to.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",MNB (1080p)
 https://cdn4.skygo.mn/live/disk1/MNB/DASH-FTA/MNB.mpd
-#EXTINF:-1 tvg-id="MNBWorld.mn@SD" tvg-logo="https://i.imgur.com/PHlj84Q.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",MNB World (1080p)
+#EXTINF:-1 tvg-id="MNBWorld.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/22.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",MNB World (1080p)
 https://cdn4.skygo.mn/live/disk1/MNB_World/DASH-FTA/MNB_World.mpd
-#EXTINF:-1 tvg-id="NTV.mn@SD" tvg-logo="https://i.imgur.com/2JbqbPY.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",NTV (1080p)
+#EXTINF:-1 tvg-id="NTV.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/10.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",NTV (1080p)
 https://cdn4.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd
 #EXTINF:-1 tvg-id="ONTV.mn@SD" tvg-logo="https://i.imgur.com/EzODUBO.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",ONTV (1080p)
 https://cdn4.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd
 #EXTINF:-1 tvg-id="SBN.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/14.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",SBN (1080p)
 https://cdn4.skygo.mn/live/disk1/SBN/DASH-FTA/SBN.mpd
-#EXTINF:-1 tvg-id="StarTV.mn@SD" tvg-logo="https://i.imgur.com/R6hxJgl.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",Star TV (1080p)
+#EXTINF:-1 tvg-id="StarTV.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/15.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",Star TV (1080p)
 https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd
-#EXTINF:-1 tvg-id="TenGerTV.mn@SD" tvg-logo="https://i.imgur.com/MmPvkcO.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",TenGer TV (1080p)
+#EXTINF:-1 tvg-id="TenGerTV.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/17.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",TenGer TV (1080p)
 https://cdn4.skygo.mn/live/disk1/VTV/DASH-FTA/VTV.mpd
-#EXTINF:-1 tvg-id="TMTV.mn@SD" tvg-logo="https://i.imgur.com/Bza9r7U.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",TM TV (1080p)
+#EXTINF:-1 tvg-id="TMTV.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/19.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",TM TV (1080p)
 https://cdn4.skygo.mn/live/disk1/TM/DASH-FTA/TM.mpd
-#EXTINF:-1 tvg-id="TV5.mn@SD" tvg-logo="https://i.imgur.com/asGQfGN.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",TV5 HD (1080p)
+#EXTINF:-1 tvg-id="TV5.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/6.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",TV5 HD (1080p)
 https://cdn4.skygo.mn/live/disk1/TV5HD/DASH-FTA/TV5HD.mpd
-#EXTINF:-1 tvg-id="TV8.mn@SD" tvg-logo="https://i.imgur.com/EguOdxW.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",TV8 HD (1080p)
+#EXTINF:-1 tvg-id="TV8.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/18.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",TV8 HD (1080p)
 https://cdn4.skygo.mn/live/disk1/TV8HD/DASH-FTA/TV8HD.mpd
-#EXTINF:-1 tvg-id="TV9.mn@SD" tvg-logo="https://i.imgur.com/QFteAgd.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",TV9 HD (1080p)
+#EXTINF:-1 tvg-id="TV9.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/9.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",TV9 HD (1080p)
 https://cdn4.skygo.mn/live/disk1/TV9HD/DASH-FTA/TV9HD.mpd
 #EXTINF:-1 tvg-id="UBS.mn@SD" tvg-logo="https://i.imgur.com/dIRMYYd.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",UBS (1080p)
 https://cdn4.skygo.mn/live/disk1/UBSHD/DASH-FTA/UBSHD.mpd
@@ -14961,7 +14961,7 @@ https://cdn4.skygo.mn/live/disk1/UBSHD/DASH-FTA/UBSHD.mpd
 https://cdn4.skygo.mn/live/disk1/MIR/HLSv3-FTA/MIR.m3u8
 #EXTINF:-1 tvg-id="SoyonGegeeruulegchTV.mn@SD" tvg-logo="https://i.imgur.com/iBZVvtW.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",Соён Гэгээрүүлэгч (1080p)
 https://cdn4.skygo.mn/live/disk1/SoyonGegeeruulegch/DASH-FTA/SoyonGegeeruulegch.mpd
-#EXTINF:-1 tvg-id="UlziiTV.mn@SD" tvg-logo="https://i.imgur.com/p7tsUTI.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",Өлзий ТВ (1080p)
+#EXTINF:-1 tvg-id="UlziiTV.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/28.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="General",Өлзий ТВ (1080p)
 https://cdn4.skygo.mn/live/disk1/UlziiTV/DASH-FTA/UlziiTV.mpd
 #EXTINF:-1 tvg-id="ParliamentTV.mn@SD" tvg-logo="https://i.imgur.com/OD7YKuz.jpeg" tvg-country="Unknown" tvg-language="Unknown" group-title="Legislative",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Legislative",Parliament TV (1080p)
 https://cdn4.skygo.mn/live/disk1/Parlament/DASH-FTA/Parlament.mpd
@@ -14973,11 +14973,11 @@ https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8
 https://cdn4.skygo.mn/live/disk1/CinemaTV/DASH-FTA/CinemaTV.mpd
 #EXTINF:-1 tvg-id="MovieBox.mn@SD" tvg-logo="https://i.imgur.com/xeO1Zb4.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Movies",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Movies",MovieBox (1080p)
 https://cdn4.skygo.mn/live/disk1/Moviebox/DASH-FTA/Moviebox.mpd
-#EXTINF:-1 tvg-id="EagleNews.mn@SD" tvg-logo="https://i.imgur.com/2oqXpve.jpg" tvg-country="Unknown" tvg-language="Unknown" group-title="News",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="News",Eagle News HD (1080p)
+#EXTINF:-1 tvg-id="EagleNews.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/13.png" tvg-country="Unknown" tvg-language="Unknown" group-title="News",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="News",Eagle News HD (1080p)
 https://cdn4.skygo.mn/live/disk1/Eagle/DASH-FTA/Eagle.mpd
 #EXTINF:-1 tvg-id="ETV.mn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/ETV_Mongolia_logo.png/960px-ETV_Mongolia_logo.png" tvg-country="Unknown" tvg-language="Unknown" group-title="News",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="News",ETV (1080p)
 https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd
-#EXTINF:-1 tvg-id="MongolianNewsChannel.mn@SD" tvg-logo="https://i.imgur.com/gMVqbwU.png" tvg-country="Unknown" tvg-language="Unknown" group-title="News",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="News",MNC (1080p)
+#EXTINF:-1 tvg-id="MongolianNewsChannel.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/25.png" tvg-country="Unknown" tvg-language="Unknown" group-title="News",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="News",MNC (1080p)
 https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-country="Unknown" tvg-language="Unknown" group-title="Undefined",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",Auto TV (1080p)
 https://cdn4.skygo.mn/live/disk1/AutoTV/DASH-FTA/AutoTV.mpd
@@ -14993,13 +14993,13 @@ https://cdn4.skygo.mn/live/disk1/GlobalTV/DASH-FTA/GlobalTV.mpd
 https://cdn4.skygo.mn/live/disk1/MNB_Family/DASH-FTA/MNB_Family.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-country="Unknown" tvg-language="Unknown" group-title="Undefined",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",MNB Гэр бүл (1080p)
 https://cdn4.skygo.mn/live/disk1/MNB_Family/HLSv3-FTA/MNB_Family.m3u8
-#EXTINF:-1 tvg-id="MNBMongoliinMedee.mn@SD" tvg-logo="https://i.imgur.com/KUvJzUD.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Undefined",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",MNB Монголын Мэдээ (1080p)
+#EXTINF:-1 tvg-id="MNBMongoliinMedee.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/21.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Undefined",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",MNB Монголын Мэдээ (1080p)
 https://cdn4.skygo.mn/live/disk1/MNB2/DASH-FTA/MNB2.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-country="Unknown" tvg-language="Unknown" group-title="Undefined",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",Popcorn (1080p)
 https://cdn4.skygo.mn/live/disk1/Popcorn/DASH-FTA/Popcorn.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-country="Unknown" tvg-language="Unknown" group-title="Undefined",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",Popcorn (720p)
 https://cdn4.skygo.mn/live/disk1/Popcorn/HLSv3-FTA/Popcorn.m3u8
-#EXTINF:-1 tvg-id="SuldTV.mn@SD" tvg-logo="https://i.imgur.com/CnLxehv.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Undefined",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",Suld TV (1080p)
+#EXTINF:-1 tvg-id="SuldTV.mn@SD" tvg-logo="https://www.mongolsat.mn/assets/img/channel/20.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Undefined",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",Suld TV (1080p)
 https://cdn4.skygo.mn/live/disk1/SuldTV/DASH-FTA/SuldTV.mpd
 #EXTINF:-1 tvg-id="TV4.mn@SD" tvg-logo="https://i.imgur.com/WSvUsxy.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Undefined",like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",TV4 (1080p)
 https://cdn4.skygo.mn/live/disk1/TV4/DASH-FTA/TV4.mpd
@@ -21691,8 +21691,8 @@ http://181.78.14.26:4000/play/a07m/index.m3u8
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NoticiasRCN.co@SD" tvg-logo="https://i.imgur.com/FMX4QCM.png" tvg-country="Unknown" tvg-language="Unknown" group-title="News",RCN Noticias (720p)
 https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8
-#EXTINF:-1 tvg-id="RCNNovelas.co@SD" tvg-logo="https://i.imgur.com/9wxdWNQ.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Entertainment",RCN Novelas (720p)
-http://170.238.200.199:80/rcn-novelas/index.m3u8
+#EXTINF:-1 tvg-id="RCNNovelas.co@SD" tvg-logo="https://i.imgur.com/9wxdWNQ.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Entertainment",RCN Novelas (1080p)
+https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RCTI.id@HD" tvg-logo="https://i.imgur.com/iLFx8ia.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",RCTI HD (720p)
 https://indihuy.streamized.net/atm/DASH/rcti/manifest.mpd
 #EXTINF:-1 tvg-id="RCTV.id@SD" tvg-logo="https://i.imgur.com/CyIlt0y.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Undefined",RCTV (720p) [Not 24/7]
@@ -23717,7 +23717,7 @@ https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/
 https://sl.vodep39240327.workers.dev/channel/SONY+MARATHI.m3u8
 #EXTINF:-1 tvg-id="SonyMax.uk@SD" tvg-logo="https://i.imgur.com/LBICKI5.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Undefined",Sony Max (576p)
 https://edge2.roarzone.info:8447/roarzone/edge3/sony-max/index.m3u8
-#EXTINF:-1 tvg-id="SonyMax1.in@SD" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1822_2.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Movies",Sony Max 1 (720p)
+#EXTINF:-1 tvg-id="SonyMax1.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s179440_ld_h15_aa.png?lock=720x540" tvg-country="Unknown" tvg-language="Unknown" group-title="Movies",Sony Max 1 (720p)
 http://103.159.180.34:5001/live/3418.m3u8
 #EXTINF:-1 tvg-id="SonyMax2.in@SD" tvg-logo="https://i.imgur.com/gqUYk6C.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Movies",Sony Max 2 (576p)
 http://149.71.34.166:8000/play/a00z/index.m3u8
@@ -25137,10 +25137,10 @@ https://lbgo.bozztv.com/ssh101/ssh101/telecauquenestv/playlist.m3u8
 https://teleceiba.com/stream/tlcb720.m3u8
 #EXTINF:-1 tvg-id="Telecentro.do@SD" tvg-logo="https://i.imgur.com/F17zNXh.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",Telecentro (1080p)
 https://live2.telemicro.com.do/live/telecentrocast_1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="Telecentro.ve@SD" tvg-logo="https://i.imgur.com/QtRNfaj.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",Telecentro (480p) [Not 24/7]
+https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8
 #EXTINF:-1 tvg-id="TeleCentro.pe@SD" tvg-logo="https://i.imgur.com/g61TdZ3.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",TeleCentro (720p)
 https://live-evg7.tv360.bitel.com.pe/bitel/telecentro/playlist.m3u8
-#EXTINF:-1 tvg-id="Telecentro.ve@SD" tvg-logo="https://i.imgur.com/QtRNfaj.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",Telecentro (720p)
-https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8
 #EXTINF:-1 tvg-id="TeleChiara.it@SD" tvg-logo="https://i.imgur.com/LpXeY4v.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",Telechiara (720p)
 http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleCibaoHD.do@SD" tvg-logo="https://i.imgur.com/IpInp05.png" tvg-country="Unknown" tvg-language="Unknown" group-title="General",TeleCibaoHD (720p) [Not 24/7]
@@ -28965,6 +28965,8 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
 #EXTINF:-1 tvg-id="WGALDT3.us@SD" tvg-logo="https://i.imgur.com/KQSKIdZ.jpeg" tvg-country="Unknown" tvg-language="Unknown" group-title="News",WGAL-DT3 (1080p) [Geo-blocked]
 https://lowa8026-cmyk.github.io/iptv/WGAL-DT3/index.m3u8
+#EXTINF:-1 tvg-id="WGBODT661.us@HD" tvg-logo="https://i.imgur.com/5RIEi99.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Undefined",WGBO-DT 66.1 (2160p)
+https://unidfp-nlds154.global.ssl.fastly.net/nlds/univisionnow/univision_chi2/as/live/univision_chi2_hd_pc.m3u8?t1=null
 #EXTINF:-1 tvg-id="WGGSTV161.us@HD" tvg-logo="https://i.imgur.com/Btw83JA.png" tvg-country="Unknown" tvg-language="Unknown" group-title="Undefined",WGGS-DT1 (720p)
 https://cdn-unified-hls.streamspot.com/ingest1/c7956aac88/playlist.m3u8?origin=1
 #EXTINF:-1 tvg-id="WGGSTV162.us@SD" tvg-logo="https://i.imgur.com/UfN6aAi.png" tvg-country="Unknown" tvg-language="Unknown" group-title="News",WGGS-DT2 (720p)

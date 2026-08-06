@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-05T05:43:03.119983+00:00",
-  "total": 15436,
+  "updated_at": "2026-08-06T05:45:41.664933+00:00",
+  "total": 15437,
   "channels": [
     {
       "name": "Andorra TV",
@@ -43557,20 +43557,6 @@
       "id": "b6f14bab22f59bc8a4bd29ad8ef6199b"
     },
     {
-      "name": "Bioskop TelkomVision (576p)",
-      "logo": "https://hosting.renderforestsites.com/35126779/1657983/media/2471109432fded503146d8fcf24c151e.png",
-      "category": "Movies",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "BioskopTelkomVision.id@HD",
-      "url": "https://gist.githubusercontent.com/iptvonlinetv/8bf6f2e766091c54a07743ac6827f0f4/raw/afa1fdc6afa1fed44a29458da114bf98c2f9a0d6/udp810.710.800:2000.m3u8",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "82c1b59029feafd7eb1cb827743c3a46"
-    },
-    {
       "name": "Bir TV (720p)",
       "logo": "https://birtv.tv/assets/upload/637f83951df60.png",
       "category": "Undefined",
@@ -58559,10 +58545,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "CNBCIndonesia.id@SD",
-      "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8",
+      "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "ff00e1e31889221bc87ec652de93cb9c"
+      "id": "443c3f4f120c1c72cbc738ff435d39b6"
     },
     {
       "name": "CNBC TV18 (1080p)",
@@ -69415,20 +69401,6 @@
       "id": "fee93b3cdc355ec591cb807907e1c4aa"
     },
     {
-      "name": "E International (576p)",
-      "logo": "https://hosting.renderforestsites.com/35126779/1659328/media/1058391c8059a0d092426e145d55951b.png",
-      "category": "General",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "EInternational.id@America",
-      "url": "https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp120.510.450:6060.m3u8",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "86747bacc51933ff0d5695d480b18724"
-    },
-    {
       "name": "E International Asia (576p)",
       "logo": "https://hosting.renderforestsites.com/35126779/1659328/media/1058391c8059a0d092426e145d55951b.png",
       "category": "General",
@@ -69451,10 +69423,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "EInternational.id@Europe",
-      "url": "https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp410.310.578:2020.m3u8",
+      "url": "https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp120.510.450:6060.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "e7054aa60ea7adc6876c83eca2afc834"
+      "id": "7eb79fae38cd67345cd614d4fa7b9ffe"
     },
     {
       "name": "E! (1080p)",
@@ -83021,6 +82993,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "cd30db678ebe9943230566ec5b18240c"
+    },
+    {
+      "name": "Green Gold TV HD",
+      "logo": "https://i.ibb.co/TDPsPVkT/Greengoldtv.png",
+      "category": "Kids",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "GreenGoldTV.np@HD",
+      "url": "https://vglivessai.akamaized.net/eu/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/fbdb017c-7b61-4f62-8719-28b27e44c862/0.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "39710a4d46befe99ae7178210261d021"
     },
     {
       "name": "Green TV (1080p)",
@@ -102511,6 +102497,20 @@
       "id": "35d0bde3f92b39edaccaf3b1376a8ece"
     },
     {
+      "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"General\",Armenia TV (720p)",
+      "logo": "https://i.imgur.com/UnoI5uM.png",
+      "category": "General",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "ArmeniaTV.am@SD",
+      "url": "http://starcius-cinema.com/20690/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "005b67345763a7afe07be4b35d15bdfb"
+    },
+    {
       "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"General\",Qazaqstan (1080p)",
       "logo": "https://i.imgur.com/oI8g396.png",
       "category": "General",
@@ -104374,7 +104374,7 @@
     },
     {
       "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Business\",Bloomberg TV Mongolia HD (1080p)",
-      "logo": "https://i.imgur.com/OuogLHx.png",
+      "logo": "https://www.mongolsat.mn/assets/img/channel/44.png",
       "category": "Business",
       "country": "Unknown",
       "country_name": "Unknown",
@@ -104402,7 +104402,7 @@
     },
     {
       "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Culture\",Malchin TV (1080p)",
-      "logo": "https://i.imgur.com/vCdEBZo.png",
+      "logo": "https://www.mongolsat.mn/assets/img/channel/12.png",
       "category": "Culture",
       "country": "Unknown",
       "country_name": "Unknown",
@@ -104416,7 +104416,7 @@
     },
     {
       "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Education;Entertainment\",Education (1080p)",
-      "logo": "https://i.imgur.com/0m8t3vh.png",
+      "logo": "https://www.mongolsat.mn/assets/img/channel/8.png",
       "category": "Education;Entertainment",
       "country": "Unknown",
       "country_name": "Unknown",
@@ -104472,7 +104472,7 @@
     },
     {
       "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",C1 (1080p)",
-      "logo": "https://i.imgur.com/v1mHG5x.png",
+      "logo": "https://www.mongolsat.mn/assets/img/channel/11.png",
       "category": "General",
       "country": "Unknown",
       "country_name": "Unknown",
@@ -104486,7 +104486,7 @@
     },
     {
       "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",Central TV (1080p)",
-      "logo": "https://i.imgur.com/E9wAUrT.png",
+      "logo": "https://www.mongolsat.mn/assets/img/channel/7.png",
       "category": "General",
       "country": "Unknown",
       "country_name": "Unknown",
@@ -104528,7 +104528,7 @@
     },
     {
       "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",MN25 (1080p)",
-      "logo": "https://i.imgur.com/F3MMJMd.png",
+      "logo": "https://www.mongolsat.mn/assets/img/channel/5.png",
       "category": "General",
       "country": "Unknown",
       "country_name": "Unknown",
@@ -104556,7 +104556,7 @@
     },
     {
       "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",MNB World (1080p)",
-      "logo": "https://i.imgur.com/PHlj84Q.png",
+      "logo": "https://www.mongolsat.mn/assets/img/channel/22.png",
       "category": "General",
       "country": "Unknown",
       "country_name": "Unknown",
@@ -104570,7 +104570,7 @@
     },
     {
       "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",NTV (1080p)",
-      "logo": "https://i.imgur.com/2JbqbPY.png",
+      "logo": "https://www.mongolsat.mn/assets/img/channel/10.png",
       "category": "General",
       "country": "Unknown",
       "country_name": "Unknown",
@@ -104612,7 +104612,7 @@
     },
     {
       "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",Star TV (1080p)",
-      "logo": "https://i.imgur.com/R6hxJgl.png",
+      "logo": "https://www.mongolsat.mn/assets/img/channel/15.png",
       "category": "General",
       "country": "Unknown",
       "country_name": "Unknown",
@@ -104626,7 +104626,7 @@
     },
     {
       "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",TenGer TV (1080p)",
-      "logo": "https://i.imgur.com/MmPvkcO.png",
+      "logo": "https://www.mongolsat.mn/assets/img/channel/17.png",
       "category": "General",
       "country": "Unknown",
       "country_name": "Unknown",
@@ -104640,7 +104640,7 @@
     },
     {
       "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",TM TV (1080p)",
-      "logo": "https://i.imgur.com/Bza9r7U.png",
+      "logo": "https://www.mongolsat.mn/assets/img/channel/19.png",
       "category": "General",
       "country": "Unknown",
       "country_name": "Unknown",
@@ -104654,7 +104654,7 @@
     },
     {
       "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",TV5 HD (1080p)",
-      "logo": "https://i.imgur.com/asGQfGN.png",
+      "logo": "https://www.mongolsat.mn/assets/img/channel/6.png",
       "category": "General",
       "country": "Unknown",
       "country_name": "Unknown",
@@ -104668,7 +104668,7 @@
     },
     {
       "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",TV8 HD (1080p)",
-      "logo": "https://i.imgur.com/EguOdxW.png",
+      "logo": "https://www.mongolsat.mn/assets/img/channel/18.png",
       "category": "General",
       "country": "Unknown",
       "country_name": "Unknown",
@@ -104682,7 +104682,7 @@
     },
     {
       "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",TV9 HD (1080p)",
-      "logo": "https://i.imgur.com/QFteAgd.png",
+      "logo": "https://www.mongolsat.mn/assets/img/channel/9.png",
       "category": "General",
       "country": "Unknown",
       "country_name": "Unknown",
@@ -104738,7 +104738,7 @@
     },
     {
       "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",Өлзий ТВ (1080p)",
-      "logo": "https://i.imgur.com/p7tsUTI.png",
+      "logo": "https://www.mongolsat.mn/assets/img/channel/28.png",
       "category": "General",
       "country": "Unknown",
       "country_name": "Unknown",
@@ -104822,7 +104822,7 @@
     },
     {
       "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"News\",Eagle News HD (1080p)",
-      "logo": "https://i.imgur.com/2oqXpve.jpg",
+      "logo": "https://www.mongolsat.mn/assets/img/channel/13.png",
       "category": "News",
       "country": "Unknown",
       "country_name": "Unknown",
@@ -104850,7 +104850,7 @@
     },
     {
       "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"News\",MNC (1080p)",
-      "logo": "https://i.imgur.com/gMVqbwU.png",
+      "logo": "https://www.mongolsat.mn/assets/img/channel/25.png",
       "category": "News",
       "country": "Unknown",
       "country_name": "Unknown",
@@ -104962,7 +104962,7 @@
     },
     {
       "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Undefined\",MNB Монголын Мэдээ (1080p)",
-      "logo": "https://i.imgur.com/KUvJzUD.png",
+      "logo": "https://www.mongolsat.mn/assets/img/channel/21.png",
       "category": "Undefined",
       "country": "Unknown",
       "country_name": "Unknown",
@@ -105004,7 +105004,7 @@
     },
     {
       "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Undefined\",Suld TV (1080p)",
-      "logo": "https://i.imgur.com/CnLxehv.png",
+      "logo": "https://www.mongolsat.mn/assets/img/channel/20.png",
       "category": "Undefined",
       "country": "Unknown",
       "country_name": "Unknown",
@@ -151847,7 +151847,7 @@
       "id": "2da7df009d8060d5b9176262528b8c44"
     },
     {
-      "name": "RCN Novelas (720p)",
+      "name": "RCN Novelas (1080p)",
       "logo": "https://i.imgur.com/9wxdWNQ.png",
       "category": "Entertainment",
       "country": "Unknown",
@@ -151855,10 +151855,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "RCNNovelas.co@SD",
-      "url": "http://170.238.200.199:80/rcn-novelas/index.m3u8",
+      "url": "https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "45e999401b9cd8990e38ae350b57c2b9"
+      "id": "ae52a8d78051d11bafefec09c487ebc0"
     },
     {
       "name": "RCTI HD (720p)",
@@ -166030,7 +166030,7 @@
     },
     {
       "name": "Sony Max 1 (720p)",
-      "logo": "https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1822_2.png",
+      "logo": "https://dtil.tmsimg.com/assets/s179440_ld_h15_aa.png?lock=720x540",
       "category": "Movies",
       "country": "Unknown",
       "country_name": "Unknown",
@@ -175969,6 +175969,20 @@
       "id": "a45ad4560e74cc96c68128427eceeff4"
     },
     {
+      "name": "Telecentro (480p) [Not 24/7]",
+      "logo": "https://i.imgur.com/QtRNfaj.png",
+      "category": "General",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "Telecentro.ve@SD",
+      "url": "https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "66bd6c66fc3f001ea5d1a4f39045c6d0"
+    },
+    {
       "name": "TeleCentro (720p)",
       "logo": "https://i.imgur.com/g61TdZ3.png",
       "category": "General",
@@ -175981,20 +175995,6 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "f9491e49560d3729140d70372e5213a4"
-    },
-    {
-      "name": "Telecentro (720p)",
-      "logo": "https://i.imgur.com/QtRNfaj.png",
-      "category": "General",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "Telecentro.ve@SD",
-      "url": "https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "803d7e5409e4e1331357e709b65e347c"
     },
     {
       "name": "Telechiara (720p)",
@@ -202763,6 +202763,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "299af2c86db43d7da300087b75dc7ede"
+    },
+    {
+      "name": "WGBO-DT 66.1 (2160p)",
+      "logo": "https://i.imgur.com/5RIEi99.png",
+      "category": "Undefined",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "WGBODT661.us@HD",
+      "url": "https://unidfp-nlds154.global.ssl.fastly.net/nlds/univisionnow/univision_chi2/as/live/univision_chi2_hd_pc.m3u8?t1=null",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "9b9e8b6af9b5947350e667e530ad9a09"
     },
     {
       "name": "WGGS-DT1 (720p)",

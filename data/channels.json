@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-14T04:46:26.679985+00:00",
-  "total": 14634,
+  "updated_at": "2026-08-15T03:35:31.801939+00:00",
+  "total": 14656,
   "channels": [
     {
       "name": "Andorra TV",
@@ -3245,10 +3245,24 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "24Horas.cl",
-      "url": "https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8",
+      "url": "https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8",
       "source": "Free-TV/playlist_chile.m3u8",
       "status": "unknown",
-      "id": "903ad2e123006de48fee6b37ce93bb53"
+      "id": "2b9c452334fe5eb6aae357409301c739"
+    },
+    {
+      "name": "Bio Bio TV",
+      "logo": "https://i.imgur.com/wrRufts.png",
+      "category": "Chile",
+      "country": "CL",
+      "country_name": "CL",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "biobiochile.cl",
+      "url": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8",
+      "source": "Free-TV/playlist_chile.m3u8",
+      "status": "unknown",
+      "id": "fcc0ce4e7ce1c5387eaf0860150cf40a"
     },
     {
       "name": "Canal 13",
@@ -3259,10 +3273,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Canal13.cl",
-      "url": "https://sktv-forwarders.7m.pl/get.php?x=Canal13",
+      "url": "https://redirector.dps.live/hls/13cl/playlist.m3u8",
       "source": "Free-TV/playlist_chile.m3u8",
       "status": "unknown",
-      "id": "d023ef428fe792e10b57ae168c1eca9e"
+      "id": "be0dc7482c63c45c83d30acefd3cd291"
     },
     {
       "name": "Chilevisión Noticias",
@@ -3287,10 +3301,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "ChileVision.cl",
-      "url": "https://sktv-forwarders.7m.pl/get.php?x=Chilevision",
+      "url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8",
       "source": "Free-TV/playlist_chile.m3u8",
       "status": "unknown",
-      "id": "0dcc1dbcf3836226b843a7561499f723"
+      "id": "1c6ee29ceb159833a808060be81a7197"
     },
     {
       "name": "Deportes13 Ⓖ",
@@ -3319,6 +3333,20 @@
       "source": "Free-TV/playlist_chile.m3u8",
       "status": "unknown",
       "id": "f996d56143f54774ec82cb51c9a78423"
+    },
+    {
+      "name": "Mega",
+      "logo": "https://i.imgur.com/CYdWSDb.png",
+      "category": "Chile",
+      "country": "CL",
+      "country_name": "CL",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "mega.cl",
+      "url": "https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8",
+      "source": "Free-TV/playlist_chile.m3u8",
+      "status": "unknown",
+      "id": "bf3776a81aca98fe031d8b13d0624682"
     },
     {
       "name": "NTV Ⓖ",
@@ -3413,10 +3441,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "TVN.cl",
-      "url": "https://sktv-forwarders.7m.pl/get.php?x=TVN",
+      "url": "https://iptv2.intersurtv.cl/TVN/index.m3u8",
       "source": "Free-TV/playlist_chile.m3u8",
       "status": "unknown",
-      "id": "752843ed86ab2d636161dfb6e20447ed"
+      "id": "2da1451733e36567e8a8079f978e464f"
     },
     {
       "name": "UChile TV",
@@ -6987,6 +7015,34 @@
       "source": "Free-TV/playlist_france.m3u8",
       "status": "unknown",
       "id": "2d20a052eeeb5ac2f30763a9e244327c"
+    },
+    {
+      "name": "TV Alsace",
+      "logo": "https://i.imgur.com/zaJDEOv.png",
+      "category": "France",
+      "country": "FR",
+      "country_name": "FR",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "TVAlsace.fr",
+      "url": "http://194.163.157.137:8080/hls/radioalsace.m3u8",
+      "source": "Free-TV/playlist_france.m3u8",
+      "status": "unknown",
+      "id": "35ecb0164216c051f533233c252116e2"
+    },
+    {
+      "name": "TV Mulhouse",
+      "logo": "https://i.imgur.com/4esQG8H.png",
+      "category": "France",
+      "country": "FR",
+      "country_name": "FR",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "TVMulhouse.fr",
+      "url": "http://194.163.157.137:8080/hls/radiomulhouse.m3u8",
+      "source": "Free-TV/playlist_france.m3u8",
+      "status": "unknown",
+      "id": "feb5021ba4e2400c4ee0e503368aa1ee"
     },
     {
       "name": "TV5 Monde Europe",
@@ -19044,7 +19100,7 @@
     },
     {
       "name": "RTP Mundo",
-      "logo": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/RTP_Mundo.svg/330px-RTP_Mundo.svg.png",
       "category": "Portugal",
       "country": "PT",
       "country_name": "PT",
@@ -28407,6 +28463,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "284f232c1e03b1c20ea3a0c4e3677a16"
+    },
+    {
+      "name": "Advocate Broadcasting Network",
+      "logo": "https://i.imgur.com/eZrhTam.png",
+      "category": "Nigeria",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "AdvocateBroadcastingNetwork.ng",
+      "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_045/Stream/playlist.m3u8",
+      "source": "Free-TV/playlist_nigeria.m3u8",
+      "status": "unknown",
+      "id": "2033345c67cd3bdda1673e5ba30c859e"
     },
     {
       "name": "AE Radio TV (720p) [Not 24/7]",
@@ -38039,6 +38109,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "1c405b68a19c00884589f9d35de16e6e"
+    },
+    {
+      "name": "BabyFirst Spanish (720p)",
+      "logo": "https://i.imgur.com/WxLHBwu.png",
+      "category": "Kids",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "BabyFirst.us@Spanish",
+      "url": "http://168.228.44.241:9997/play/a07u/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "cb59c474da7db62fe1e561b5f26d407d"
     },
     {
       "name": "BabyTV Latin America (720p)",
@@ -53875,6 +53959,20 @@
       "id": "4482b761ddfcbb44fd60a9a32a89aaae"
     },
     {
+      "name": "Channels TV Ⓨ",
+      "logo": "https://i.imgur.com/O237VLC.png",
+      "category": "Nigeria",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "ChannelsTV.ng",
+      "url": "https://www.youtube.com/@ChannelsTelevision/live",
+      "source": "Free-TV/playlist_nigeria.m3u8",
+      "status": "unknown",
+      "id": "44b5fc60c5713f04620075e9bf013723"
+    },
+    {
       "name": "Chaos City",
       "logo": "https://i.imgur.com/1UZNdRH.png",
       "category": "Series",
@@ -63983,7 +64081,7 @@
       "id": "bf96d17bf4f15a3e62ec204bb2567580"
     },
     {
-      "name": "Disney Channel (720p)",
+      "name": "Disney Channel (720p) [Geo-blocked]",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/960px-2024_Disney_Channel_text_logo.svg.png",
       "category": "Kids",
       "country": "Unknown",
@@ -63991,10 +64089,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "DisneyChannel.us@East",
-      "url": "http://190.14.10.19:16000/play/a06z/index.m3u8",
+      "url": "http://212.5.144.156/disney/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "2ee70f10f856d340f9716d7d44b49ad1"
+      "id": "2b2c98d260eb5ee759985a4710915f88"
     },
     {
       "name": "Disney Channel Latin America (1080p)",
@@ -68153,6 +68251,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "bb1df33e85c79999c087b4de031c4956"
+    },
+    {
+      "name": "El Pinguino TV (720p)",
+      "logo": "https://i.imgur.com/ikEs9b8.png",
+      "category": "News",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "ElPinguinoTV.cl@SD",
+      "url": "https://redirector.dps.live/hls/pinguinotv/playlist.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "d3ac2e2565a0502b6536f6ef11541e77"
     },
     {
       "name": "El Pituco TV (720p)",
@@ -75797,6 +75909,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "f57a5e8668551dacc69723a3b1fcc45d"
+    },
+    {
+      "name": "Fujian Comprehensive Channel",
+      "logo": "https://i.imgur.com/rePTGa6.png",
+      "category": "General",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "FujianComprehensiveChannel.cn@SD",
+      "url": "http://120.39.52.202:5140/%E7%A6%8F%E5%BB%BA%E7%BB%BC%E5%90%88",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "9167b9d6d5f734ab475b9d5e0cf722f9"
     },
     {
       "name": "Full Moon",
@@ -87853,6 +87979,20 @@
       "id": "00441cafd7bc08659b93c00e8d0d39b2"
     },
     {
+      "name": "Itage TV",
+      "logo": "https://i.imgur.com/ojLIfkt.jpeg",
+      "category": "Nigeria",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "ItageTV.ng",
+      "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8",
+      "source": "Free-TV/playlist_nigeria.m3u8",
+      "status": "unknown",
+      "id": "ac1d3a208423105748b6b198940ee774"
+    },
+    {
       "name": "Itage TV (480p)",
       "logo": "https://i.imgur.com/FP1aUPw.jpg",
       "category": "Movies",
@@ -98955,6 +99095,20 @@
       "id": "bb6022626874e973f78d5560204c8bbc"
     },
     {
+      "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Documentary\",Viasat History (720p)",
+      "logo": "https://i.imgur.com/wRP9XA7.png",
+      "category": "Documentary",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "ViasatHistory.tr@SD",
+      "url": "https://nord.ayakkabiparti.lol/viasathistory/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "60a6bc3f8338fafe44a3963a83449047"
+    },
+    {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Documentary;Education\",Chemodan TV (1080p)",
       "logo": "https://i.imgur.com/1WjGN8u.png",
       "category": "Documentary;Education",
@@ -99317,6 +99471,76 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "2cf7f19898eb2af1b030b457ac296b3b"
+    },
+    {
+      "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",beIN Box Office 1",
+      "logo": "https://i.imgur.com/MGrJFVN.png",
+      "category": "Movies",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "beINBoxOffice1.tr@SD",
+      "url": "https://nord.ayakkabiparti.lol/box1/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "a8a9cabf41d38c7e261d2ce972aad706"
+    },
+    {
+      "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",beIN Box Office 2",
+      "logo": "https://i.imgur.com/Kg7oOcO.png",
+      "category": "Movies",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "beINBoxOffice2.tr@SD",
+      "url": "https://nord.ayakkabiparti.lol/box2/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "31d228473ea5c8f15c5933073969bc63"
+    },
+    {
+      "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",beIN Box Office 3",
+      "logo": "https://i.imgur.com/5NZur1S.png",
+      "category": "Movies",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "beINBoxOffice3.tr@SD",
+      "url": "https://nord.ayakkabiparti.lol/box3/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "118ccba6c8bb5f5ced87a1628dc74c7f"
+    },
+    {
+      "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",beIN Movies Stars",
+      "logo": "https://i.imgur.com/eryPkrT.png",
+      "category": "Movies",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "beINMoviesStars.tr@SD",
+      "url": "https://nord.ayakkabiparti.lol/bsaction1/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "f2b394d45d2e8fb791f868b646ab2262"
+    },
+    {
+      "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",beIN Movies Turk",
+      "logo": "https://i.imgur.com/nw8Sa2z.png",
+      "category": "Movies",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "beINMoviesTurk.tr@SD",
+      "url": "https://nord.ayakkabiparti.lol/bsturk/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "0459fccb45f2af6d0cf9fc0c08f54cc9"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",Cinemaraton Moldova",
@@ -99821,6 +100045,34 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "147b012c645202b56b381dd7e950162a"
+    },
+    {
+      "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",SIC Mulher",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/c/c4/Sicmulher.png",
+      "category": "Undefined",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "SICMulher.pt@SD",
+      "url": "http://zntx.dyndns.org:8085/hls/sicm.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "320e2432dccc7c58442ef19727a23d8c"
+    },
+    {
+      "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",SIC Radical",
+      "logo": "https://i.imgur.com/6g0obyk.png",
+      "category": "Undefined",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "SICRadical.pt@SD",
+      "url": "http://znty.dyndns.org:5010/hls/sicr.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "8da3ade7ebe3c9b7cb1b3a0c27bc38a0"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",Sorozat+",
@@ -120362,15 +120614,15 @@
     },
     {
       "name": "News Central",
-      "logo": "https://i.imgur.com/qvCgI8N.png",
-      "category": "News",
+      "logo": "https://i.imgur.com/1oSxhmp.png",
+      "category": "Nigeria",
       "country": "Unknown",
       "country_name": "Unknown",
       "language": "Unknown",
       "nsfw": false,
-      "tvg_id": "NewsCentral.ng@SD",
+      "tvg_id": "NewsCentral.ng",
       "url": "https://wf.newscentral.ng:8443/hls/stream.m3u8",
-      "source": "iptv-org/index",
+      "source": "Free-TV/playlist_nigeria.m3u8",
       "status": "unknown",
       "id": "756802ecb571eaf3e2a62f9a96f2df1b"
     },
@@ -143839,6 +144091,20 @@
       "id": "7ea5ab6d87dfcf458377ca969c29ad9a"
     },
     {
+      "name": "Rave TV",
+      "logo": "https://i.imgur.com/fDSyf6u.png",
+      "category": "Nigeria",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "RaveTV.ng",
+      "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_039/Stream/playlist.m3u8",
+      "source": "Free-TV/playlist_nigeria.m3u8",
+      "status": "unknown",
+      "id": "8188d36762f35c54a352e00a1b4fcbfe"
+    },
+    {
       "name": "Rave TV (576p)",
       "logo": "https://i.imgur.com/pXKQE0G.png",
       "category": "Undefined",
@@ -155543,6 +155809,20 @@
       "id": "09a2c78d6608b32a1ab479d47c0d72de"
     },
     {
+      "name": "Silverbird News 24",
+      "logo": "https://i.imgur.com/ssEAjq5.jpeg",
+      "category": "Nigeria",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "SilverbirdNews24.ng",
+      "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_029/Stream/playlist.m3u8",
+      "source": "Free-TV/playlist_nigeria.m3u8",
+      "status": "unknown",
+      "id": "26e15160fa6540cfdc4ed7663d50e7cb"
+    },
+    {
       "name": "Silverbird News 24 (576p)",
       "logo": "https://i.imgur.com/9jcV9oG.png",
       "category": "News",
@@ -158103,6 +158383,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "02bba0c3630320a92b4e3300ca8d2ffa"
+    },
+    {
+      "name": "Soundcity TV Ⓨ",
+      "logo": "https://i.imgur.com/zfi4SXW.png",
+      "category": "Nigeria",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "SoundcityTV.ng",
+      "url": "https://www.youtube.com/channel/UCGuIbAVY4_O-KOQmLkU0IKQ/live",
+      "source": "Free-TV/playlist_nigeria.m3u8",
+      "status": "unknown",
+      "id": "97f9a61652603db5250ac2666b5f5ae8"
     },
     {
       "name": "South Park",
@@ -163089,6 +163383,20 @@
       "id": "4bc23845ac6d5f56754d8ae6711187d2"
     },
     {
+      "name": "Superscreen TV",
+      "logo": "https://i.imgur.com/DuhRy48.png",
+      "category": "Nigeria",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "SuperscreenTV.ng",
+      "url": "https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8",
+      "source": "Free-TV/playlist_nigeria.m3u8",
+      "status": "unknown",
+      "id": "0e4b57590bd106c510a3636e8814c009"
+    },
+    {
       "name": "Superscreen TV (412p)",
       "logo": "https://i.imgur.com/uTNmSWE.png",
       "category": "Culture;Family",
@@ -167905,7 +168213,7 @@
       "id": "6252e9b20ea14d0191aa097595d6f7e6"
     },
     {
-      "name": "Telemundo West (720p)",
+      "name": "Telemundo West (2160p)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png",
       "category": "General",
       "country": "Unknown",
@@ -167913,10 +168221,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Telemundo.us@West",
-      "url": "http://181.119.108.43:9001/play/a044/index.m3u8",
+      "url": "http://168.228.44.241:9997/play/a07g/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "67e94bb09c3931375b1ab692cb075a63"
+      "id": "afcb7a0466266de7a6b1080c8740311e"
     },
     {
       "name": "TeleMusik Senegal (720p)",
@@ -172953,10 +173261,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "TN8.ni@SD",
-      "url": "https://streamingcws30.com/tn8/videotn8/chunks.m3u8",
+      "url": "https://streamingcws30.com/tn8/videotn8/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "9637aee5ead63b6ebbe51357bcf09c20"
+      "id": "220ead864053dd10a828862f9ecf34b7"
     },
     {
       "name": "TNA Wrestling (1080p)",
@@ -175491,6 +175799,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "f70b33c1106bdab588569223ffd8a38b"
+    },
+    {
+      "name": "TRT Spor (720p)",
+      "logo": "https://i.imgur.com/6tv0zxh.png",
+      "category": "Sports",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "TRTSpor.tr@SD",
+      "url": "https://corestream.siteyaptim.live/trt-spor/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "510917466db25681cb61bccc7161630f"
     },
     {
       "name": "TRT Spor Yildiz (1440p) [Geo-blocked]",
@@ -178519,7 +178841,7 @@
     {
       "name": "TV Maria (480p)",
       "logo": "https://i.imgur.com/yhIM9yU.png",
-      "category": "Undefined",
+      "category": "Religious",
       "country": "Unknown",
       "country_name": "Unknown",
       "language": "Unknown",
@@ -181501,14 +181823,14 @@
     {
       "name": "TVC News Ⓨ",
       "logo": "https://i.imgur.com/jaSq18B.png",
-      "category": "News",
+      "category": "Nigeria",
       "country": "Unknown",
       "country_name": "Unknown",
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "TVCNews.ng",
       "url": "https://www.youtube.com/tvcnewsnigeria/live",
-      "source": "Free-TV/playlist_zz_news_en.m3u8",
+      "source": "Free-TV/playlist_nigeria.m3u8",
       "status": "unknown",
       "id": "11f05bc1cd8a36508a0ac4a2a50c0745"
     },
@@ -189193,10 +189515,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "VivaNicaraguaCanal13.ni@SD",
-      "url": "http://45.171.108.253:8888/VIVA/index.m3u8",
+      "url": "https://cdn.vivamediosni.com/viva_720p/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "39d6ae153b8b9a0a2571061535b42bd3"
+      "id": "36682cf18fd9b3420735596306375f3a"
     },
     {
       "name": "Viva TV Canal 30 San Juan de Río Coco [Not 24/7]",
@@ -190291,6 +190613,20 @@
       "id": "ab62054dd13f3d91c3a03b9fd23f3665"
     },
     {
+      "name": "Waffi TV",
+      "logo": "https://i.imgur.com/ejlCb5g.png",
+      "category": "Nigeria",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "WaffiTV.ng",
+      "url": "https://oqgdro3xd4rm-hls-live.5centscdn.com/waffiitvstreaminglivetfmediacast/e0885d428bea69e372309657f3bd895f.sdp/playlist.m3u8",
+      "source": "Free-TV/playlist_nigeria.m3u8",
+      "status": "unknown",
+      "id": "d68e64a8651c4cdb2c6c0873da5187f5"
+    },
+    {
       "name": "Waffi TV (240p)",
       "logo": "https://i.imgur.com/3uEuzVH.jpeg",
       "category": "General",
@@ -190767,6 +191103,20 @@
       "id": "8b7ebbac1726ef223696619ad4c718a9"
     },
     {
+      "name": "Wazobia Max TV Nigeria",
+      "logo": "https://i.imgur.com/sEnLR0B.jpeg",
+      "category": "Nigeria",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "WazobiaMaxTVNigeria.ng",
+      "url": "https://wazobia.live:8333/channel/wmax.m3u8",
+      "source": "Free-TV/playlist_nigeria.m3u8",
+      "status": "unknown",
+      "id": "0c56c34bf40bdd838b308467409ea18a"
+    },
+    {
       "name": "Wazobia Max TV Nigeria (720p)",
       "logo": "https://i.imgur.com/IeioxBp.png",
       "category": "Undefined",
@@ -190779,6 +191129,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "6a273c6e7e05d5e501876cea0ab44105"
+    },
+    {
+      "name": "Wazobia Max TV Port Harcourt",
+      "logo": "https://i.imgur.com/sEnLR0B.jpeg",
+      "category": "Nigeria",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "WazobiaMaxTVPortHarcourt.ng",
+      "url": "https://wazobia.live:8333/channel/wmaxph.m3u8",
+      "source": "Free-TV/playlist_nigeria.m3u8",
+      "status": "unknown",
+      "id": "a0816067267f2ecd295d5c97eaaa9753"
     },
     {
       "name": "Wazobia Max TV Port Harcourt (720p)",
@@ -193063,7 +193427,7 @@
       "id": "4dac104e51307f59337334099711e6ff"
     },
     {
-      "name": "WLTV-DT1 [Geo-blocked]",
+      "name": "WLTV-DT 23.1 (720p)",
       "logo": "https://i.imgur.com/Sr3EoK5.png",
       "category": "Undefined",
       "country": "Unknown",
@@ -193071,10 +193435,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "WLTVDT231.us@HD",
-      "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8",
+      "url": "http://168.228.44.241:9997/play/a09d/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "7b1cddb32987cab979e275e5b67451c1"
+      "id": "6ae14922fe770ca825f7b6d53aebfd78"
     },
     {
       "name": "WMBC-DT1 (720p)",
@@ -201659,20 +202023,6 @@
       "id": "e287ce5bc06cb9314bc3c3936920b488"
     },
     {
-      "name": "少儿科教",
-      "logo": "",
-      "category": "Undefined",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "",
-      "url": "http://121.19.134.246:808/hls/23/index.m3u8",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "f642ff695dd19a0156e7feea52937ccb"
-    },
-    {
       "name": "山东体育 (1080p) [Geo-blocked]",
       "logo": "https://i.imgur.com/zX4RxvG.png",
       "category": "Sports",
@@ -202791,76 +203141,6 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "fa16b08ea43c5aa6f52af1e62f866813"
-    },
-    {
-      "name": "河北公共",
-      "logo": "",
-      "category": "Undefined",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "",
-      "url": "http://121.19.134.246:808/hls/24/index.m3u8",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "5429823898c9a67d0a53e90a74efd55f"
-    },
-    {
-      "name": "河北农民",
-      "logo": "",
-      "category": "Undefined",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "",
-      "url": "http://121.19.134.246:808/hls/25/index.m3u8",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "e7991a3c24bb347842c1d17906a6397b"
-    },
-    {
-      "name": "河北影视",
-      "logo": "",
-      "category": "Undefined",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "",
-      "url": "http://121.19.134.246:808/hls/22/index.m3u8",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "2234c8f18a0bcc66870f16447bf9eb83"
-    },
-    {
-      "name": "河北经济",
-      "logo": "",
-      "category": "Undefined",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "",
-      "url": "http://121.19.134.246:808/hls/20/index.m3u8",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "9356654a678861916d4a18ac19ac8358"
-    },
-    {
-      "name": "河北都市",
-      "logo": "",
-      "category": "Undefined",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "",
-      "url": "http://121.19.134.246:808/hls/21/index.m3u8",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "121355661e34da6b27c3ca8c130c0215"
     },
     {
       "name": "河源综合 (540p)",
@@ -204709,6 +204989,34 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "4bd77274ade9451d74c2d39e7a36790e"
+    },
+    {
+      "name": "Aguacate TV",
+      "logo": "https://intervenhosting.net/imagenes/aguacatetv.jpg",
+      "category": "Venezuela",
+      "country": "VE",
+      "country_name": "VE",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "AguacateTV.ve",
+      "url": "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8",
+      "source": "Free-TV/playlist_venezuela.m3u8",
+      "status": "unknown",
+      "id": "98e446bae47b631d71fdab30ef0f700f"
+    },
+    {
+      "name": "AS3 Sport TV",
+      "logo": "https://intervenhosting.net/imagenes/as3sporttv.jpg",
+      "category": "Venezuela",
+      "country": "VE",
+      "country_name": "VE",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "AS3SportTV.ve",
+      "url": "https://streamtv.as3sport.online:3394/hybrid/play.m3u8",
+      "source": "Free-TV/playlist_venezuela.m3u8",
+      "status": "unknown",
+      "id": "88de1c97730117e2b328ed6ae4d2b206"
     },
     {
       "name": "Globovisión",

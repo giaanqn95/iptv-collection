@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-25T03:44:43.865602+00:00",
-  "total": 14835,
+  "updated_at": "2026-08-26T03:51:29.805746+00:00",
+  "total": 14852,
   "channels": [
     {
       "name": "Andorra TV",
@@ -35815,34 +35815,6 @@
       "id": "66cec1be6d00d2da0a02b3435320435c"
     },
     {
-      "name": "Antena International (720P)",
-      "logo": "https://static.wikia.nocookie.net/logopedia/images/3/38/Antena_Interna%C8%9Bional_2022.png/revision/latest/scale-to-width-down/512",
-      "category": "General",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "AntenaInternational.ro@SD",
-      "url": "https://stream1.antenaplay.ro/as/asrolive1/playlist.m3u8",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "0648c2fee0ca8adfab07f685f7c505d6"
-    },
-    {
-      "name": "Antena Monden (720p)",
-      "logo": "https://static.wikia.nocookie.net/logopedia/images/0/01/Antena_Monden_2022.png/revision/latest/scale-to-width-down/300",
-      "category": "Lifestyle",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "AntenaMonden.ro@SD",
-      "url": "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "9770458a90cbf8a65aca727d750beeee"
-    },
-    {
       "name": "Antena Seis TV (720p) [Geo-blocked]",
       "logo": "https://i.imgur.com/9Nh2mo9.png",
       "category": "General",
@@ -35855,6 +35827,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "90695462768d3933cb4dd33779bdb1bd"
+    },
+    {
+      "name": "Antena Stars (720p)",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7e/A_Stars_2022.png/revision/latest/scale-to-width-down/300",
+      "category": "Entertainment",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "AntenaStars.ro@SD",
+      "url": "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "5666e5c0950643601a661d18e92ffc83"
     },
     {
       "name": "Antena SUR (720p)",
@@ -36625,6 +36611,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "e5d8ac86d10b1088803f8d5420e88106"
+    },
+    {
+      "name": "Arges TV (720p)",
+      "logo": "https://i.imgur.com/qufz6nk.png",
+      "category": "General",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "ArgesTV.ro@SD",
+      "url": "https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "2470a6ebfae4ef9ed848648927bba244"
     },
     {
       "name": "Argus News (576p)",
@@ -75029,6 +75029,20 @@
       "id": "3918d5a6a28404dbfbed491931712789"
     },
     {
+      "name": "FILMBOX+ Comedy Romania",
+      "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png",
+      "category": "Movies",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "FILMBOXPlusComedy.pl@Romania",
+      "url": "https://nosignal1.antenaplay.ro/hls/fb-comedy-hd/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "7a96ee66ef123430e8079accce634194"
+    },
+    {
       "name": "FILMBOX+ Festival",
       "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bfestival.png",
       "category": "Movies",
@@ -75041,6 +75055,62 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "51df806b825d54da870075e90ac5276d"
+    },
+    {
+      "name": "FILMBOX+ Festival HD (1080p)",
+      "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bfestival.png",
+      "category": "Movies",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "FILMBOXPlusFestival.pl@HD",
+      "url": "https://nosignal1.antenaplay.ro/hls/fb-festival-hd/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "fa0642dc5d325669e1df700f9de0b7cb"
+    },
+    {
+      "name": "FILMBOX+ Hits Romania (576p)",
+      "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png",
+      "category": "Movies",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "FILMBOXPlusHits.pl@Romania",
+      "url": "https://nosignal1.antenaplay.ro/hls/fb-hits-sd/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "4821224b5eda7d5cb91b59efcad2eb12"
+    },
+    {
+      "name": "FILMBOX+ Love & Crime Romania",
+      "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Blove-and-crime.png",
+      "category": "Movies",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "FILMBOXPlusLoveCrime.pl@Romania",
+      "url": "https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "1cfc29608a9bc2f06a92861c4d1b823d"
+    },
+    {
+      "name": "FILMBOX+ One Romania (576p)",
+      "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",
+      "category": "Movies",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "FILMBOXPlusOne.pl@Romania",
+      "url": "https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "fa8fd304e198f51a4db31d325c7a9f15"
     },
     {
       "name": "FILMBOX+ One Ukraine & Baltics (450p) [Geo-blocked]",
@@ -81525,6 +81595,20 @@
       "id": "d088ee7e00d924f4a5374577599b3d90"
     },
     {
+      "name": "Greater Love TV (720p)",
+      "logo": "https://i.imgur.com/WE0cRXR.png",
+      "category": "Religious",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "GreaterLoveTV.us@SD",
+      "url": "https://rpn.bozztv.com/dvrfl04/itv04019/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "7ffc7ddbde48e38b43120c958748cad7"
+    },
+    {
       "name": "Green Gold TV",
       "logo": "",
       "category": "Undefined",
@@ -83611,7 +83695,7 @@
       "id": "515b1b0c6a0e06ac0fe127367fb4c0e3"
     },
     {
-      "name": "Hello Taste (720p)",
+      "name": "Hello Taste",
       "logo": "https://i.imgur.com/TdKO0er.png",
       "category": "Cooking",
       "country": "Unknown",
@@ -83619,10 +83703,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "HelloTaste.ro@SD",
-      "url": "https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8",
+      "url": "https://dai.google.com/linear/hls/pa/event/YeG0_KbLRjGeYKU2qVhl_Q/stream/30ddffe9-87f0-4dc7-b0fe-8f0e12044f3e:GRQ/variant/c209b0d3694ace6f439e2179fdad8e66/bandwidth/2628000.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "d2170eb06dca5b035db4cf333abeae74"
+      "id": "7d9e566d684d8281552088cf18969ddd"
     },
     {
       "name": "Hells Kitchen",
@@ -85331,6 +85415,48 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "c1beda04166834a7a764488d4e2ea85e"
+    },
+    {
+      "name": "Hosanna TV",
+      "logo": "https://i.imgur.com/VYorU1L.png",
+      "category": "Religious",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "HosannaTV.in@Tamil",
+      "url": "https://asia.mslivestream.net/mslive/bfba54c5c96a6359e2da0ca35f4998af.sdp/playlist.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "8e03318c8478da6e8317af9a57ebbd65"
+    },
+    {
+      "name": "Hosanna TV Global",
+      "logo": "https://i.imgur.com/VYorU1L.png",
+      "category": "Religious",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "HosannaTV.in@Global",
+      "url": "https://ktismaservers.in:3349/live/hosannatvlive.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "501c03355ed99ddd0ef0892a3c62bfdd"
+    },
+    {
+      "name": "Hosanna TV Hindi",
+      "logo": "https://i.imgur.com/VYorU1L.png",
+      "category": "Religious",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "HosannaTV.in@Hindi",
+      "url": "https://ktismaservers.in:3466/live/hosannattvhindhilive.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "04851b8011c1bbcef00d8d2e30dcd80e"
     },
     {
       "name": "Hosanna Vision (720p) [Not 24/7]",
@@ -91438,13 +91564,13 @@
     },
     {
       "name": "Joel Osteen Network (1080p)",
-      "logo": "",
-      "category": "Undefined",
+      "logo": "https://www.tablotv.com/wp-content/uploads/2025/05/Osteen_black.png",
+      "category": "Religious",
       "country": "Unknown",
       "country_name": "Unknown",
       "language": "Unknown",
       "nsfw": false,
-      "tvg_id": "",
+      "tvg_id": "JoelOsteenNetwork.us@HD",
       "url": "https://linear-860.frequency.stream/dist/xumo/860/hls/master/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
@@ -101041,6 +101167,20 @@
       "id": "3e144d60272a5834c767f40e302a12fc"
     },
     {
+      "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Classic;Movies\",Bollywood Classic Romania",
+      "logo": "https://i.imgur.com/ugPo6ca.png",
+      "category": "Classic;Movies",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "BollywoodClassic.ro@Romania",
+      "url": "https://flash1.bogulus1.cfd/boly/usergenr9j8s2t.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "839f7106116af16dab7160d55caa4356"
+    },
+    {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Comedy\",Comedy Central",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",
       "category": "Comedy",
@@ -101097,6 +101237,48 @@
       "id": "34bb6c73925ecb8b0072647297f87755"
     },
     {
+      "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Documentary\",Viasat Explore",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/7/71/Viasat_Explore_2026.svg",
+      "category": "Documentary",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "ViasatExplore.ro@SD",
+      "url": "https://arwen1.panaka1.cfd/vexplr/usergenrnd7ke5lgt.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "24e3c404f7eb99ba455b305496df3787"
+    },
+    {
+      "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Documentary\",Viasat History",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Viasat_History_2026.svg",
+      "category": "Documentary",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "ViasatHistory.ro@SD",
+      "url": "https://arwen1.panaka1.cfd/vhis/usergenrnd4v6g8eigt.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "fa1ce6c0b8ff24833c623639ce265c26"
+    },
+    {
+      "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Documentary\",Viasat Nature",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/24/Cropped-viasat-nature.png",
+      "category": "Documentary",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "ViasatNature.ro@SD",
+      "url": "https://arwen1.panaka1.cfd/vnature/usergenrnd2g9eqk.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "946a2348b40c12080613c8b60e0e3a93"
+    },
+    {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Entertainment\",AXN Spin",
       "logo": "https://i.imgur.com/uVFenKm.png",
       "category": "Entertainment",
@@ -101123,6 +101305,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "af81aaa61fd523837034e41a558f8974"
+    },
+    {
+      "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Entertainment\",BBC First Romania",
+      "logo": "https://i.imgur.com/UBoBYUI.png",
+      "category": "Entertainment",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "BBCFirst.uk@Romania",
+      "url": "https://onyx1.mofta1.cfd/bibi1/usergendxn09l2s6cek.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "f6852f623e3ee204cfdd75a035e2605f"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Kids\",Disney Channel",
@@ -101291,34 +101487,6 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "c329adc32e27e2d1cd43e0bfc02e2bbf"
-    },
-    {
-      "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Movies\",FILMBOX+ Hits Romania",
-      "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png",
-      "category": "Movies",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "FILMBOXPlusHits.pl@Romania",
-      "url": "https://onyx1.mofta1.cfd/fboyp/usergendl2kx0ta67js9c.m3u8",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "4d5aac869d24c0fc62169ee066edb3e9"
-    },
-    {
-      "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Movies\",FILMBOX+ One Romania",
-      "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",
-      "category": "Movies",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "FILMBOXPlusOne.pl@Romania",
-      "url": "https://atlantida1.aquax1.cfd/fboz/usergendx7tc9brnd.m3u8",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "f171bd8f91098551c5b86da5b09006ba"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Movies\",Viasat Kino Romania",
@@ -101993,20 +102161,6 @@
       "id": "5a8c855233f39f343b48ecdaaef3e5cd"
     },
     {
-      "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",FILMBOX+ Festival HD",
-      "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bfestival.png",
-      "category": "Movies",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "FILMBOXPlusFestival.pl@HD",
-      "url": "https://webtvstream.bhtelecom.ba/filmbox_arthouse.m3u8",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "e80bbcbf1a44b2d9baa775aa8a02e6c9"
-    },
-    {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",Kino 2 (1080p)",
       "logo": "https://upload.wikimedia.org/wikipedia/uk/3/35/KINO_2_UA.png",
       "category": "Movies",
@@ -102217,6 +102371,20 @@
       "id": "6bc064a555233bd4f6ea40486fa8b564"
     },
     {
+      "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Sports\",Eurosport 4K Czechia",
+      "logo": "https://i.imgur.com/0o3zjC7.png",
+      "category": "Sports",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "Eurosport4KCzechia.cz@UHD",
+      "url": "http://88.212.15.19/live/esp_4k_atk/playlist.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "0b1a036c27feac71d77fa313e766b368"
+    },
+    {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Sports\",Setanta Sports (1080p)",
       "logo": "https://scontent.flwo7-1.fna.fbcdn.net/v/t39.30808-6/364716463_853281776306116_3365262792418742642_n.jpg?stp=dst-webp_p843x403_q70&_nc_cat=109&ccb=1-7&_nc_sid=cc3e7e&_nc_ohc=cdryMbRE2MwQ7kNvwFeyihF&_nc_oc=Adqncj9xKrtg2aNKgZmuX6LGZlSfpAmh_HQEEkBciEg1tXwQqFuMtohNjM8-Z8hU_Ho&_nc_zt=23&_nc_ht=scontent.flwo7-1.fna&_nc_gid=nGCZSHk6GKFYzjwKY-aGWw&_nc_ss=7b289&oh=00_AQFswjCYfEBKcXRO2DpTL1Dz7arAN-82K47gi8qtwljzrw&oe=6A862750",
       "category": "Sports",
@@ -102413,6 +102581,20 @@
       "id": "f032370a700bb69770ab7e6a9865ba1c"
     },
     {
+      "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",Prima Krimi",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Prima_Krimi.png/960px-Prima_Krimi.png",
+      "category": "Undefined",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "PrimaKrimi.cz@SD",
+      "url": "http://88.212.15.19/live/test_prima_krimi_cz/playlist.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "ed7c062660ae7b1b5f075751711cbc14"
+    },
+    {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",Prima Krimi SK",
       "logo": "https://www.jojgroup.sk/wp-content/uploads/PRIMA-KRIMI-SK-2-scaled.png",
       "category": "Undefined",
@@ -102439,6 +102621,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "0b2b833c1c44aa181aab86e47345ecdb"
+    },
+    {
+      "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",Prima Max",
+      "logo": "https://i.imgur.com/ePrdyLi.png",
+      "category": "Undefined",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "PrimaMax.cz@SD",
+      "url": "http://88.212.15.19/live/test_prima_max_cz/playlist.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "d8d655697246a580bd8ed35668256990"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",Prime",
@@ -167079,7 +167275,7 @@
       "id": "98937a4deb54b38bdbfcb1e53ffcf004"
     },
     {
-      "name": "Swerve Sports (1080p)",
+      "name": "Swerve Sports (720p)",
       "logo": "https://i.imgur.com/GT0Yi2T.png",
       "category": "Sports",
       "country": "Unknown",
@@ -167087,10 +167283,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "SwerveSports.us@SD",
-      "url": "https://linear-253.frequency.stream/dist/stirr/253/hls/master/playlist.m3u8",
+      "url": "https://a-cdn.klowdtv.com/live3/swervewomenssports_720p/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "9d84532c0c9f132baacbd7af3f67fc24"
+      "id": "e88448493cc2eb757717aff305988b74"
     },
     {
       "name": "SWR 3 Visual Radio (720p)",
@@ -191523,6 +191719,20 @@
       "id": "1dba573f3d84027840ee35c134820fd6"
     },
     {
+      "name": "Video Mix TV",
+      "logo": "https://i.imgur.com/nyLrIPP.png",
+      "category": "Music",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "VideoMixTV.us@SD",
+      "url": "https://2-fss-2.streamhoster.com/pl_118/206436-3189488-1/playlist.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "05738b88c7904ba749b6ee8b38a6b8d0"
+    },
+    {
       "name": "Video Rola (1080p)",
       "logo": "https://i.imgur.com/9w54eVy.png",
       "category": "Music",
@@ -191859,7 +192069,7 @@
       "id": "6c8476545d83008529ce6b3527a120b9"
     },
     {
-      "name": "Village TV (576p)",
+      "name": "Village TV (1080p)",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/VillageTV.png",
       "category": "Religious",
       "country": "Unknown",
@@ -191867,10 +192077,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "VillageTV.in@SD",
-      "url": "https://villagetv.applelive.in/villagetv/villagetv/index.m3u8",
+      "url": "https://live.villagetv.net/villagetv/hd/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "8525d2c630d60fe356280d2df88943ac"
+      "id": "c48729a606522d58d0ac12a69ef03de5"
     },
     {
       "name": "Vinh Long TV 1 (576p) [Not 24/7]",
@@ -198073,6 +198283,34 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "c8546b0b7d9ef25c2525737e708c9bae"
+    },
+    {
+      "name": "YET Max (720p)",
+      "logo": "https://yettelevision.com/assets/images/logo/channel_11847.png",
+      "category": "Music",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "YETMax.in@HD",
+      "url": "https://live.yettelevision.com:5443/LiveApp/streams/yettv2.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "233567c761532386f6f18d550bc22e65"
+    },
+    {
+      "name": "YET TV (720p)",
+      "logo": "https://yettelevision.com/assets/images/logo/channel_1.png",
+      "category": "Entertainment",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "YETTV.in@HD",
+      "url": "https://live.yettelevision.com:5443/LiveApp/streams/yettv.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "1b58f238c314c52a33542f9de809796c"
     },
     {
       "name": "YLE TV 1 (1080p) [Not 24/7]",

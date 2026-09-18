@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-17T08:21:22.989622+00:00",
-  "total": 13061,
+  "updated_at": "2026-09-18T07:57:05.856578+00:00",
+  "total": 13186,
   "channels": [
     {
       "name": "Andorra TV",
@@ -25588,6 +25588,20 @@
       "country_name": "Unknown",
       "language": "Unknown",
       "nsfw": false,
+      "tvg_id": "1HDMusicTelevision.ru@HD",
+      "url": "http://176.118.197.101/1HD/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "8e052cee6005b0e70bc0e575df260409"
+    },
+    {
+      "name": "1HD Music Television (1080p)",
+      "logo": "https://i.imgur.com/4Ww7CsR.png",
+      "category": "Music",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
       "tvg_id": "1HDMusicTelevision.ru@SD",
       "url": "https://stream8.cinerama.uz/1267/tracks-v1a1/mono.m3u8",
       "source": "iptv-org/index",
@@ -25817,6 +25831,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "41c812faac2bb892d604aa178782624d"
+    },
+    {
+      "name": "24Kitchen Bulgary (1080p)",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/24Kitchen.png/960px-24Kitchen.png",
+      "category": "Cooking",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "24Kitchen.us@Bulgary",
+      "url": "http://hls127.freeott.top:8080/BG_24_Kitchen/video.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "d38660a7e404c383c8ccd235e9a09b0a"
     },
     {
       "name": "24KZ (576p)",
@@ -26659,6 +26687,20 @@
       "id": "e644fce80825072b0129c6b9e333c317"
     },
     {
+      "name": "4 SiDES TV (1080p)",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/4sites.png",
+      "category": "News",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "4SiDESTV.in@SD",
+      "url": "https://stream.ottlive.co.in/4sidestv/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "4b386c25f52423502503cc90471afe22"
+    },
+    {
       "name": "48 Hours",
       "logo": "https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png",
       "category": "Series",
@@ -27275,6 +27317,20 @@
       "id": "4c4eabf5068329e5c9beb695fb3b590a"
     },
     {
+      "name": "9 Plus News (1080p)",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/9plusnews.png",
+      "category": "News",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "9PlusNews.in@SD",
+      "url": "https://stream.ottlive.co.in/9plusnews/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "32662ca6680fb090bad176c6a71a926d"
+    },
+    {
       "name": "90's Kids",
       "logo": "https://images.pluto.tv/channels/6452c814939a590008567a3b/colorLogoPNG_1731836283044.png",
       "category": "Kids",
@@ -27611,20 +27667,6 @@
       "id": "962c286c754072ceb0abad2d7d75c012"
     },
     {
-      "name": "A+ [Geo-blocked]",
-      "logo": "https://i.imgur.com/TWk9gfd.png",
-      "category": "Culture",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "APlus.mx@SD",
-      "url": "https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "0d6fab09196bde98377ed14073473e79"
-    },
-    {
       "name": "A-Plus TV (576p)",
       "logo": "https://i.imgur.com/uu0UJme.png",
       "category": "Entertainment",
@@ -27665,6 +27707,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "9f48f7553fc4aa73c92597346c92d6ed"
+    },
+    {
+      "name": "A2 (576p)",
+      "logo": "https://i.imgur.com/NqHla2V.png",
+      "category": "Series",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "A2.ru@SD",
+      "url": "http://str2.iptvhd.ru:8080/Amedia_2/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "dcd097d0238e996a5fdfd5e243b83b8a"
     },
     {
       "name": "A2i Music (720p) [Not 24/7]",
@@ -27989,7 +28045,7 @@
       "id": "6f0673a3ca8ce0e6b715e3df27972142"
     },
     {
-      "name": "Aastha Telugu (480p)",
+      "name": "Aastha Telugu (576p)",
       "logo": "https://dtil.tmsimg.com/assets/s158136_ld_h15_aa.png?lock=720x540",
       "category": "Religious",
       "country": "Unknown",
@@ -27997,10 +28053,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "AasthaTelugu.in@SD",
-      "url": "https://aasthaott.akamaized.net/110923/smil:aasthatelugu.smil/playlist.m3u8",
+      "url": "https://mumbai-edge.smartplaytv.in/AasthaTelugu/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "bd5cf257f3c61c336160cd4ab06c6d0d"
+      "id": "279c9c25784ba0f66e5aba056c425ec8"
     },
     {
       "name": "Aathavan TV (720p) [Not 24/7]",
@@ -28815,20 +28871,6 @@
       "id": "c07079ab68a7eae1215413f8e37a9a8a"
     },
     {
-      "name": "ABC West (720p)",
-      "logo": "https://i.imgur.com/pvXZ8DX.png",
-      "category": "General",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "ABC.us@West",
-      "url": "http://stream.cammonitorplus.net/1797/index.m3u8",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "038ff9ac1323def99b755734bbfb62c5"
-    },
-    {
       "name": "ABC WWAY 3",
       "logo": "https://i.imgur.com/pvXZ8DX.png",
       "category": "General",
@@ -28859,7 +28901,7 @@
     {
       "name": "AbejalesTV (720p)",
       "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEgao1fVZ7tV_ExJErlM5JsI8Rxv5TXJSU7ZE6p-g_qSXOiRKrAjCmX650Aw1PYv6cPqML3eKDQGZ_Z5BPYpeLwwAbZay3g4mpTVBW9Xs5D9nEVPD1i9xfOKQsRCFrOJhBgRt9L9yhfLimbu7S4Ozio2tiZ5uc45lRtyS6RjMpI-Ts1n2m_THG8K19R4STns=w800",
-      "category": "Undefined",
+      "category": "Entertainment",
       "country": "Unknown",
       "country_name": "Unknown",
       "language": "Unknown",
@@ -29067,7 +29109,7 @@
       "id": "06ca091092231559db0a1b8b602e1a03"
     },
     {
-      "name": "ABP Majha (360p)",
+      "name": "ABP Majha (576p)",
       "logo": "https://dtil.tmsimg.com/assets/s142521_ld_h15_aa.png?lock=720x540",
       "category": "News",
       "country": "Unknown",
@@ -29075,10 +29117,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "ABPMajha.in@SD",
-      "url": "https://yupprestreamliveus.akamaized.net/vglive-sk-355289/majha/master.m3u8",
+      "url": "https://mumbai-edge.smartplaytv.in/ABPMajha/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "8932b9004779940f43cadc70b5621f87"
+      "id": "001d94643df5b20b1408b5e229cd2c30"
     },
     {
       "name": "ABP News (1080p)",
@@ -30857,6 +30899,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "51497a8904ec174e906980865053c52c"
+    },
+    {
+      "name": "Akhon Kolkata (478p)",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ekhonkolkata.png",
+      "category": "News",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "AkhonKolkata.in@SD",
+      "url": "https://server.playontv.in/ekhonkolkata/ekhonkolkata/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "9fcfeff0526477bd402dfe12f0ff4866"
     },
     {
       "name": "Akili Kids!",
@@ -33589,20 +33645,6 @@
       "id": "3a3cdc95552b116c10fb693e7039b835"
     },
     {
-      "name": "Amedia 2 (576p)",
-      "logo": "https://i.imgur.com/NqHla2V.png",
-      "category": "Series",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "A2.ru@SD",
-      "url": "http://31.148.48.15/A2/index.m3u8",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "81bd327717189b3bee1b5d99eaff00c6"
-    },
-    {
       "name": "Amedia Hit (1080p)",
       "logo": "https://i.imgur.com/a8ZBGBw.png",
       "category": "Movies;Series",
@@ -34161,6 +34203,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "d1f14e2a299d027ae6bd554e9d1a0d4e"
+    },
+    {
+      "name": "Anand Wari TV (576p)",
+      "logo": "https://papaji.freetvindia.com/media/channels/anandvari.png",
+      "category": "Religious",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "AnandWariTV.in@SD",
+      "url": "https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "dca650ae3669da3a10227f86e3f10f45"
     },
     {
       "name": "Ananda Barta (720p)",
@@ -34835,7 +34891,7 @@
       "id": "454b4989b2c99b5e0bc19d2d63915eec"
     },
     {
-      "name": "Antena 1 (1080p)",
+      "name": "Antena 1",
       "logo": "https://i.imgur.com/EPmwuuv.png",
       "category": "General",
       "country": "Unknown",
@@ -34843,10 +34899,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Antena1.ro@SD",
-      "url": "http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/7002/index.m3u8",
+      "url": "https://live4dai.antenaplay.ro/live2_sdi14/live2_sdi14_600k.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "9f68ea4353b8db3d9b5cbf81c947b8c9"
+      "id": "2219afbec5d4e6ebcdb970fcabda2685"
     },
     {
       "name": "Antena 21 (480p)",
@@ -34891,6 +34947,34 @@
       "id": "c89288e507b657764e411174f231856d"
     },
     {
+      "name": "Antena International",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/3/38/Antena_Interna%C8%9Bional_2022.png/revision/latest/scale-to-width-down/512",
+      "category": "General",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "AntenaInternational.ro@SD",
+      "url": "https://live4dai.antenaplay.ro/live2_sdi06/live2_sdi06_600k.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "d52e279abd3b869dd9e8e097b2ba1c47"
+    },
+    {
+      "name": "Antena Monden (720p)",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/0/01/Antena_Monden_2022.png/revision/latest/scale-to-width-down/300",
+      "category": "Lifestyle",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "AntenaMonden.ro@SD",
+      "url": "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "9770458a90cbf8a65aca727d750beeee"
+    },
+    {
       "name": "Antena Seis TV (720p) [Geo-blocked]",
       "logo": "https://i.imgur.com/9Nh2mo9.png",
       "category": "General",
@@ -34905,7 +34989,7 @@
       "id": "90695462768d3933cb4dd33779bdb1bd"
     },
     {
-      "name": "Antena Stars (720p)",
+      "name": "Antena Stars",
       "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7e/A_Stars_2022.png/revision/latest/scale-to-width-down/300",
       "category": "Entertainment",
       "country": "Unknown",
@@ -34913,10 +34997,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "AntenaStars.ro@SD",
-      "url": "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8",
+      "url": "https://live4dai.antenaplay.ro/live2_sdi07/live2_sdi07_600k.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "5666e5c0950643601a661d18e92ffc83"
+      "id": "8feeadef7f57db50377bf1cb6ddcf00d"
     },
     {
       "name": "Antena SUR (720p)",
@@ -35445,10 +35529,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "AradanaTV.in@SD",
-      "url": "https://cdn.pishow.tv/ott/live/961/master.m3u8",
+      "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "fc7c4b7a641f04f93bf5fa347a941c33"
+      "id": "73317e04fac9d233df70588e2dcc5319"
     },
     {
       "name": "Aragon TV Internacional (720p) [Not 24/7]",
@@ -37481,6 +37565,20 @@
       "id": "f4601f25c4128e4787c2efa3bacea723"
     },
     {
+      "name": "Auto Plus (576p)",
+      "logo": "https://i.imgur.com/sVc8cFt.png",
+      "category": "Auto",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "AutoPlus.ru@SD",
+      "url": "http://str2.iptvhd.ru:8080/Avto_Plyus/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "f141e5d08f44197cf88fa59cdfb55553"
+    },
+    {
       "name": "Autonoma TV",
       "logo": "https://i.imgur.com/kD6badL.png",
       "category": "General",
@@ -38587,6 +38685,20 @@
       "id": "2d58a809b3859884667e6f2574e2d5a9"
     },
     {
+      "name": "Bada Khabar (576p)",
+      "logo": "https://i.imgur.com/XiwygDJ.png",
+      "category": "News",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "BadaKhabar.in@SD",
+      "url": "https://mumbai-edge.smartplaytv.in/BADAKHABAR/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "d9b2c2e4166732a46d3feb4dccbc82d1"
+    },
+    {
       "name": "Badakhshon (576p)",
       "logo": "https://i.imgur.com/iK6AmkZ.png",
       "category": "General",
@@ -38853,7 +38965,7 @@
       "id": "afde7672488401a49456e89f3d90d1d6"
     },
     {
-      "name": "Balle Balle (720p)",
+      "name": "Balle Balle (576p)",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Balle_Balle_TV.png",
       "category": "Music",
       "country": "Unknown",
@@ -38861,10 +38973,24 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "BalleBalle.in@SD",
+      "url": "https://streams.tangotv.in/BALLEBALLE/ORIGIN/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "b3dcf30463aba62dccb31a4b8eb33cc7"
+    },
+    {
+      "name": "Balle Balle HD (720p)",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Balle_Balle_TV.png",
+      "category": "Music",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "BalleBalle.in@HD",
       "url": "https://mcncdndigital.com/balleballetv/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "474f4cc4c4d184d4847cb1515e3b6784"
+      "id": "bd8ef550e12e62c4d5750a9e0cb27122"
     },
     {
       "name": "BAM-TV",
@@ -39469,6 +39595,20 @@
       "id": "7d4711efb305ef613e3e401b5fe96f64"
     },
     {
+      "name": "BBC Earth Romania HD (576p)",
+      "logo": "https://i.imgur.com/nGSsUd4.png",
+      "category": "Documentary",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "BBCEarth.uk@RomaniaHD",
+      "url": "http://hls127.freeott.top:8080/BG_The_World/video.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "6d145d36aa0ac4b6ee938d9327b833a9"
+    },
+    {
       "name": "BBC Food (1080p)",
       "logo": "https://i.imgur.com/kcmHcSx.png",
       "category": "Cooking",
@@ -39649,6 +39789,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "f793d8fe46617c89f391a3970be20025"
+    },
+    {
+      "name": "BBC News South Asia (720p)",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png",
+      "category": "News",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "BBCNews.uk@SouthAsia",
+      "url": "https://mumbai-edge.smartplaytv.in/BBCNews/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "6eaa9e672879faeb799056448f3de8df"
     },
     {
       "name": "BBC News UK HD (1080p)",
@@ -41793,6 +41947,34 @@
       "id": "9bf113a449df296aabd4fbd6fcef8645"
     },
     {
+      "name": "Bhagyam TV (1080p)",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/aanadhamtvtamil.png",
+      "category": "Religious",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "BhagyamTV.in@SD",
+      "url": "https://ott.bhagyam.net/hls/bhagyamweb/index-1409148900-now.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "bc9cddb99bff19fe5f40a23427bd99da"
+    },
+    {
+      "name": "Bhakthi Siri (576p)",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/f6da6ddbbd4e157e54904f34196118e7.png",
+      "category": "Religious",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "BhakthiSiri.in@SD",
+      "url": "https://mumbai-edge.smartplaytv.in/Bhakthisiri/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "29e598438d9d58d151da6745ce0f1f71"
+    },
+    {
       "name": "Bhakthi TV (720p)",
       "logo": "https://upload.wikimedia.org/wikipedia/en/6/61/Bhakthi_TV_logo.jpg",
       "category": "Religious",
@@ -42059,7 +42241,7 @@
       "id": "6e38be0c26e7837a8b329f056167ca79"
     },
     {
-      "name": "Big TV 24x7 (576i)",
+      "name": "Big TV 24x7 (1080p)",
       "logo": "https://i.postimg.cc/rpHrRxR5/big_tv_malayalam.png",
       "category": "News",
       "country": "Unknown",
@@ -42067,10 +42249,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "BigTV24x7.in@SD",
-      "url": "https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8",
+      "url": "https://stream.ottlive.co.in/bigtvmalayalam/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "675ff73a96a2d959b820d12c322aabc3"
+      "id": "8517a66ed6c68213dbc0fcf939f4c9de"
     },
     {
       "name": "Bigtime",
@@ -43207,6 +43389,62 @@
       "id": "fd14cc3754c4f882e10432ce023b3073"
     },
     {
+      "name": "Bollygold (1080p)",
+      "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000600Q_20260805T003941SQUARE.png",
+      "category": "Movies",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "Bollygold.in@HD",
+      "url": "https://jmp2.uk/stvp-IN4000600Q",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "cd548afb81bf7522ac097938de699723"
+    },
+    {
+      "name": "Bollywood (576p)",
+      "logo": "https://i.imgur.com/YLQRnXt.png",
+      "category": "Movies",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "Bollywood.ru@SD",
+      "url": "http://str2.iptvhd.ru:8080/bollywood/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "ae275ca7871d32cc948410c068a11371"
+    },
+    {
+      "name": "Bollywood Film",
+      "logo": "https://i.imgur.com/bEMUpHZ.png",
+      "category": "Classic;Movies",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "BollywoodFilm.ro@SD",
+      "url": "https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "31951e807627399254806d21b75e4017"
+    },
+    {
+      "name": "Bollywood HD (1080p)",
+      "logo": "https://i.imgur.com/YLQRnXt.png",
+      "category": "Movies",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "Bollywood.ru@HD",
+      "url": "http://str2.iptvhd.ru:8080/Bollywood_HD/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "2a8aada00c68563ec2c664724caed3c3"
+    },
+    {
       "name": "Bollywood HD (1080p)",
       "logo": "https://i.imgur.com/scDKOLS.png",
       "category": "Movies",
@@ -43485,6 +43723,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "f3f2f62d0a65615ff757571603542a71"
+    },
+    {
+      "name": "Boogle Bollywood (720p)",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Boogle_Bollywood.png",
+      "category": "Music",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "BoogleBollywood.in@SD",
+      "url": "https://yuppnimrestreammum.akamaized.net/181224/smil:bogglebollywood.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "1be55de9220d5a0e5c29d494f1442e07"
     },
     {
       "name": "Boom TV (1080p)",
@@ -43877,6 +44129,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "15fd09b2360377dae8058820ae8957f5"
+    },
+    {
+      "name": "BRIDGE Fresh (1080p)",
+      "logo": "https://i.imgur.com/IkUhaiG.png",
+      "category": "Music",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "BRIDGEFresh.ru@SD",
+      "url": "http://str2.iptvhd.ru:8080/Bridge_TV_HD/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "8d8b4cf560ece9c04f73128051b97fc9"
     },
     {
       "name": "BRIDGE Hits (576p)",
@@ -49185,6 +49451,20 @@
       "id": "d3bdbc9f98edaa3a7ab0126a21245c1a"
     },
     {
+      "name": "Captain (576p)",
+      "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0029CNNM.png?lock=720x540",
+      "category": "Entertainment",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "Captain.in@SD",
+      "url": "https://mumbai-edge.smartplaytv.in/captain/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "5e62adc41d4c9ce78c4af35e1a9feb4a"
+    },
+    {
       "name": "Capuchin TV",
       "logo": "https://i.imgur.com/VCDSjX7.png",
       "category": "Religious",
@@ -52055,7 +52335,7 @@
       "id": "be0f8866f163de5329b7a731e4ae46fe"
     },
     {
-      "name": "Channel 13 (720p) [Not 24/7]",
+      "name": "Channel 13",
       "logo": "https://i.imgur.com/lR5jUSU.jpeg",
       "category": "General",
       "country": "Unknown",
@@ -52063,10 +52343,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Channel13.mv@SD",
-      "url": "https://stream.theyraonline.com/live/channel13@live/index.m3u8",
+      "url": "https://sunplay-cdn.bitratelabs.com/live/local-channel-fhd/ch13-28754fda0a7f338e8fccfe7206ab9be8_1080p/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "a5f6753a0776337f7a726ca829e6b56a"
+      "id": "ca577af3fe97a068de18528bd0ef4da8"
     },
     {
       "name": "Channel 18 GAC",
@@ -52123,6 +52403,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "aa55ababa1b924a289aa169dcd26e18d"
+    },
+    {
+      "name": "Channel 5 (576p)",
+      "logo": "https://i.imgur.com/KPXMa3U.png",
+      "category": "General",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "Channel5.ru@SD",
+      "url": "http://str2.iptvhd.ru:8080/5_kanal/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "faed6bfdb3c24e23e9bab6120f3ee0e8"
     },
     {
       "name": "Channel 5 International (576p)",
@@ -52417,6 +52711,34 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "1d93c329b2d37dde48cdcae7e8bdf0d5"
+    },
+    {
+      "name": "Channel One CIS (576p)",
+      "logo": "https://i.imgur.com/RUSX0rX.png",
+      "category": "General",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "ChannelOneCIS.ru@SD",
+      "url": "https://fs.uplink.kz/perviy_kanal_sng/mono.m3u8?token=onlinetv",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "0e9e6e24c706ed9e6b74a15feefc0a6b"
+    },
+    {
+      "name": "Channel One Eurasia (576p)",
+      "logo": "https://i.imgur.com/vm5sJHP.png",
+      "category": "General",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "ChannelOneEurasia.kz@SD",
+      "url": "https://fs.uplink.kz/perviy_kanal_evrasia/mono.m3u8?token=onlinetv",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "20bd9a1e137569c77975a7fc70c7f0be"
     },
     {
       "name": "Channel One HD (720p)",
@@ -53537,20 +53859,6 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "656d5f9fecf7e15ee39d0766a4ed31ce"
-    },
-    {
-      "name": "Cinecanal South (1080p)",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",
-      "category": "Movies",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "Cinecanal.us@South",
-      "url": "http://45.162.193.35/CINECANAL/index.m3u8",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "762d1ce66973bc893646a014ea77b94b"
     },
     {
       "name": "CineLatino (720p)",
@@ -57719,10 +58027,24 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "CVRHealth.in@SD",
-      "url": "https://cdn.pishow.tv/ott/live/395/master.m3u8",
+      "url": "https://mumbai-edge.smartplaytv.in/CVRHealth/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "78b5b1bad301b0c78b2848a3414636d2"
+      "id": "073ffa1788e165a8a8d1e4db0aef0e1c"
+    },
+    {
+      "name": "CVR News (576p)",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CVR_NEWS/images/LOGO_HD/LOGO_HD_image.png",
+      "category": "News",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "CVRNews.in@SD",
+      "url": "https://mumbai-edge.smartplaytv.in/CVRNews/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "07afa54aa704c890bcba543ddb3b294b"
     },
     {
       "name": "CVR OM Spiritual (576p)",
@@ -58811,10 +59133,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "DDIndia.in@SD",
-      "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8",
+      "url": "https://mumbai-edge.smartplaytv.in/DDIndia/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "dc851902fad10eea7586b38a4894bed5"
+      "id": "2f42a83d111a5cea6cf785e5b94499bc"
     },
     {
       "name": "DD India Ⓨ",
@@ -58859,7 +59181,7 @@
       "id": "8ec604486a1192cde5c49af59b0bf766"
     },
     {
-      "name": "DD Kisan (720p)",
+      "name": "DD Kisan (1080p)",
       "logo": "https://i.imgur.com/x56WJEa.png",
       "category": "Education;Outdoor",
       "country": "Unknown",
@@ -58867,10 +59189,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "DDKisan.in@SD",
-      "url": "https://cdn.pishow.tv/ott/live/9/master.m3u8",
+      "url": "https://mumbai-edge.smartplaytv.in/DDKisan/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "4d05a73e534a8a80f26cd99ef6a8266d"
+      "id": "fd0c0d3e3e7b86983b9d536e99eb787d"
     },
     {
       "name": "DD Madhya Pradesh (720p)",
@@ -58881,10 +59203,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "DDMadhyaPradesh.in@SD",
-      "url": "https://cdn.pishow.tv/ott/live/31/master.m3u8",
+      "url": "https://mumbai-edge.smartplaytv.in/ddmadhyapradesh/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "cb0484a945f5017c35005616d44609fe"
+      "id": "5d93be8d658e554d924fed5c3e238539"
     },
     {
       "name": "DD Malayalam (504p)",
@@ -58979,13 +59301,13 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "DDNational.in@HD",
-      "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8",
+      "url": "https://mumbai-edge.smartplaytv.in/DDNational/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "79bf46287fadd0791e445e8e7f9480ff"
+      "id": "0355e263b31d37ccb91dae8cc931f0ab"
     },
     {
-      "name": "DD News (576p)",
+      "name": "DD News (1080p)",
       "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20News%20HD.png",
       "category": "News",
       "country": "Unknown",
@@ -58993,10 +59315,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "DDNews.in@SD",
-      "url": "https://streams.tangotv.in/DDNEWS/ORIGIN/index.m3u8",
+      "url": "https://mumbai-edge.smartplaytv.in/DDNews/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "f74af3c4958e746ac8cbd4c0e431db59"
+      "id": "e93c5fd8e8c65b065348e3059c53c693"
     },
     {
       "name": "DD News HD (1080p)",
@@ -59013,7 +59335,7 @@
       "id": "326b0dc6eb78a38b6bf0189c5948dad1"
     },
     {
-      "name": "DD Odia (504p)",
+      "name": "DD Odia (576p)",
       "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_ORIYA/images/LOGO_HD/image.png",
       "category": "General",
       "country": "Unknown",
@@ -59021,10 +59343,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "DDOdia.in@SD",
-      "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ef4ea632b77a480ebd77106968aa99a9/index.m3u8",
+      "url": "https://mumbai-edge.smartplaytv.in/ddodiya/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "bbce98105e288d4a9696817118806cb7"
+      "id": "b45e37902c576aa0eb470b1836cbeca6"
     },
     {
       "name": "DD Punjabi (504p)",
@@ -59081,6 +59403,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "93ab5397787892682ab9fc407c34d614"
+    },
+    {
+      "name": "DD Sports (720p)",
+      "logo": "https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png?lock=720x540",
+      "category": "Sports",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "DDSports.in@HD",
+      "url": "https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "ec9ca1cae520b13176c638b7c5d3a7d9"
     },
     {
       "name": "DD Sports SD (1080p)",
@@ -59909,6 +60245,34 @@
       "id": "9853e8c29f7d4f5b01bd979979321fc6"
     },
     {
+      "name": "Detski mir (576p)",
+      "logo": "https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/51.png",
+      "category": "Kids",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "Detskimir.ru@SD",
+      "url": "http://str2.iptvhd.ru:8080/Teleklub/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "529b702ee10c4d008948415b32a7919c"
+    },
+    {
+      "name": "Detskiy (576p)",
+      "logo": "https://mt.media/upload/iblock/c22/pndw8yi2jwgppdrjikm3eusqp8087kr3.png",
+      "category": "Kids",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "Detskiy.ru@SD",
+      "url": "https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "02929673c603b96cd03ef3246c31e92c"
+    },
+    {
       "name": "Detvora+ (1080p)",
       "logo": "https://interra-cdn-europe1.b-cdn.net/logo-detvora.png",
       "category": "Animation;Family;Kids",
@@ -60593,6 +60957,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "bf96d17bf4f15a3e62ec204bb2567580"
+    },
+    {
+      "name": "Disney Channel (576p)",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+      "category": "Kids",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "DisneyChannel.il@SD",
+      "url": "http://str2.iptvhd.ru:8080/disney/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "062e3796130ab11313d3836e3a3bdbe4"
     },
     {
       "name": "Disney Channel (576p)",
@@ -61449,7 +61827,7 @@
       "id": "8b5f2bf89346ca44d6b0d733ad43688d"
     },
     {
-      "name": "DocuBox Russia",
+      "name": "DocuBox Russia (1080p)",
       "logo": "https://i.imgur.com/pX4U9OG.png",
       "category": "Documentary",
       "country": "Unknown",
@@ -61457,10 +61835,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "DocuBox.nl@Russia",
-      "url": "http://dtv.vol.net.ua/DOCUBOX-HD/index.m3u8",
+      "url": "http://str2.iptvhd.ru:8080/DocuBoxHD/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "e9f28f23743098eea7181526097caaf8"
+      "id": "7af382e87b83621b66cb480173b7f3de"
     },
     {
       "name": "Documentari – Pluto TV",
@@ -65005,20 +65383,6 @@
       "id": "de4fa4b2db8cfdf872804e34e794c974"
     },
     {
-      "name": "Enterr 10 Rangeela (1080p)",
-      "logo": "https://i.imgur.com/L4rv0Vm.png",
-      "category": "Entertainment",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "Enterr10Rangeela.in@SD",
-      "url": "http://103.185.24.134:3001/SUN-BANGLA-HD/index.m3u8",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "4fb99fe1b3371f1386760352959aad23"
-    },
-    {
       "name": "Entertainment Tonight (1080p)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Entertainment_Tonight_2021.svg/960px-Entertainment_Tonight_2021.svg.png",
       "category": "Entertainment;News",
@@ -65999,6 +66363,20 @@
       "id": "cc2b4250080fd81e4ff9d029547e150d"
     },
     {
+      "name": "Etno TV",
+      "logo": "https://i.imgur.com/jzhZ8kl.png",
+      "category": "General",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "EtnoTV.ro@SD",
+      "url": "https://hls02ns.antenaplay.ro/hls/etno-tv-sd/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "0f680ae4b81b645f4f48f55aa94645ef"
+    },
+    {
       "name": "ETV (1080p)",
       "logo": "https://i.imgur.com/m5E2VP0.png",
       "category": "General",
@@ -66153,6 +66531,20 @@
       "id": "23300070b1902c018b6e67f521062cd0"
     },
     {
+      "name": "ETV Life (1080p)",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_LIFE/images/LOGO_HD/image.png",
+      "category": "Lifestyle",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "ETVLife.in@SD",
+      "url": "https://mumbai-edge.smartplaytv.in/ETVLIFE/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "1b06deab9e3b7a484f00f02574dd1558"
+    },
+    {
       "name": "ETV Manisa (1080p) [Not 24/7]",
       "logo": "https://i.ibb.co/QKXtdkz/sOd3INg.png",
       "category": "Undefined",
@@ -66179,6 +66571,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "6cf8f14145396fc5bc924d10262638eb"
+    },
+    {
+      "name": "ETV Music (1080p)",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ETVMusic12.png",
+      "category": "Music",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "ETVMusic.in@SD",
+      "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "50672f13f708d7c7c47d515574cb9ef4"
     },
     {
       "name": "ETV News (1080p)",
@@ -66559,7 +66965,7 @@
       "id": "2c2331e2815e687538638c69637e2b22"
     },
     {
-      "name": "Euronews Russian (720p)",
+      "name": "Euronews Russian (1080p)",
       "logo": "https://i.imgur.com/8t9mdg9.png",
       "category": "News",
       "country": "Unknown",
@@ -66567,10 +66973,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "EuronewsRussian.fr@SD",
-      "url": "https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8",
+      "url": "http://str2.iptvhd.ru:8080/Euronews/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "88c5b285d452249129f80280fcd301f1"
+      "id": "73a28d8e4fc06f3aeb4928884f30fb43"
     },
     {
       "name": "Euronews Spanish (1080p)",
@@ -67329,6 +67735,20 @@
       "id": "4c938180a7278ae84e2f5a413289eff4"
     },
     {
+      "name": "Extreme Sports Channel HD (1080p)",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Extreme_Sports_Channel.svg/960px-Extreme_Sports_Channel.svg.png",
+      "category": "Sports",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "ExtremeSportsChannel.ru@HD",
+      "url": "http://str2.iptvhd.ru:8080/Extreme_Sports/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "38b71f435299455dc8c4300596ed4a27"
+    },
+    {
       "name": "F1 Channel (1080p) [Geo-blocked]",
       "logo": "https://i.imgur.com/cjXzWsI.png",
       "category": "Sports",
@@ -67509,20 +67929,6 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "4e6f0f913f37da506543ad2dea0f8b94"
-    },
-    {
-      "name": "Faith TV (576p)",
-      "logo": "",
-      "category": "Undefined",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "FaithTV.za@SD",
-      "url": "https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "579eed12702572f9c0a1083d881e051a"
     },
     {
       "name": "Faith UK (1080p)",
@@ -68015,6 +68421,20 @@
       "id": "daedd29c051be8dd5a153c9f956af596"
     },
     {
+      "name": "FashionTV Asia (720p)",
+      "logo": "https://i.imgur.com/ucTh9tO.png",
+      "category": "Lifestyle",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "FashionTVAsia.fr@SD",
+      "url": "http://58.8.186.128:10006/bysid/2616",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "f6ebccc4c5cec4ce4e422aa3a7504ff9"
+    },
+    {
       "name": "FashionTV Europe (1080p)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/960px-Fashion_TV_logo.svg.png",
       "category": "Lifestyle",
@@ -68069,6 +68489,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "f13f6bc39af2ad6546e5f6f747a5a943"
+    },
+    {
+      "name": "Fast&FunBox HD (1080p)",
+      "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/logo/fastandfunbox-logo.png",
+      "category": "Sports",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "FastFunBox.ru@HD",
+      "url": "http://str2.iptvhd.ru:8080/FastFunBoxHD/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "534918753dc9b1c6b5f899845b2130cf"
     },
     {
       "name": "Fast1 (576p)",
@@ -68363,6 +68797,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "630636643bd6ac58238b460bbf6feb60"
+    },
+    {
+      "name": "Fieri Tv (720p)",
+      "logo": "https://raw.githubusercontent.com/biptv/fieri-tv-logo/main/120.png",
+      "category": "General",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "FieriTv.al@HD",
+      "url": "http://valashop.online:8090/fieritv.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "5b8f8a76e5d59731f767c65328b2be12"
     },
     {
       "name": "Fierro a Fondo TV (1080p)",
@@ -68869,7 +69317,7 @@
       "id": "d0b6c42b8b458f356c495ed287e7af29"
     },
     {
-      "name": "FILMBOX+ One Ukraine & Baltics (450p) [Geo-blocked]",
+      "name": "FILMBOX+ One Ukraine & Baltics (576p) [Not 24/7]",
       "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",
       "category": "Movies",
       "country": "Unknown",
@@ -68877,10 +69325,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "FILMBOXPlusOne.pl@UkraineBaltics",
-      "url": "https://s70378.cdn.ngenix.net/filmbox/index.m3u8",
+      "url": "https://iptv.prosto.tv/ch064/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "2ca01f2dac4237b49a8eb57aad2c50a0"
+      "id": "1af4f5fc639c8b8ba7c31464ab8d4785"
     },
     {
       "name": "Filmes Suspense",
@@ -69539,6 +69987,34 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "51e1dc65f9f5f67c32108490d297b554"
+    },
+    {
+      "name": "Food Network (576p)",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png",
+      "category": "Cooking",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "FoodNetwork.ie@SD",
+      "url": "http://hls127.freeott.top:8080/Food_Network_SD/video.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "c50fa2fda54865b0fc4fe112801fbec2"
+    },
+    {
+      "name": "FoodTime (1080p)",
+      "logo": "https://i.imgur.com/gxCYAwH.png",
+      "category": "Cooking",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "FoodTime.ru@HD",
+      "url": "http://str2.iptvhd.ru:8080/Eda/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "587915e7f9b6e18d08c887aa62dbd9d2"
     },
     {
       "name": "FoodTime (1080p)",
@@ -70619,6 +71095,34 @@
       "id": "b89c540b486c8229949311549a5f6ba1"
     },
     {
+      "name": "Friday! International Kazakhstan (576p)",
+      "logo": "https://i.imgur.com/N2z3EZC.png",
+      "category": "Entertainment",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "FridayInternational.ru@Kazakhstan",
+      "url": "https://fs.uplink.kz/bolshaya_pyatnica/mono.m3u8?token=onlinetv",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "1183e38c8bac5f41e951c30eb14b4360"
+    },
+    {
+      "name": "Friends TV (1080p)",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Friends_TV.png",
+      "category": "Entertainment",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "FriendsTV.in@SD",
+      "url": "https://server.playontv.in/friendstv/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "56fd6dc69fd6508ff19e8e926485436a"
+    },
+    {
       "name": "FrightFlix (720p)",
       "logo": "https://i.imgur.com/rgNQYAl.png",
       "category": "Movies",
@@ -71082,6 +71586,20 @@
     },
     {
       "name": "FX (1080p)",
+      "logo": "https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/478.png",
+      "category": "Entertainment",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "FX.ru@SD",
+      "url": "http://str2.iptvhd.ru:8080/FOX_HD/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "4c2acfbae0ec2db2d356352eb616bb38"
+    },
+    {
+      "name": "FX (1080p)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
       "category": "Entertainment",
       "country": "Unknown",
@@ -71121,6 +71639,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "89bd28dade56a7cae246da6670c1ec57"
+    },
+    {
+      "name": "FX Life (576p)",
+      "logo": "https://i.imgur.com/VLv4r50.png",
+      "category": "Series",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "FXLife.ru@SD",
+      "url": "http://str2.iptvhd.ru:8080/Fox_Life_HD/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "ad128d4631e735b4d84ae598cefdf17c"
     },
     {
       "name": "FX TV 1",
@@ -71193,7 +71725,7 @@
       "id": "9a7cd3ab458f7e35f60e49b771844066"
     },
     {
-      "name": "Galavision (1080p) [Geo-blocked]",
+      "name": "Galavision (720p)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Galavision_Logo_2024.svg/960px-Galavision_Logo_2024.svg.png",
       "category": "General",
       "country": "Unknown",
@@ -71201,10 +71733,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Galavision.us@East",
-      "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8",
+      "url": "http://200.115.120.1:8000/play/ca128/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "f5d2371cfeb735b5bd99ad4bffec1501"
+      "id": "6829a94c446089c57a6268b395d210ab"
     },
     {
       "name": "Galavision West (1080p) [Geo-blocked]",
@@ -72551,7 +73083,7 @@
       "id": "88e16b4163f2b39761a0fff53acf14bf"
     },
     {
-      "name": "Glazami Turista (576i)",
+      "name": "Glazami Turista (1080p)",
       "logo": "https://i.imgur.com/GXJKWdy.png",
       "category": "Travel",
       "country": "Unknown",
@@ -72559,10 +73091,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "GlazamiTurista.ru@SD",
-      "url": "https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8",
+      "url": "http://str2.iptvhd.ru:8080/Glazami_turista_HD/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "319acfde28377c324ef14ec9a94e7aba"
+      "id": "19f1e8cc81a8792b75f1a111cd48b900"
     },
     {
       "name": "Glendale 11 AZ (360p)",
@@ -73349,6 +73881,20 @@
       "id": "14e444ca61c3cc73d63553e42716a34e"
     },
     {
+      "name": "Goldmines 2 (576p)",
+      "logo": "",
+      "category": "Movies",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "Goldmines2.in@SD",
+      "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "491fb8c782928d8ff31a884153b4dc1f"
+    },
+    {
       "name": "Goldmines Action (576p)",
       "logo": "https://yt3.googleusercontent.com/_X6U6bMLF-pTu5wBMFwsSI6aubGrXk2B0kUKdGiLIMqFLyDIne4Ot4ro76BS1S8fX3pWcCwS=s900-c-k-c0x00ffffff-no-rj",
       "category": "Movies",
@@ -73515,6 +74061,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "1b04ab1fdbfb39fa2d673cccd6b2d38f"
+    },
+    {
+      "name": "Goodness TV (576p)",
+      "logo": "https://dtil.tmsimg.com/assets/s143091_ld_h15_aa.png?lock=720x540",
+      "category": "Religious",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "GoodnessTV.in@SD",
+      "url": "https://mumt07.tangotv.in/zHjX9OFlGOODNESSTV/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "f2ec2255513b05bbf904e30fc1001757"
     },
     {
       "name": "GoodNews TV (720p)",
@@ -73993,8 +74553,22 @@
       "id": "525239e475f84ec3935b65a94a8e050f"
     },
     {
+      "name": "GS TV (576p)",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/GS_TV.png",
+      "category": "News",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "GSTV.in@SD",
+      "url": "https://mumt05.tangotv.in/87NeALx2GSTV/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "b0e89f10d1eb67864f78f037c32f7cb8"
+    },
+    {
       "name": "GSG TV (720p)",
-      "logo": "https://i.imgur.com/8fZnNu0.png",
+      "logo": "https://i.imgur.com/Naj8yUN.png",
       "category": "Religious",
       "country": "Unknown",
       "country_name": "Unknown",
@@ -74987,6 +75561,20 @@
       "id": "62f8b439937af0b79be7b4482f7fc49a"
     },
     {
+      "name": "Happy Channel",
+      "logo": "https://i.imgur.com/kpFaiku.png",
+      "category": "Entertainment",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "HappyChannel.ro@SD",
+      "url": "https://live4dai.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_600k.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "8b1f309115c4271a9a9705dae26b9c04"
+    },
+    {
       "name": "Happy Days",
       "logo": "https://images.pluto.tv/channels/654a4e29ab05240008a18625/colorLogoPNG.png",
       "category": "Classic;Series",
@@ -75169,7 +75757,7 @@
       "id": "215bc435302f40640091b6034c99d2f0"
     },
     {
-      "name": "Harvest TV (720p)",
+      "name": "Harvest TV (1080p)",
       "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HARVEST_TV_24X7/images/LOGO_HD/image.png",
       "category": "Religious",
       "country": "Unknown",
@@ -75177,10 +75765,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "HarvestTV.in@SD",
-      "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8",
+      "url": "https://mumbai-edge.smartplaytv.in/HarvestTV/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "fef1d525863b8f3ce1c7cd8535c9bd3b"
+      "id": "1b71703f1e90b7e8339068cd391c9d2a"
     },
     {
       "name": "Harvest TV Keralam (720p)",
@@ -75391,6 +75979,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "cba2d7c6884ff67bd2ea2f2a1188c38c"
+    },
+    {
+      "name": "Headlines Tripura (720p)",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Headlines_Tripura.png",
+      "category": "News",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "HeadlinesTripura.in@SD",
+      "url": "https://distro.ottlive.co.in/headlinestripura/headlinestripura/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "e7ca192716825dae133f2f1ff14dac10"
     },
     {
       "name": "Heart Radio Aruba",
@@ -75659,20 +76261,6 @@
       "id": "cafc303ae83c546d35132c2848ec9b97"
     },
     {
-      "name": "HGTV (1080p)",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png",
-      "category": "Lifestyle",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "HGTV.nz@SD",
-      "url": "https://i.mjh.nz/.r/sky-hgtv.m3u8",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "cbfaf29c459544354f3874ed54bb0ba2"
-    },
-    {
       "name": "Hi Dost! (720p)",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Hi_Dost.png",
       "category": "Entertainment",
@@ -75813,7 +76401,7 @@
       "id": "f17e846ea0a003e18b9e3994e68dd03a"
     },
     {
-      "name": "Hindi Khabar (576p)",
+      "name": "Hindi Khabar (1080p)",
       "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HINDI_KHABAR/images/LOGO_HD/image.png",
       "category": "News",
       "country": "Unknown",
@@ -75821,13 +76409,13 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "HindiKhabar.in@SD",
-      "url": "https://mumt04.tangotv.in/m18aqlK4HINDIKHABAR/index.m3u8",
+      "url": "https://stream.ottlive.co.in/hindikhabar/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "9dbdfaa80ac8756347bace6e48a5c997"
+      "id": "b0cfeebcae2a7638d41830c6635bc213"
     },
     {
-      "name": "Hindu Dharmam (576p)",
+      "name": "Hindu Dharmam (1080p)",
       "logo": "https://dtil.tmsimg.com/assets/s143131_ld_h15_aa.png?lock=720x540",
       "category": "Religious",
       "country": "Unknown",
@@ -75835,10 +76423,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "HinduDharmam.in@SD",
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3HINDUDHARMAM/index.m3u8",
+      "url": "https://mumbai-edge.smartplaytv.in/Hindudharmam/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "9813881b38d54e12cfe0e94f85eff933"
+      "id": "c1f72cf73511415b4b0f195d804834a9"
     },
     {
       "name": "Hirshabelle TV (576p)",
@@ -75993,6 +76581,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "48a227998e7e8e22ce53b8e8d1373fae"
+    },
+    {
+      "name": "History 2 (1080p)",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png",
+      "category": "Documentary",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "History2.ru@SD",
+      "url": "http://str2.iptvhd.ru:8080/H2_HD/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "e12961ea2bc0776f8c8992086dac9011"
     },
     {
       "name": "History 2 Latin America (1080p)",
@@ -76751,6 +77353,20 @@
       "id": "d578e945de739eb6d114bb95cc59d358"
     },
     {
+      "name": "Horror Channel (1080p)",
+      "logo": "https://i.imgur.com/VvNflYm.png",
+      "category": "Movies",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "HorrorChannel.it@SD",
+      "url": "http://str2.iptvhd.ru:8080/Horror/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "f52b770b73f10537c4ca4673ff74f368"
+    },
+    {
       "name": "Horror – Pluto TV",
       "logo": "https://i.imgur.com/zhoHRSE.png",
       "category": "Vod Italy",
@@ -76821,7 +77437,7 @@
       "id": "501c03355ed99ddd0ef0892a3c62bfdd"
     },
     {
-      "name": "Hosanna TV Hindi",
+      "name": "Hosanna TV Hindi (720p)",
       "logo": "https://i.imgur.com/VYorU1L.png",
       "category": "Religious",
       "country": "Unknown",
@@ -76829,10 +77445,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "HosannaTV.in@Hindi",
-      "url": "https://ktismaservers.in:3466/live/hosannattvhindhilive.m3u8",
+      "url": "https://mumbai-edge.smartplaytv.in/HosannaTV/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "04851b8011c1bbcef00d8d2e30dcd80e"
+      "id": "f5e67e3ac6ea92f39fbae5160189a1b0"
     },
     {
       "name": "Hosanna Vision (720p) [Not 24/7]",
@@ -76861,6 +77477,76 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "768c2428f24fbebaa7216f2c836f82df"
+    },
+    {
+      "name": "HOT Cinema 1 (1080p)",
+      "logo": "https://antifriz.tv/storage/images/pack_logos/f14b95e0e8b95995de6e7accdba34762.png",
+      "category": "Movies",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "HOTCinema1.il@SD",
+      "url": "http://str2.iptvhd.ru:8080/Gold/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "9a3f687a26d4140aa1f2d59b371b69ef"
+    },
+    {
+      "name": "HOT Cinema 2 (1080p)",
+      "logo": "https://antifriz.tv/storage/images/pack_logos/f18976e8a3236dbdabbb35f73f6e8988.png",
+      "category": "Movies",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "HOTCinema2.il@SD",
+      "url": "http://str2.iptvhd.ru:8080/action/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "7ce71dd8e76c7a1fa192e9ef8e8d7df2"
+    },
+    {
+      "name": "HOT Cinema 3 (1080p)",
+      "logo": "https://antifriz.tv/storage/images/pack_logos/2edb1bb63076c75baacf2674ce8c8c37.png",
+      "category": "Movies",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "HOTCinema3.il@SD",
+      "url": "http://str2.iptvhd.ru:8080/fun/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "d0a4a2dd61dc973c4b9a481874d81b45"
+    },
+    {
+      "name": "HOT Cinema 4 (1080p)",
+      "logo": "https://antifriz.tv/storage/images/pack_logos/e055cf2620f58c60b1e65be4717d2c22.png",
+      "category": "Movies",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "HOTCinema4.il@SD",
+      "url": "http://str2.iptvhd.ru:8080/drama/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "317dcff12bc38dccc0331082b2f54aaa"
+    },
+    {
+      "name": "HOT8 (1080p)",
+      "logo": "https://upload.wikimedia.org/wikipedia/he/thumb/a/a9/HOT8_2018_Logo.svg/250px-HOT8_2018_Logo.svg.png",
+      "category": "General",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "HOT8.il@SD",
+      "url": "http://str2.iptvhd.ru:8080/channel8/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "30d0313cb3abcd292d7a0a86c249e69c"
     },
     {
       "name": "House of Docs – Pluto TV",
@@ -78613,6 +79299,20 @@
       "id": "0bd44831f12f37bcbb1ed4cfe91841c9"
     },
     {
+      "name": "Illusion+ (576p)",
+      "logo": "https://i.imgur.com/9GvuHQ5.png",
+      "category": "Movies",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "IllusionPlus.ru@SD",
+      "url": "http://176.118.197.101/Illuzion+/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "ecbbe904b3f438fe727fb73789b444a8"
+    },
+    {
       "name": "Ilm va Tabiat (1080p)",
       "logo": "https://i.imgur.com/MDULX7X.png",
       "category": "Science",
@@ -79283,6 +79983,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "4acfd6cc06a2bb0a25d53b0341207503"
+    },
+    {
+      "name": "Inedit TV",
+      "logo": "https://i.imgur.com/HcFpNwA.png",
+      "category": "Undefined",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "IneditTV.ro@SD",
+      "url": "https://hls02ns.antenaplay.ro/hls/inedit-tv-hd/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "c25efe4f5f43408190d6c99573208f7b"
     },
     {
       "name": "INews (720p)",
@@ -81161,6 +81875,20 @@
       "id": "85ae072191be541ed4d5f8228111c600"
     },
     {
+      "name": "Jaya Plus (576p)",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JAYA_PLUS/images/LOGO_HD/image.png",
+      "category": "Culture;Entertainment",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "JayaPlus.in@SD",
+      "url": "https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "79df05bc26beef5bc8d6c37977136969"
+    },
+    {
       "name": "Jaya TV (1080p)",
       "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JAYA_TV/images/LOGO_HD/image.png",
       "category": "Culture;Entertainment",
@@ -81581,6 +82309,20 @@
       "id": "2e42ff5ba52c869bd5d96f6969ea10cb"
     },
     {
+      "name": "Jibek Joly (576p)",
+      "logo": "https://i.imgur.com/SqyXtgK.png",
+      "category": "General",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "JibekJoly.kz@SD",
+      "url": "https://fs.uplink.kz/jibek_joly/mono.m3u8?token=onlinetv",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "ff3cd51a8608e5f32f2bcb6049d3bc13"
+    },
+    {
       "name": "Jibek Joly HD (1080p)",
       "logo": "https://i.imgur.com/SqyXtgK.png",
       "category": "General",
@@ -81904,8 +82646,8 @@
     },
     {
       "name": "JOJG-DTV (1080p)",
-      "logo": "https://i.imgur.com/fAZ2BEZ.png",
-      "category": "General",
+      "logo": "",
+      "category": "Undefined",
       "country": "Unknown",
       "country_name": "Unknown",
       "language": "Unknown",
@@ -82785,6 +83527,20 @@
       "id": "c832b03b64637f1ee8898f9f6fb81266"
     },
     {
+      "name": "Kadak (1080p)",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Kadak.png",
+      "category": "News",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "Kadak.in@SD",
+      "url": "https://n18syndication.akamaized.net/bpk-tv/Kadak_NW18_MOB/output01/master.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "522da993f219c9a5974bea6ca84c0fb3"
+    },
+    {
       "name": "Kaifa TV (576p)",
       "logo": "https://i.imgur.com/zGGeSQg.png",
       "category": "General",
@@ -83009,6 +83765,20 @@
       "id": "cccc89f23ae3bc21ebac588feb9945f9"
     },
     {
+      "name": "Kamedi HD (1080p)",
+      "logo": "https://i.imgur.com/UU4SGuk.png",
+      "category": "Comedy",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "Kamedi.ru@HD",
+      "url": "http://str2.iptvhd.ru:8080/Kinopokaz_HD2/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "ce3c5b5da453d795b61771ffee5223c7"
+    },
+    {
       "name": "Kan 11 (1080p)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/960px-Kan11Logo.svg.png",
       "category": "General",
@@ -83035,6 +83805,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "5b58104c4bb28b0010065daea4819de7"
+    },
+    {
+      "name": "Kanak News (576p)",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KANAK_NEWS/images/LOGO_HD/image.png",
+      "category": "News",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "KanakNews.in@SD",
+      "url": "https://mumbai-edge.smartplaytv.in/kanaknews/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "a31dcdfcbbc18beb6652710ac0f8b5a7"
     },
     {
       "name": "Kanal 10 Asia (540p)",
@@ -83541,6 +84325,20 @@
       "id": "61f320767f8e37b67e28c0df2cb1b6a4"
     },
     {
+      "name": "Kapitan Fantastika HD (1080p)",
+      "logo": "https://i.imgur.com/K3PSHiT.png",
+      "category": "Kids",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "KapitanFantastika.ru@HD",
+      "url": "http://str2.iptvhd.ru:8080/Ginger_HD/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "bb95a131db92ee159a611082834d9805"
+    },
+    {
       "name": "Kapos TV (1080p)",
       "logo": "https://i.imgur.com/ZMrj2C5.png",
       "category": "General",
@@ -83779,6 +84577,20 @@
       "id": "1a76363f7b57a289b5c383351d600155"
     },
     {
+      "name": "KBC News (1080p)",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/kbcnews.png",
+      "category": "News",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "KBCNews.in@SD",
+      "url": "https://stream.ottlive.co.in/kbcnews/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "66d7ace30d548e0145cc2a230869844f"
+    },
+    {
       "name": "KBEV Spectrum Channel 6 [Beverly Hills] (1080p)",
       "logo": "https://i.imgur.com/YFVrphZ.png",
       "category": "Education",
@@ -83791,6 +84603,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "a030c232808082bc390e016dd8caf3ac"
+    },
+    {
+      "name": "KBP Times (1080p)",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/KBPTimes.png",
+      "category": "News",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "KBPTimes.in@SD",
+      "url": "https://kbpnews.cloud/Kbptimes/Kbptimeslive/video.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "0680f869519397d6a3f108e9f300ab6a"
     },
     {
       "name": "KBRI Brighton Channel 8 (Brighton CO) (720p)",
@@ -84031,6 +84857,20 @@
       "id": "100a9ff2847ab8a5ae3326200673ec23"
     },
     {
+      "name": "Kerala Vision (576p)",
+      "logo": "https://i.imgur.com/SWNjyyp.png",
+      "category": "Entertainment",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "KeralaVision.in@SD",
+      "url": "https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "b8d893f146e62a13d3254f032ccca22b"
+    },
+    {
       "name": "Kerman",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kerman_irib_logo_%28blue_version%29.png/960px-Kerman_irib_logo_%28blue_version%29.png",
       "category": "General",
@@ -84267,6 +85107,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "115177f1542103c1c21fb0dd7ecdb471"
+    },
+    {
+      "name": "KHL Prime (1080p)",
+      "logo": "https://i.imgur.com/pwxT0ON.png",
+      "category": "Sports",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "KHLPrime.ru@HD",
+      "url": "http://str2.iptvhd.ru:8080/KHL_TV_HD/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "441f6c8cbd20a95e33cb7d6ace08ee1b"
     },
     {
       "name": "KHL Prime (1080p)",
@@ -84575,6 +85429,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "ec87bbc8d839f79696c056d154d2805f"
+    },
+    {
+      "name": "KinoBoevik (1080p)",
+      "logo": "https://kt.server-img.lfstrm.tv/images/channel_logos/logo_66b351f01f828dca40d006b3.png",
+      "category": "Movies",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "KinoBoevik.kz@SD",
+      "url": "https://fs.uplink.kz/kinoboevik/mono.m3u8?token=onlinetv",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "30e3d7d493e6dd291d4e92f5fb8e9d4f"
     },
     {
       "name": "KinoHit (576p)",
@@ -85079,6 +85947,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "8e62ee4debb44a6083d5a8c80c6c2951"
+    },
+    {
+      "name": "Knock Bhakti (1080p)",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/KnockBhakti.png",
+      "category": "Religious",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "KnockBhakti.in@SD",
+      "url": "https://knocktv2.wiseplayout.com/Knock_Bhakti_EST/master.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "953eb17ebdb259ecfa7d7a7acf8fcc5c"
     },
     {
       "name": "Knowledge Network (720p) [Geo-blocked]",
@@ -85821,6 +86703,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "a0471a728c2d10e8c5eabff02ae05ca0"
+    },
+    {
+      "name": "Kto est kto (576p)",
+      "logo": "https://i.imgur.com/PmD17UQ.png",
+      "category": "Education",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "Ktoestkto.ru@SD",
+      "url": "http://str2.iptvhd.ru:8080/kto_est_kto/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "a75b8b5794ab46c7d60ec1cf388ffcdc"
     },
     {
       "name": "KTOO 360TV 3 (FNX)",
@@ -87455,10 +88351,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "LapkiLive.ru@SD",
-      "url": "http://45.145.32.13:20440/unikum/index.m3u8?token=test",
+      "url": "https://fs.uplink.kz/lapki_live/mono.m3u8?token=onlinetv",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "d84bfcf7fbdd27eba6a2da728b54c34e"
+      "id": "3a58e319fcb535de82655b651912e866"
     },
     {
       "name": "LaPuraCrema Television",
@@ -91549,20 +92445,6 @@
       "id": "2fab4981d78a0e5b1604401e045b4c0d"
     },
     {
-      "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Music\",Mezzo",
-      "logo": "https://i.imgur.com/auNdGeW.png",
-      "category": "Music",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "Mezzo.fr@SD",
-      "url": "http://158.101.222.193:88/georgia_play.php?id=mezzo",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "692b2128424ad277ae12dc13a2e881e3"
-    },
-    {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Music\",Muzsika TV",
       "logo": "https://i.imgur.com/kmQ5vYC.png",
       "category": "Music",
@@ -92289,20 +93171,6 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "6e94fdf3f0c8f038382aa1e77185c9cd"
-    },
-    {
-      "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",5 Канал",
-      "logo": "https://i.imgur.com/KPXMa3U.png",
-      "category": "General",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "Channel5.ru@SD",
-      "url": "https://streaming.televizor-24-tochka.ru/live/8.m3u8",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "d6e56450dd2106007ea1c9c0f9404e52"
     },
     {
       "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",C1 (1080p)",
@@ -93159,20 +94027,6 @@
       "id": "5b170f4d13a9f8522e6b46fa83597d35"
     },
     {
-      "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Documentary\",National Geographic",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
-      "category": "Documentary",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "NationalGeographic.bg@SD",
-      "url": "http://213.91.179.28:8000/play/a0ct",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "e33e74a598e70ae894cf256c11f3a565"
-    },
-    {
       "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Documentary\",National Geographic HD (1080p)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
       "category": "Documentary",
@@ -93185,20 +94039,6 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "469e6ba850f0f4799e91b65ca4ca021b"
-    },
-    {
-      "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Documentary\",National Geographic Wild",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
-      "category": "Documentary",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "NationalGeographicWild.bg@SD",
-      "url": "http://213.91.179.28:8000/play/a0cu",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "484d1d518ddc9ab87fac92822b2fcd1b"
     },
     {
       "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Entertainment\",7/8 TV",
@@ -93726,20 +94566,6 @@
       "country_name": "Unknown",
       "language": "Unknown",
       "nsfw": false,
-      "tvg_id": "StarChannel.bg@SD",
-      "url": "http://213.91.179.28:8000/play/a0c9",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "3e24d73a4dd096fc07c10039cf741b78"
-    },
-    {
-      "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",Star Channel",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
-      "category": "Movies",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
       "tvg_id": "StarChannel.si@SD",
       "url": "http://92.36.202.5:10001/play/a01s",
       "source": "iptv-org/index",
@@ -93880,39 +94706,11 @@
       "country_name": "Unknown",
       "language": "Unknown",
       "nsfw": false,
-      "tvg_id": "StarCrime.bg@SD",
-      "url": "http://213.91.179.28:8000/play/a0cs",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "6ae316cc560c1384db241449ce1c8732"
-    },
-    {
-      "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Series\",Star Crime",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/960px-Star_Crime_2023.svg.png",
-      "category": "Series",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
       "tvg_id": "StarCrime.si@SD",
       "url": "http://92.36.202.5:10001/play/a02o",
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "438f48eaa097092fc5c8daa6c14d917a"
-    },
-    {
-      "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Series\",Star Life",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/960px-Star_Life_2021.svg.png",
-      "category": "Series",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "StarLife.bg@SD",
-      "url": "http://213.91.179.28:8000/play/a0cr",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "fae20b5a11c066902456c9b9998fd665"
     },
     {
       "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Series\",Star Life",
@@ -93999,20 +94797,6 @@
       "id": "6608c9f341dd0154b95e8ce7c5a2c79f"
     },
     {
-      "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Sports\",Max Sport 4",
-      "logo": "https://i.imgur.com/7IxXX6f.png",
-      "category": "Sports",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "MaxSport4.bg@SD",
-      "url": "http://213.91.179.28:8000/play/a05n",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "80042aa7b847dac6b40b5d37746ff17f"
-    },
-    {
       "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Sports\",Ziggo Sport",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/960px-Ziggo_Sport_logo.svg.png",
       "category": "Sports",
@@ -94095,20 +94879,6 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "854c51c052c8df951e25dcb94c7c9ce3"
-    },
-    {
-      "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Undefined\",Vivacom Arena",
-      "logo": "https://i.imgur.com/M7QKnH3.png",
-      "category": "Undefined",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "VivacomArena.bg@SD",
-      "url": "http://213.91.179.28:8000/play/a053",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "a64c5386bc64404d684d4178966013dd"
     },
     {
       "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Animation;Kids\",NickToons Brasil (480p)",
@@ -94319,20 +95089,6 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "99070a69a93c8ec28f962fac9f238dbd"
-    },
-    {
-      "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Entertainment\",TF1 (576p)",
-      "logo": "https://i.imgur.com/QxHt9NC.png",
-      "category": "Entertainment",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "TF1.fr@SD",
-      "url": "https://futbol9865.ultratv13.workers.dev/deportivo111/24.m3u8",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "6b76f23e6070da0f1f83ce27b96ada0d"
     },
     {
       "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Entertainment\",TF1 HD (720p)",
@@ -95133,34 +95889,6 @@
       "id": "cc668b9e9dac0257697f98c8f8abf6a2"
     },
     {
-      "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Max Sport 2 (720p)",
-      "logo": "https://i.imgur.com/33m1wPN.png",
-      "category": "Sports",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "MaxSport2.bg@SD",
-      "url": "http://213.91.179.28:8000/play/a0at",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "80293d302dea7f98b5f955bdf66569df"
-    },
-    {
-      "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Max Sport 3 (720p)",
-      "logo": "https://i.imgur.com/eGiGgZ2.png",
-      "category": "Sports",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "MaxSport3.bg@SD",
-      "url": "http://213.91.179.28:8000/play/a0ar",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "68e5a176f0d0e6f97d48fc1a1e396e47"
-    },
-    {
       "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",Setanta Sports 1 Eurasia (1080p)",
       "logo": "https://i.imgur.com/zlJK7ca.png",
       "category": "Sports",
@@ -95623,20 +96351,6 @@
       "id": "ef438ec8c1e7e6d3fc31da42c0da799c"
     },
     {
-      "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36x\" group-title=\"Sports\",Max Sport 1 (720p)",
-      "logo": "https://i.imgur.com/0ohnpql.png",
-      "category": "Sports",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "MaxSport1.bg@SD",
-      "url": "http://213.91.179.28:8000/play/a0as",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "7fb7cc18402a2e40e413543a01cee3ba"
-    },
-    {
       "name": "like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0\" group-title=\"General\",Channel 8 Krasnoyarsk HD (1080p)",
       "logo": "https://i.imgur.com/q3JCAC3.png",
       "category": "General",
@@ -95691,20 +96405,6 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "6026d637f8b9dcaa79849bfd6827cdf2"
-    },
-    {
-      "name": "like Gecko) Chrome/152.0.0.0 Safari/537.36\" group-title=\"Documentary\",Viasat History",
-      "logo": "https://i.imgur.com/39qZ68J.png",
-      "category": "Documentary",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "ViasatHistory.ua@SD",
-      "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ%3D%3D&master=78",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "ebc5181af2de9ca7d575918c0a5ffa06"
     },
     {
       "name": "like Gecko) Chrome/152.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Sonce+",
@@ -95873,6 +96573,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "aa6eee5990e4e225eedfecb23ed77326"
+    },
+    {
+      "name": "like Gecko) Chrome/152.0.0.0 Safari/537.36\" group-title=\"Undefined\",RTL Super",
+      "logo": "https://i.imgur.com/KbdK8t9.png",
+      "category": "Undefined",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "RTLSuper.de@SD",
+      "url": "https://dash4.antik.sk/live/test_super_rtl_tizen/playlist.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "28e7369ea1b73a822f51a557672ac2f0"
     },
     {
       "name": "like Gecko) Chrome/152.0.0.0 Safari/537.36\" group-title=\"Undefined\",Viasat Nature",
@@ -96757,20 +97471,6 @@
       "id": "262fc09cca75be86796b4c7e8f25b785"
     },
     {
-      "name": "Live India (576p)",
-      "logo": "https://i.imgur.com/z5pkRDU.png",
-      "category": "News",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "LiveIndia.in@SD",
-      "url": "http://ptuf.ridsys.in/riptv/live/GEMINI_TV/index.m3u8",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "3c4ee0e37d65158d720bafdcac36acac"
-    },
-    {
       "name": "Live Music",
       "logo": "https://images.pluto.tv/channels/5873fc21cad696fb37aa9054/colorLogoPNG.png",
       "category": "Entertainment",
@@ -97469,6 +98169,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "7e19646a8382b3b6d2dbeb7b6ca7fb10"
+    },
+    {
+      "name": "Love Nature HD (1080p)",
+      "logo": "https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png",
+      "category": "Outdoor",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "LoveNature.ca@HD",
+      "url": "https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "a5166be32de17f7cbb17edc1984d5ca6"
     },
     {
       "name": "Love Pets (1080p)",
@@ -98605,6 +99319,20 @@
       "id": "4f59ab803b78b110f884460d7c7f2b96"
     },
     {
+      "name": "Maestro (576p)",
+      "logo": "https://i.imgur.com/nUz1VRv.png",
+      "category": "Undefined",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "Maestro.ge@SD",
+      "url": "http://str2.iptvhd.ru:8080/maestro/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "f6860e0c4e76a77bd213e6ed3e18e5a1"
+    },
+    {
       "name": "MagellanTV Now (1080p)",
       "logo": "https://i.imgur.com/gEraSp5.png",
       "category": "Documentary",
@@ -98759,7 +99487,7 @@
       "id": "a2b9e8a26a496660ef3b6d8a94c16012"
     },
     {
-      "name": "Mahaa Max (576p)",
+      "name": "Mahaa Max (1080p)",
       "logo": "https://objectstorage.ap-mumbai-1.oraclecloud.com/p/7Eg7LPw1gBcncVDrfwf__7yyrg13awaU6DmMk4gutavGYZgoAuAziv8e0aSEdU4G/n/bmaqqlwez184/b/GTPL_CHANNEL_LOGO/o/gtpl/MAHAA+MAX+LOGO.png",
       "category": "Entertainment",
       "country": "Unknown",
@@ -98767,13 +99495,13 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "MahaaMax.in@SD",
-      "url": "https://mumt03.tangotv.in/Dsly5z3HMAHAAMAX/index.m3u8",
+      "url": "https://mumbai-edge.smartplaytv.in/MahaMax/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "f418fb08ff6bfe6db795dad34b271e33"
+      "id": "3200618b141e118ae0ef0ff9fe0e8db4"
     },
     {
-      "name": "Mahaa News (576p)",
+      "name": "Mahaa News (1080p)",
       "logo": "https://i.imgur.com/buT76vR.png",
       "category": "News",
       "country": "Unknown",
@@ -98781,10 +99509,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "MahaaNews.in@SD",
-      "url": "https://mumt07.tangotv.in/zHjX9OFlMAHAANEWS/index.m3u8",
+      "url": "https://mumbai-edge.smartplaytv.in/MahaNews/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "1475654f80b7317a93f2b91796baab82"
+      "id": "76de72ef9116193602ba9ea518130456"
     },
     {
       "name": "Mahaasin TV",
@@ -98827,6 +99555,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "2564592153de1743073d0d538c8efccc"
+    },
+    {
+      "name": "Mahimai TV (576p)",
+      "logo": "https://mahimaitv.com/images/mahimaitamil.png",
+      "category": "Religious",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "MahimaiTV.in@SD",
+      "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "b6e2df8b78b26bcea121ffa1614c1aa1"
     },
     {
       "name": "Mai dire sì – Pluto TV",
@@ -99921,6 +100663,20 @@
       "id": "ccbf80d8eaecb8b71b17b4f75f55af68"
     },
     {
+      "name": "Mastiii (576p)",
+      "logo": "https://i.imgur.com/lxgXHx4.png",
+      "category": "Music",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "Mastiii.in@SD",
+      "url": "https://mumbai-edge.smartplaytv.in/MastiMusic/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "b02140d3d7c1976b46088b3eef246bf3"
+    },
+    {
       "name": "Match! Boets (576p)",
       "logo": "https://i.imgur.com/DogOkA4.png",
       "category": "Sports",
@@ -99933,6 +100689,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "c5d90c1837dbd4ca0b15c5e3628b007e"
+    },
+    {
+      "name": "Match! Igra HD (1080p)",
+      "logo": "https://i.imgur.com/5XWpF19.png",
+      "category": "Sports",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "MatchIgra.ru@HD",
+      "url": "http://str2.iptvhd.ru:8080/Match_Igra_HD/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "6ff30e4f1252229463615ab47a5476b4"
     },
     {
       "name": "Match! Planeta (576p)",
@@ -99963,7 +100733,7 @@
       "id": "d6a7733c8d6bc8f45ea2da94373d4667"
     },
     {
-      "name": "Match! Ultra (720p)",
+      "name": "Match! Ultra (1080p)",
       "logo": "https://www.kartina.tv/media/news/images/News/SEO/kanal-match-ultra.jpg",
       "category": "Sports",
       "country": "Unknown",
@@ -99971,10 +100741,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "MatchUltra.ru@4K",
-      "url": "http://stream.mcquack.net/169/index.m3u8",
+      "url": "http://str2.iptvhd.ru:8080/Match_TV_HD/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "6ecd4579b4d2df28a3dbd189224a7f7a"
+      "id": "62d761c5fa4cffb02b263ec163bfbf74"
     },
     {
       "name": "MaTele (1080p) [Not 24/7]",
@@ -100157,6 +100927,62 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "5a2bd5bfd87fe9dd6b693c77c5e93f28"
+    },
+    {
+      "name": "Max Sport 1 (1080p)",
+      "logo": "https://i.imgur.com/0ohnpql.png",
+      "category": "Sports",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "MaxSport1.bg@SD",
+      "url": "http://hls127.freeott.top:8080/BG_MAX_Sport_1_HD/video.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "caac0d589831104f750e05a27ea02a0f"
+    },
+    {
+      "name": "Max Sport 2 (1080p)",
+      "logo": "https://i.imgur.com/33m1wPN.png",
+      "category": "Sports",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "MaxSport2.bg@SD",
+      "url": "http://hls127.freeott.top:8080/BG_MAX_Sport_2_HD/video.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "c46d3701e2fd791d025ec977af98c50b"
+    },
+    {
+      "name": "Max Sport 3 (1080p)",
+      "logo": "https://i.imgur.com/eGiGgZ2.png",
+      "category": "Sports",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "MaxSport3.bg@SD",
+      "url": "http://hls127.freeott.top:8080/BG_MAX_Sport_3_HD/video.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "0165474855bdbede44cce2c06701a5bb"
+    },
+    {
+      "name": "Max Sport 4 (1080p)",
+      "logo": "https://i.imgur.com/7IxXX6f.png",
+      "category": "Sports",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "MaxSport4.bg@SD",
+      "url": "http://hls127.freeott.top:8080/BG_MAX_Sport_4_HD/video.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "0c98fd56ca8bc16385e2e50706fa81c0"
     },
     {
       "name": "Maxima TV",
@@ -100815,6 +101641,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "44a0b1fe95d1bf038103223ef87516c0"
+    },
+    {
+      "name": "MBC TV (576p)",
+      "logo": "https://dtil.tmsimg.com/assets/s135691_ld_h15_aa.png?lock=720x540",
+      "category": "General",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "MBCTV.in@SD",
+      "url": "https://mumbai-edge.smartplaytv.in/MBCTV/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "7ec1cb223baa8bb21780a6058bdd00bf"
     },
     {
       "name": "MBC Yeosu (여수 MBC) (1080p) [Not 24/7]",
@@ -102077,6 +102917,20 @@
       "id": "38777c0772ce064579406242be8e424b"
     },
     {
+      "name": "Mezzo (1080p)",
+      "logo": "https://i.imgur.com/auNdGeW.png",
+      "category": "Music",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "Mezzo.fr@SD",
+      "url": "http://str2.iptvhd.ru:8080/Mezzo_HD/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "4df6176c83777244aa71af4eb856e2e2"
+    },
+    {
       "name": "Mezzo Live (1080p)",
       "logo": "https://i.imgur.com/H9ytKPN.png",
       "category": "Music",
@@ -102757,10 +103611,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "MirSeriala.ru@SD",
-      "url": "http://45.145.32.13:20440/ctc_kids_hd/index.m3u8?token=test",
+      "url": "http://176.118.197.101/MirSeriala/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "943fb8622c3752b5f04f02e1ac306ce0"
+      "id": "72a071d72d2374c1cd80a989435e0894"
     },
     {
       "name": "Miracle TV (1080p)",
@@ -102831,6 +103685,34 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "d17bc94d3408bb0b83fa77631ea72c2f"
+    },
+    {
+      "name": "Mireasa Extra",
+      "logo": "https://i.imgur.com/4NHO9BM.png",
+      "category": "Undefined",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "MireasaExtra.ro@SD",
+      "url": "rtmp://stream1.antenaplay.ro/live/MireasaExtra",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "8e4bac5de4d5553825dbf155cfc3a08f"
+    },
+    {
+      "name": "Mirovoe kino (1080p)",
+      "logo": "https://tele2.server-img.lfstrm.tv/images/channel_logos/logo_65c24031d8bec399a7aa2226.png",
+      "category": "Movies",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "Mirovoekino.kz@SD",
+      "url": "https://fs.uplink.kz/mirovoe_kino/mono.m3u8?token=onlinetv",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "26ca7a1bb1c8098610cbdb283af42a67"
     },
     {
       "name": "Mirror Now (720p)",
@@ -103881,6 +104763,48 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "a77b0ef9dbb3c474eb2f1a8a8a50a165"
+    },
+    {
+      "name": "Mooz Dance",
+      "logo": "https://i.imgur.com/aX70RD2.png",
+      "category": "Music",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "MoozDance.ro@SD",
+      "url": "https://tvextra-hls.b-cdn.net/moozdance/moozdance.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "54f150117f142fbf9477a2ab2092fcb0"
+    },
+    {
+      "name": "Mooz Hits",
+      "logo": "https://i.imgur.com/GwATd3Y.png",
+      "category": "Music",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "MoozHits.ro@SD",
+      "url": "https://tvextra-hls.b-cdn.net/moozhits/moozhits.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "a05e66f6e657efc92de070b524bbe88e"
+    },
+    {
+      "name": "Mooz Ro!",
+      "logo": "https://i.imgur.com/Ft24x5T.png",
+      "category": "Music",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "MoozRo.ro@SD",
+      "url": "https://tvextra-hls.b-cdn.net/moozro/moozro.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "781ecc2522ccc1d0351e3529fe41e602"
     },
     {
       "name": "Morazan TV (720p)",
@@ -106431,6 +107355,20 @@
       "id": "13d5e7fbd868ec8fc72047140e861cf0"
     },
     {
+      "name": "MusicBox Gold (576p)",
+      "logo": "https://i.imgur.com/3arWh0k.png",
+      "category": "Music",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "MusicBoxGold.ru@SD",
+      "url": "http://str2.iptvhd.ru:8080/360TuneBox/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "958ffbbcde15cde5e009a7bc3916606d"
+    },
+    {
       "name": "MusicTop (1080p)",
       "logo": "https://cdn.mitvstatic.com/channels/ar_musictop_m.png",
       "category": "Music",
@@ -106481,10 +107419,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "MUTV.uk@SD",
-      "url": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8",
+      "url": "https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "2ecf4115466e795aa6343800cf8bca96"
+      "id": "99153fa627a8c7cf64b230ca88d9b297"
     },
     {
       "name": "Muugi TV (480p) [Not 24/7]",
@@ -106555,6 +107493,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "d82ab28ce1c5f8279a68e10aceef1b89"
+    },
+    {
+      "name": "Muzhskoy (1080p)",
+      "logo": "https://i.imgur.com/xyztpBf.png",
+      "category": "Movies",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "Muzhskoy.ru@SD",
+      "url": "http://str2.iptvhd.ru:8080/Muzhskoy/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "87e8c22f25d9d722faa21fe08fe8f2bb"
     },
     {
       "name": "Muzvar (1080p)",
@@ -107565,7 +108517,7 @@
       "id": "9a7b100ded06188a80d9d72e8bc2e27d"
     },
     {
-      "name": "Nashe HD (576p)",
+      "name": "Nashe HD (1080p)",
       "logo": "https://i.imgur.com/KO8dhi9.png",
       "category": "Movies;Series",
       "country": "Unknown",
@@ -107573,10 +108525,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Nashe.ru@HD",
-      "url": "http://stream.mcquack.net/217/index.m3u8",
+      "url": "http://str2.iptvhd.ru:8080/Nashe_HD/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "38c3b01422f33166236602aa518fead1"
+      "id": "697ef51399db1041f62cbe79d9bcdc6b"
     },
     {
       "name": "Nashe Lubimoe Kino (576p)",
@@ -107761,6 +108713,20 @@
       "id": "1acc30f00969a5dbcd62f84f34de0723"
     },
     {
+      "name": "Nation News (720p)",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/nationnews.png",
+      "category": "News",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "NationNews.in@SD",
+      "url": "https://server.playontv.in/nationnews/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "53cf697adf620efd49b1dad338949eec"
+    },
+    {
       "name": "Nation TV",
       "logo": "https://i.imgur.com/h3TY38F.png",
       "category": "News",
@@ -107801,6 +108767,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "a8fae36ef755c85992f2e067f5408509"
+    },
+    {
+      "name": "National Geographic (1080p)",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+      "category": "Documentary",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "NationalGeographic.bg@SD",
+      "url": "http://hls127.freeott.top:8080/BG_Nat_Geo_HD/video.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "a701f8c541109f48d6dd268c6916f347"
     },
     {
       "name": "National Geographic (1080p)",
@@ -107887,6 +108867,20 @@
       "id": "1c1ca85b25851914a8d679dd47819ee1"
     },
     {
+      "name": "National Geographic HD (1080p)",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+      "category": "Documentary",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "NationalGeographic.ru@HD",
+      "url": "http://str2.iptvhd.ru:8080/National_Geo_HD/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "fd21dc3ac612cd57a860e2b0fb53076a"
+    },
+    {
       "name": "National Geographic HD East (720p)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
       "category": "Documentary",
@@ -107922,6 +108916,20 @@
       "country_name": "Unknown",
       "language": "Unknown",
       "nsfw": false,
+      "tvg_id": "NationalGeographicWild.bg@SD",
+      "url": "http://hls127.freeott.top:8080/BG_NG_Wild_HD/video.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "ecdba13fe89157683990ae3588d9f1a2"
+    },
+    {
+      "name": "National Geographic Wild (1080p)",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
+      "category": "Documentary",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
       "tvg_id": "NationalGeographicWild.ru@SD",
       "url": "http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8",
       "source": "iptv-org/index",
@@ -107941,6 +108949,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "52493346d3bd3d39962d2bbd9edac601"
+    },
+    {
+      "name": "National Geographic Wild HD (1080p)",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
+      "category": "Documentary",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "NationalGeographicWild.ru@HD",
+      "url": "http://str2.iptvhd.ru:8080/Nat_Geo_Wild_HD/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "f392893e9abab97ca6122b42724b9948"
     },
     {
       "name": "National Geographic Wild HD East (720p)",
@@ -109259,6 +110281,20 @@
       "id": "33a78c9ab4e09954fd69a1f1115f68e8"
     },
     {
+      "name": "Neox TV [Not 24/7]",
+      "logo": "https://i.imgur.com/eIX71c9.png",
+      "category": "General",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "NeoxTV.ar@SD",
+      "url": "https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "e160b14a3e65ffbf05e85330886f42d3"
+    },
+    {
       "name": "Nepal 1 (576p)",
       "logo": "https://i.imgur.com/Xr4FjC8.png",
       "category": "Entertainment",
@@ -109343,7 +110379,7 @@
       "id": "304b4392ea150e42faf508cf0ef63870"
     },
     {
-      "name": "Network 10 (576p)",
+      "name": "Network 10 (720p)",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Network_10.png",
       "category": "General",
       "country": "Unknown",
@@ -109351,10 +110387,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Network10.in@SD",
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3NETWORK10/index.m3u8",
+      "url": "https://mumbai-edge.smartplaytv.in/Network10/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "e21aa08d7e3a9428aa0d69b74c1071f3"
+      "id": "738e460e7465dd65200ecff76894bddd"
     },
     {
       "name": "Nevis Television",
@@ -109595,6 +110631,34 @@
       "id": "3ff9960cd1dc064b87823755ab2b000b"
     },
     {
+      "name": "News Capital Gujarat (1080p)",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/NewsCapital_Gujarat.png",
+      "category": "News",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "NewsCapitalGujarat.in@SD",
+      "url": "https://newscapital.com/hls/main4/stream.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "a601581e669ffc2bc7a92b34c8d662fc"
+    },
+    {
+      "name": "News Capital Market (1080p)",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/NewsCapitalMarket.png",
+      "category": "Business",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "NewsCapitalMarket.in@SD",
+      "url": "https://newscapital.com/hls/stream.m3u8?token=Nc360PermanentSecureKey987",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "8dff95d3e8c749ceef7bf867ef61bb2c"
+    },
+    {
       "name": "News Daily 24 (576p)",
       "logo": "https://i.imgur.com/lT8rihP.png",
       "category": "News",
@@ -109665,6 +110729,20 @@
       "id": "9e74f6bb40b9546c8188f8c1f1d2a82e"
     },
     {
+      "name": "News Marathi 24x7 (720p)",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/cb84d7f7e19bcbfb9b6d664e7fb2adee.png",
+      "category": "News",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "NewsMarathi24x7.in@SD",
+      "url": "https://live1.ottlive.co.in/newsmarathi/newsmarathi/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "655de1cb83aba4b553cb7d13f28ca3d8"
+    },
+    {
       "name": "News Nation (1080p)",
       "logo": "https://dtil.tmsimg.com/assets/s143596_ld_h15_aa.png?lock=720x540",
       "category": "News",
@@ -109679,6 +110757,20 @@
       "id": "96afe4b155c21f0a4d2030c076c66d0c"
     },
     {
+      "name": "News Nation 81 (1080p)",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/News_Nation_81.png",
+      "category": "News",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "NewsNation81.in@SD",
+      "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "47e8fb4fcd36db01b930f1961ecb02d4"
+    },
+    {
       "name": "News One (720p)",
       "logo": "https://i.imgur.com/ivrRYMk.png",
       "category": "News",
@@ -109691,6 +110783,48 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "0975984f4b0d2ff32b202b3881908e79"
+    },
+    {
+      "name": "News State MP & CHG (1080p)",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_STATE_MADHYA_PRADESH_CHHATTISGARH/images/LOGO_HD/image.png",
+      "category": "News",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "NewsStateMPCHG.in@SD",
+      "url": "https://jmp2.uk/stvp-IN4000012ML",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "e55497f5a1aae5119177baa2dcb88e9e"
+    },
+    {
+      "name": "News State Punjab Haryana Himachal (1080p)",
+      "logo": "",
+      "category": "News",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "NewsStatePunjabHaryanaHimachal.in@SD",
+      "url": "https://jmp2.uk/stvp-IN300083R1",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "b3b3e90bc0c1a5e06158b3042c80c873"
+    },
+    {
+      "name": "News State UP & UK (1080p)",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_STATE_UP_UK/images/LOGO_HD/image.png",
+      "category": "News",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "NewsStateUPUK.in@SD",
+      "url": "https://jmp2.uk/stvp-IN3000846P",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "a5b55c4ff472bf0a65503a28f56bff7a"
     },
     {
       "name": "News Tamil 24x7 (576p)",
@@ -110197,7 +111331,7 @@
       "id": "a4cb97484bd66ce3ed7663cadf789272"
     },
     {
-      "name": "NewsX (576p)",
+      "name": "NewsX (720p)",
       "logo": "https://dtil.tmsimg.com/assets/s143624_ld_h15_aa.png?lock=720x540",
       "category": "News",
       "country": "Unknown",
@@ -110205,10 +111339,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "NewsX.in@SD",
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3NEWSX/index.m3u8",
+      "url": "https://mumbai-edge.smartplaytv.in/NewsX/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "4719894f0ec0fe3316e586835d5d2f78"
+      "id": "bd7f4e9210356a77660208f96f5932f4"
     },
     {
       "name": "NewsX World (576p)",
@@ -110407,6 +111541,48 @@
       "id": "bd97ec2f2d5c76393a694998be4b2e5f"
     },
     {
+      "name": "NH BollyFlix (1080p)",
+      "logo": "https://i.ibb.co/yF9MPTDK/blyflx.png",
+      "category": "Movies",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "NHBollyFlix.in@HD",
+      "url": "https://jmp2.uk/stvp-IN46000140Q",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "dbb429e6ee28d16e173393991a0d7f53"
+    },
+    {
+      "name": "NH BollyGold (1080p)",
+      "logo": "https://i.ibb.co/x9PsrMy/NH-BOLLYGOLD.png",
+      "category": "Movies",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "NHBollyGold.in@HD",
+      "url": "https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "ee2a82e3086b024a0f60dd92c5494730"
+    },
+    {
+      "name": "NH BollyRaga (1080p)",
+      "logo": "https://i.ibb.co/BKB9mv1K/NH-Bolly-Raga.png",
+      "category": "Music",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "NHBollyRaga.in@HD",
+      "url": "https://jmp2.uk/stvp-IN460001373",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "4bdde3718e8845a8bf3377562c7c77ab"
+    },
+    {
       "name": "NH Niews (1080p)",
       "logo": "https://i.imgur.com/SPkK4md.png",
       "category": "General;News",
@@ -110573,6 +111749,34 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "73b29b88c435f91d3d67ba315d91d879"
+    },
+    {
+      "name": "Nick Jr. (540p)",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
+      "category": "Kids",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "NickJr.hr@SD",
+      "url": "http://176.61.157.250/NickJr/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "1478a5d364307939fce97f051a30431d"
+    },
+    {
+      "name": "Nick Jr. (576p)",
+      "logo": "https://i.imgur.com/KT4tdQs.png",
+      "category": "Kids",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "NickJr.il@SD",
+      "url": "http://str2.iptvhd.ru:8080/nickjr/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "9950bfe185565115917eee0797e44fc7"
     },
     {
       "name": "Nick Jr. (576p)",
@@ -112647,6 +113851,20 @@
       "id": "49e81a32a1495dd8e9a25df7b03ba4be"
     },
     {
+      "name": "NSC9 News (1080p)",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/nsc9.png",
+      "category": "News",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "NSC9News.in@SD",
+      "url": "https://legitpro.co.in/nsc9/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "b123b744905b3925fdf63242bdcffafe"
+    },
+    {
       "name": "NST (576p)",
       "logo": "https://i.imgur.com/uv2yxa5.png",
       "category": "Undefined",
@@ -112883,6 +114101,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "548906893cceef775bd4ac00a5b7a64f"
+    },
+    {
+      "name": "NTV",
+      "logo": "https://i.imgur.com/jnXpcwV.png",
+      "category": "General",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "NTV.mv@SD",
+      "url": "https://sunplay-cdn.bitratelabs.com/live/local-channel/ntv-e3d4300b49c8c901e9339174215d7580/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "52317534167c57187def33b221e9b270"
     },
     {
       "name": "NTV",
@@ -117827,6 +119059,20 @@
       "id": "95059870b077d319bd295b198dc99a7a"
     },
     {
+      "name": "People Are Awesome (1080p)",
+      "logo": "https://i.imgur.com/MsIx7Ax.png",
+      "category": "Entertainment",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "PeopleAreAwesome.us@SD",
+      "url": "https://mumbai-edge.smartplaytv.in/PeopleAreAwesome/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "9669984fd36e3d81d242af124379324e"
+    },
+    {
       "name": "People Are Awesome (720p)",
       "logo": "https://i.imgur.com/MsIx7Ax.png",
       "category": "Entertainment",
@@ -117839,20 +119085,6 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "769c7c522fadce3b1819686b03bea9bf"
-    },
-    {
-      "name": "People Are Awesome (720p)",
-      "logo": "https://i.imgur.com/MsIx7Ax.png",
-      "category": "Entertainment",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "PeopleAreAwesome.us@SD",
-      "url": "https://jukin-peopleareawesome-2-au.samsung.wurl.tv/playlist.m3u8",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "1e11b50143cb4a9c63e337c26e5aaa5d"
     },
     {
       "name": "People are awesome – Pluto TV",
@@ -118329,6 +119561,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "9d743707fe13fd327404be7ccd39a71f"
+    },
+    {
+      "name": "Pervyy Kosmicheskiy HD (1080p)",
+      "logo": "https://i.imgur.com/N1Ze5IE.png",
+      "category": "Science",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "PervyyKosmicheskiy.ru@HD",
+      "url": "http://str2.iptvhd.ru:8080/Eureka_HD/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "aed6820c4424a457033e695a4729f371"
     },
     {
       "name": "Pes (1080p)",
@@ -119085,6 +120331,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "7d318e880f017836c103651140fa3ed7"
+    },
+    {
+      "name": "PLUSPLUS HD (1080p) [Not 24/7]",
+      "logo": "https://i.imgur.com/9bPhStm.png",
+      "category": "Kids",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "PLUSPLUS.ua@HD",
+      "url": "https://iptv.prosto.tv/ch066/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "014649e4e349d397152d6bce606d26fe"
     },
     {
       "name": "Pluto Classic Movie Westerns",
@@ -126031,6 +127291,34 @@
       "id": "65b2ab950bdc7c09342c224366b87e5f"
     },
     {
+      "name": "Powervision TV (720p)",
+      "logo": "https://dtil.tmsimg.com/assets/s143670_ld_h15_aa.png?lock=720x540",
+      "category": "Religious",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "PowervisionTV.in@SD",
+      "url": "https://mumbai-edge.smartplaytv.in/PowerVision/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "46901ec0681956b797fec7605d286e9f"
+    },
+    {
+      "name": "Pradesh24 Gujarati (1080p)",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Pradesh24_Gujarati.png",
+      "category": "News",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "Pradesh24Gujarati.in@SD",
+      "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "b1acbf06ca7a1657f0f4ab39adc37ad8"
+    },
+    {
       "name": "Prag News (576p)",
       "logo": "https://dtil.tmsimg.com/assets/s143671_ld_h15_aa.png?lock=720x540",
       "category": "News",
@@ -126071,6 +127359,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "98fe5f42f539650aae2a3a67b4c1a435"
+    },
+    {
+      "name": "Prarthana Bhawan TV (576p)",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PRARTHANA_BHAWAN/images/LOGO_HD/image.png",
+      "category": "Undefined",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "PrarthanaBhawanTV.in@SD",
+      "url": "https://mumt03.tangotv.in/Dsly5z3HPRATHANABHAWAN/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "6469fdf8d22d4c1c926044a9ce63a219"
     },
     {
       "name": "Prarthana TV (720p)",
@@ -126507,7 +127809,7 @@
       "id": "55f989b13b7b60f2a5056e0f2258d379"
     },
     {
-      "name": "Prime News (576p)",
+      "name": "Prime News (1080p)",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Prime_News.png",
       "category": "News",
       "country": "Unknown",
@@ -126515,13 +127817,13 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "PrimeNews.in@SD",
-      "url": "https://mumt02.tangotv.in/PRIMENEWS/index.m3u8",
+      "url": "https://stream.ottlive.co.in/primenews/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "a644bd0a2da9d932b8bc2f75a209d4d6"
+      "id": "b0b3f3ae8cf3191dd314fc7513315a8b"
     },
     {
-      "name": "Prime9 News (576p)",
+      "name": "Prime9 News (1080p)",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Prime_9_News.png",
       "category": "News",
       "country": "Unknown",
@@ -126529,10 +127831,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Prime9News.in@SD",
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3PRIME9NEWS/index.m3u8",
+      "url": "https://mumbai-edge.smartplaytv.in/Prime9News/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "9a44275ed16b71570e340e400fb39e23"
+      "id": "58bf24d3a903bc9faf8e84badb0508bc"
     },
     {
       "name": "Primer TV (1080p)",
@@ -126659,6 +127961,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "052334f33d356a77934e332a3c2141b3"
+    },
+    {
+      "name": "Pro Lyubov HD (1080p)",
+      "logo": "https://i.imgur.com/QpIGAT0.png",
+      "category": "Undefined",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "ProLyubov.ru@HD",
+      "url": "http://str2.iptvhd.ru:8080/pro_lyubov/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "f12db8c71d9637c2f292fd6bd6e7d456"
     },
     {
       "name": "PRO TV Chisinau (480p)",
@@ -127417,7 +128733,7 @@
       "id": "c31deb52438d7259024762c432c045df"
     },
     {
-      "name": "Pulari TV",
+      "name": "Pulari TV (576p)",
       "logo": "https://i.imgur.com/v5urG30.png",
       "category": "Entertainment",
       "country": "Unknown",
@@ -127425,10 +128741,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "PulariTV.in@SD",
-      "url": "https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8",
+      "url": "https://mumbai-edge.smartplaytv.in/PulariTV/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "2e02a7b6390f156a44fe575c08adf0db"
+      "id": "49bc482bcd838f959ca93bd7edc35de1"
     },
     {
       "name": "Puls 2 (1080p)",
@@ -128633,6 +129949,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "2159423119d9a6bacbe7da97d0d2be52"
+    },
+    {
+      "name": "Raatdin Bangla (720p)",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/raatdinbangla.png",
+      "category": "News",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "RaatdinBangla.in@SD",
+      "url": "https://server.playontv.in/raatdinbangla/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "824be463476e148f3b9f531608e92fae"
     },
     {
       "name": "Raavi TV (576p) [Not 24/7]",
@@ -133339,6 +134669,20 @@
       "id": "67330c7aa2c6e2dc18bc49a7f92030cc"
     },
     {
+      "name": "REN TV HD (1080p)",
+      "logo": "https://i.imgur.com/0Tu5lte.png",
+      "category": "General",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "RENTV.ru@HD",
+      "url": "http://str2.iptvhd.ru:8080/REN_TV/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "7a4340793c6a9312fc3998fa29155f65"
+    },
+    {
       "name": "REN TV International (576p)",
       "logo": "https://i.imgur.com/gBjk9oF.png",
       "category": "General",
@@ -134837,6 +136181,20 @@
       "id": "dd9b88b7e415137c7e6442da89ede27a"
     },
     {
+      "name": "Romantichnoe HD (1080p)",
+      "logo": "https://i.imgur.com/ruacPMS.png",
+      "category": "Undefined",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "Romantichnoe.ru@HD",
+      "url": "http://str2.iptvhd.ru:8080/Semeynoe_HD/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "09db0a8a7145441c1f60561f365cd947"
+    },
+    {
       "name": "Romedy Now (576p)",
       "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ROMEDY_NOW/images/LOGO_HD/image.png",
       "category": "Movies",
@@ -135815,20 +137173,6 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "704425a5c3a4de4a282fc9b49493416c"
-    },
-    {
-      "name": "RTL Super",
-      "logo": "https://i.imgur.com/KbdK8t9.png",
-      "category": "Undefined",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "RTLSuper.de@SD",
-      "url": "https://dash4.antik.sk/live/test_super_rtl_tizen/playlist.m3u8",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "fc2e121fbcd43215025312a186134cd2"
     },
     {
       "name": "RTL Today Radio (720p)",
@@ -137623,6 +138967,20 @@
       "id": "3c0bfe0659fcc6180d4f0412943477d1"
     },
     {
+      "name": "Russian Extreme (576p)",
+      "logo": "https://i.imgur.com/hJK7mOW.png",
+      "category": "Sports",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "RussianExtreme.ru@SD",
+      "url": "http://str2.iptvhd.ru:8080/Russkiy_ekstrim/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "20c432940e620b2f91663830c3b924b6"
+    },
+    {
       "name": "Russian MusicBox (576p)",
       "logo": "https://i.imgur.com/ZkJ3Rh9.png",
       "category": "Music",
@@ -137831,6 +139189,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "dbbd00028fa4533040ad3faad77da205"
+    },
+    {
+      "name": "Rybalka i okhota (576p)",
+      "logo": "https://www.cableman.ru/sites/default/files/rybalka_i_ohota_int.png",
+      "category": "Outdoor",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "Rybalkaiokhota.ru@SD",
+      "url": "https://fs.uplink.kz/ohota_i_ribalka/mono.m3u8?token=onlinetv",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "41b0bcd507ea08deb4a1d3e57a9c6f12"
     },
     {
       "name": "Rybolov (576p)",
@@ -139569,6 +140941,20 @@
       "id": "4b0de3300a55371a90883f26fcbcd611"
     },
     {
+      "name": "Sarv Dharm Sangam (576p)",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/cacbd93588fb35c8a65c86fcf4310dc0.png",
+      "category": "Religious",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "SarvDharmSangam.in@SD",
+      "url": "https://mumt01.tangotv.in/O5aw8Zn3SARAVDHARAMSANGAM/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "2bb42a012fe97a46654e45a4638429b0"
+    },
+    {
       "name": "Saryarqa (720p) [Not 24/7]",
       "logo": "https://i.imgur.com/EIXwi1c.png",
       "category": "General",
@@ -139665,6 +141051,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "5b15f5c1156a83a151903c69b5379972"
+    },
+    {
+      "name": "Sathiyam TV (576p)",
+      "logo": "https://dtil.tmsimg.com/assets/s143765_ld_h15_aa.png?lock=720x540",
+      "category": "News",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "SathiyamTV.in@SD",
+      "url": "https://mumt07.tangotv.in/zHjX9OFlSATHIYAMTV/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "58262d0a0c17c9279ed79767a6cde579"
     },
     {
       "name": "Satranç TV (480p) [Not 24/7]",
@@ -141375,6 +142775,20 @@
       "id": "91605ddd121909f7ec4f97c9b6bb2d9f"
     },
     {
+      "name": "Shakthi TV (576p)",
+      "logo": "https://i.imgur.com/RX6IwK8.png",
+      "category": "Undefined",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "ShakthiTV.lk@SD",
+      "url": "https://mumbai-edge.smartplaytv.in/ShakthiTV/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "37f0055ed7e9fa26b5afc22c1103ebb7"
+    },
+    {
       "name": "Shalom (1080p)",
       "logo": "https://dtil.tmsimg.com/assets/s143774_ld_h15_aa.png?lock=720x540",
       "category": "Religious",
@@ -143025,6 +144439,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "03db9feaf2be09581aa14d88142db238"
+    },
+    {
+      "name": "Sky Sports Cricket HD",
+      "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png",
+      "category": "Sports",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "SkySportsCricket.uk@HD",
+      "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "7cdd9eab2d6b9254438f32d158a63fab"
     },
     {
       "name": "Sky Sports F1 (1080p)",
@@ -145687,6 +147115,20 @@
       "id": "308c908f090fa4b9d83b673c78e21c85"
     },
     {
+      "name": "Sport+ Qazaqstan (1080p)",
+      "logo": "https://i.imgur.com/vIV7x6n.png",
+      "category": "Sports",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "SportPlusQazaqstan.kz@SD",
+      "url": "https://fs.uplink.kz/sport+/mono.m3u8?token=onlinetv",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "af87f923049e168cafa45a6b094dfcbb"
+    },
+    {
       "name": "Sport2U",
       "logo": "https://i.imgur.com/WW0lNk1.png",
       "category": "Vod Italy",
@@ -145995,6 +147437,20 @@
       "id": "036747933c91d1a25963ce4201260d60"
     },
     {
+      "name": "SSSR TV (1080p)",
+      "logo": "https://i.imgur.com/ieONjAZ.png",
+      "category": "Undefined",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "SSSRTV.ru@SD",
+      "url": "http://str2.iptvhd.ru:8080/sssr_kino/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "24db065fbe838b252e9aba917959cd78"
+    },
+    {
       "name": "St Lucie Public Schools",
       "logo": "https://i.imgur.com/wnB0fWG.png",
       "category": "Education",
@@ -146067,6 +147523,20 @@
     {
       "name": "Star Channel (720p)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
+      "category": "Movies",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "StarChannel.bg@SD",
+      "url": "http://hls127.freeott.top:8080/BG_FOX/video.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "27d87480046c8cbf053f08107fc79a18"
+    },
+    {
+      "name": "Star Channel (720p)",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
       "category": "Movies;Series",
       "country": "Unknown",
       "country_name": "Unknown",
@@ -146119,6 +147589,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "ac8300cfb40af7dd6b3ed94507c102a8"
+    },
+    {
+      "name": "Star Crime (720p)",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/960px-Star_Crime_2023.svg.png",
+      "category": "Series",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "StarCrime.bg@SD",
+      "url": "http://hls127.freeott.top:8080/BG_FOX_Crime/video.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "f03ed56c444b2ba44631936b7c717899"
     },
     {
       "name": "Star Family (1080p)",
@@ -146231,6 +147715,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "c1e574dcda0b711dded009bd3c98c9c5"
+    },
+    {
+      "name": "Star Life (720p)",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/960px-Star_Life_2021.svg.png",
+      "category": "Series",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "StarLife.bg@SD",
+      "url": "http://hls127.freeott.top:8080/BG_FOX_Life/video.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "aa873ba3b07cd96510e5b4f1070d1e1b"
     },
     {
       "name": "Star Maa HD (720p)",
@@ -146751,7 +148249,7 @@
       "id": "3895da900fe64380b0f3aac4849ed6bf"
     },
     {
-      "name": "START Air (576p)",
+      "name": "START Air (1080p)",
       "logo": "https://images.iptv.rt.ru/images/d60qp8omife4gis72tk0.png",
       "category": "Movies",
       "country": "Unknown",
@@ -146759,10 +148257,24 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "STARTAir.ru@SD",
-      "url": "http://stream.mcquack.net/128/index.m3u8",
+      "url": "http://176.118.197.101/START_AIR/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "66167cac0de8a14685ba8e573df3a12e"
+      "id": "5926f3ecd52a6bc2b756e036f9f7397a"
+    },
+    {
+      "name": "START Air HD (1080p)",
+      "logo": "https://images.iptv.rt.ru/images/d60qp8omife4gis72tk0.png",
+      "category": "Movies",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "STARTAir.ru@HD",
+      "url": "http://str2.iptvhd.ru:8080/START_Air_HD/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "14a3f5a3b44fce10471dbcd4a00037f8"
     },
     {
       "name": "Start TV (480p)",
@@ -146791,6 +148303,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "aac0ee3b32f50f80512cf8b3d718ed5c"
+    },
+    {
+      "name": "START World HD (1080p)",
+      "logo": "https://images.iptv.rt.ru/images/d6iist8mifeailfopupg.png",
+      "category": "Movies",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "STARTWorld.ru@HD",
+      "url": "http://str2.iptvhd.ru:8080/START_World_HD/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "d1af770dd894281887c9c523fb593699"
     },
     {
       "name": "Starz Cinema (720p)",
@@ -147115,7 +148641,7 @@
       "id": "dec8a855dc81c643ee680592b9508193"
     },
     {
-      "name": "Stingray iConcerts HD",
+      "name": "Stingray iConcerts HD (1080p)",
       "logo": "https://i.imgur.com/GKc7RFz.png",
       "category": "Music",
       "country": "Unknown",
@@ -147123,10 +148649,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "StingrayiConcerts.ca@HD",
-      "url": "https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8",
+      "url": "http://str2.iptvhd.ru:8080/iConcertsHD/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "af16e6bf6422b7c1428953f71f3b4254"
+      "id": "e670415aa1190e643532c4aa08b458d9"
     },
     {
       "name": "Stingray Jukebox Oldies (1080p)",
@@ -147535,6 +149061,20 @@
       "id": "8c4517bb6a7e6a24ed0fd51bdb167263"
     },
     {
+      "name": "Strashnoe HD (1080p)",
+      "logo": "https://i.imgur.com/VhI688z.png",
+      "category": "Undefined",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "StrashnoeHD.ru@SD",
+      "url": "http://str2.iptvhd.ru:8080/StrashnoeHD/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "835bcefa6d0f9c4d7f0a14067e7981f7"
+    },
+    {
       "name": "StreamForce 360 (1080p)",
       "logo": "https://streamforce360.com/wp-content/uploads/2026/06/logo-streamforce-30-20026-e1782248482848.png",
       "category": "Entertainment;General",
@@ -147687,6 +149227,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "cc8fb7376f0518ec05519ac9a9cec2ce"
+    },
+    {
+      "name": "STS kids HD (1080p)",
+      "logo": "https://i.imgur.com/o9kLpAL.png",
+      "category": "Kids",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "STSkids.ru@HD",
+      "url": "http://45.145.32.13:20440/ctc_kids_hd/index.m3u8?token=test",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "b4ac47e9a56885bdcd76eba11d732a62"
     },
     {
       "name": "STS kids International (576p)",
@@ -148177,6 +149731,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "d98c5cdc4156ff6b5894955ee444e333"
+    },
+    {
+      "name": "Sun Gemini (576p)",
+      "logo": "https://sund-images.sunnxt.com/194396/300x300_SunGemini_194396_22c18c1e-7eb9-4855-9c4e-12e109911559.png",
+      "category": "General",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "SunGemini.in@SD",
+      "url": "http://ptuf.ridsys.in/riptv/live/GEMINI_TV/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "9d3c1d776f4971629b9db5e9118a81ad"
     },
     {
       "name": "Sun RTV (720p) [Not 24/7]",
@@ -149153,10 +150721,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Svarozhychy.ua@SD",
-      "url": "http://svarozhichi.cdn-04.cosmonova.net.ua/mobile-app/main/svarozhichi/master.m3u8",
+      "url": "http://svarozhichi.cdn-03.cosmonova.net.ua/mobile-app/main/svarozhichi/master.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "ed33b1261bc56ccd17fb2e3fa4e632c4"
+      "id": "e588f1c2a96eb7f7d00f3af771a7c6a5"
     },
     {
       "name": "SVBC 2 (1080p)",
@@ -149409,6 +150977,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "a207d4658e6679912838ed38e1f98932"
+    },
+    {
+      "name": "Swastik TV (720p)",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/swastiktv.png",
+      "category": "Religious",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "SwastikTV.in@SD",
+      "url": "https://server.playontv.in/swastiktv/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "df90c9abc469d2570a8f7aac4feb818a"
     },
     {
       "name": "Swatantra TV (1080p)",
@@ -153499,6 +155081,20 @@
       "id": "bc325d2eaba39eebbf4778ac5750b032"
     },
     {
+      "name": "Teleputeshestviya (576p)",
+      "logo": "https://i.imgur.com/eXJm1n3.png",
+      "category": "Travel",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "Teleputeshestviya.ru@SD",
+      "url": "http://str2.iptvhd.ru:8080/Teleputeshestviya/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "166ae4e4ff3bb7b727156cb270f9e925"
+    },
+    {
       "name": "TeleQuindio (1080p)",
       "logo": "https://i.imgur.com/bJWj5ja.png",
       "category": "General",
@@ -154466,7 +156062,7 @@
     },
     {
       "name": "Telugu One (1080p)",
-      "logo": "https://dvvlqr1rtlak3.cloudfront.net/TeluguOne/teluguone_logo_resized_400x200.png",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/teluguone.png",
       "category": "Entertainment",
       "country": "Unknown",
       "country_name": "Unknown",
@@ -154591,6 +156187,20 @@
       "id": "c5b87802b8c12b66ec53d1d654f10873"
     },
     {
+      "name": "Tennis Channel 2 (1080p)",
+      "logo": "https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7382296F-97F6-4450-B77B-8FE331FC04F6/3-1x1.png",
+      "category": "Sports",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "TennisChannel2.us@SD",
+      "url": "https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "14ea576560b6502867afb6e1f414797f"
+    },
+    {
       "name": "TennisChannel 2 (720p)",
       "logo": "https://i.imgur.com/tsljAnY.png",
       "category": "Sports",
@@ -154605,7 +156215,7 @@
       "id": "544113931e71ace3bf40ca8d97ccf693"
     },
     {
-      "name": "Terra HD (720p)",
+      "name": "TERRA (1080p)",
       "logo": "https://i.imgur.com/ZxUjCpF.png",
       "category": "Documentary",
       "country": "Unknown",
@@ -154613,10 +156223,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "TERRA.ru@SD",
-      "url": "http://31.148.48.15/Terra_HD/index.m3u8",
+      "url": "http://str2.iptvhd.ru:8080/TERRA_HD/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "551d456d432344825e577f595ef1b99f"
+      "id": "e7cb7974b4121885c540aa26d736ebfd"
     },
     {
       "name": "Terra Mater WILD (1080p)",
@@ -154757,6 +156367,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "e05ca5b7e922542ca5006e5365604569"
+    },
+    {
+      "name": "TF1 (1080p)",
+      "logo": "https://i.imgur.com/QxHt9NC.png",
+      "category": "Entertainment",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "TF1.fr@SD",
+      "url": "http://str2.iptvhd.ru:8080/TF1/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "284bf075c0e30f29508fbb7117f2ee73"
     },
     {
       "name": "TFX (720p)",
@@ -156453,6 +158077,20 @@
       "id": "05228e1580565f34f44fd0ce50e38eba"
     },
     {
+      "name": "Thendral TV (576p)",
+      "logo": "https://i.imgur.com/kQK80gB.png",
+      "category": "Undefined",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "ThendralTV.in@SD",
+      "url": "https://hls.thendraltv.in/thendraltv_1210b43d/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "833629d5596794b7d19dc4c0f0fa9279"
+    },
+    {
       "name": "Thikrayat TV (1080p) [Geo-blocked]",
       "logo": "https://i.imgur.com/AKa1X9d.png",
       "category": "Classic",
@@ -157475,6 +159113,20 @@
       "id": "b1aa1cad44c0e3406a4bebd161786882"
     },
     {
+      "name": "TNT4 HD (1080p)",
+      "logo": "https://i.imgur.com/gBokU5i.png",
+      "category": "Entertainment",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "TNT4.ru@HD",
+      "url": "http://str2.iptvhd.ru:8080/TNT_4/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "dcaa2040d5af84bffdd943aa1eba5f96"
+    },
+    {
       "name": "TNT4 International (576p)",
       "logo": "https://i.imgur.com/SjdOaya.png",
       "category": "Entertainment",
@@ -157557,6 +159209,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "10b8f9a4ae4845ee7126ad008356f225"
+    },
+    {
+      "name": "Tochka.rf (576p)",
+      "logo": "https://i.imgur.com/tKgmhxh.png",
+      "category": "Documentary;Travel",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "Tochkarf.ru@HD",
+      "url": "http://str2.iptvhd.ru:8080/HD_Life/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "44999bfe49a754001052ded8ed9f5e0e"
     },
     {
       "name": "TODAY All Day (1080p)",
@@ -158931,6 +160597,20 @@
       "id": "029ee85bcf05c03431b803b362a47215"
     },
     {
+      "name": "TraLaLa TV",
+      "logo": "https://i.imgur.com/xJBMnjy.png",
+      "category": "Kids",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "TraLaLaTV.ro@SD",
+      "url": "https://hls01ns.antenaplay.ro/hls/tralala-hd/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "12000104a250d4011e3a0a64a653849c"
+    },
+    {
       "name": "Transformers",
       "logo": "https://images.pluto.tv/channels/63da36dea995710008727d4d/colorLogoPNG.png",
       "category": "Kids",
@@ -159505,7 +161185,7 @@
       "id": "8fc584e9160461b2c33188e5598f12fc"
     },
     {
-      "name": "TRT Belgesel (720p)",
+      "name": "TRT Belgesel (1080p)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/960px-TRT_Belgesel_logo_%282019-%29.svg.png",
       "category": "Documentary",
       "country": "Unknown",
@@ -159513,10 +161193,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "TRTBelgesel.tr@SD",
-      "url": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8",
+      "url": "http://hls127.freeott.top:8080/TRT_BELGESEL_TR/video.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "00418f481ecd7611a88fa82b51e86693"
+      "id": "153c6203f36a9e28424906f2e286267e"
     },
     {
       "name": "TRT Cocuk (1440p)",
@@ -159687,7 +161367,7 @@
       "id": "c4589801a6c9b292f902c6629e5c27e3"
     },
     {
-      "name": "TRT World (1080p) [Not 24/7]",
+      "name": "TRT World (720p)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png",
       "category": "News",
       "country": "Unknown",
@@ -159695,10 +161375,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "TRTWorld.tr@SD",
-      "url": "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
+      "url": "https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "40cf8bc31fadc3491255e0a7686f9d16"
+      "id": "2b9420fe51d55e0cb98f7b2f9249f05d"
     },
     {
       "name": "TRT World HD",
@@ -161141,6 +162821,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "ad71b0ec54b805d0ac52ae613b4eaa1e"
+    },
+    {
+      "name": "TV Centr International (576p)",
+      "logo": "https://i.imgur.com/tsCOnBW.png",
+      "category": "Undefined",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "TVCentrInternational.ru@SD",
+      "url": "https://stream8.cinerama.uz/1281/tracks-v1a1/mono.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "68d3c76da17b36d0b8a2465ffa97b38b"
     },
     {
       "name": "TV Central (540p)",
@@ -165189,6 +166883,20 @@
       "id": "067c5ed003a239ab4a0ef2782017baa3"
     },
     {
+      "name": "TV7 (1080p)",
+      "logo": "https://i.imgur.com/40rR4hD.png",
+      "category": "Education",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "TV7.dz@SD",
+      "url": "http://185.9.2.18/chid_352/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "a401cfc6bc8c6a600700bd6dc1cdddc8"
+    },
+    {
       "name": "TV7 Bekescsaba (360p)",
       "logo": "https://i.imgur.com/CnUhAlK.png",
       "category": "General",
@@ -168522,7 +170230,7 @@
     },
     {
       "name": "Télé Congo (720p)",
-      "logo": "https://i.imgur.com/r4B5zq4.png",
+      "logo": "https://i.imgur.com/gbFtP14.png",
       "category": "General",
       "country": "Unknown",
       "country_name": "Unknown",
@@ -168673,6 +170381,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "5a57588c896a87dc0efe96391f37bd95"
+    },
+    {
+      "name": "U Travel (1080p)",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/U_Travel.svg/1920px-U_Travel.svg.png",
+      "category": "Travel",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "UTravel.ua@SD",
+      "url": "http://str2.iptvhd.ru:8080/travel/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "b961d21c7d143491d1e72b597a10c08e"
     },
     {
       "name": "U&Alibi (576p)",
@@ -169317,20 +171039,6 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "af26b106f2c4475031a97cc9795cea9c"
-    },
-    {
-      "name": "Unikum (576p)",
-      "logo": "https://i.imgur.com/kSJZjDL.png",
-      "category": "Kids",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "Unikum.ru@SD",
-      "url": "http://45.145.32.13:20440/nauka/index.m3u8?token=test",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "212fe70942cc27870a9c0507c4ee69a4"
     },
     {
       "name": "UniMas Central (720p)",
@@ -170241,6 +171949,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "b0433dd4cd75903cf4e70084181ece1e"
+    },
+    {
+      "name": "V mire zhivotnykh HD (1080p)",
+      "logo": "https://i.imgur.com/6uotdVQ.png",
+      "category": "Undefined",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "Vmirezhivotnykh.ru@HD",
+      "url": "http://str2.iptvhd.ru:8080/Animal_Family_HD/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "71cde47473461f0d59e3a0b82b05f555"
     },
     {
       "name": "V Sport Golf [Not 24/7]",
@@ -171699,6 +173421,20 @@
       "id": "24b540287dbfa35b31ac021922c1c7dd"
     },
     {
+      "name": "Viasat History (1080p)",
+      "logo": "https://i.imgur.com/39qZ68J.png",
+      "category": "Documentary",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "ViasatHistory.ua@SD",
+      "url": "http://hls127.freeott.top:8080/VIASAT_EXPLORE_HD_CEE/video.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "1824a4ae33a94a6297e34c108bdb68d4"
+    },
+    {
       "name": "Viasat History [Not 24/7]",
       "logo": "https://i.imgur.com/wRP9XA7.png",
       "category": "Documentary",
@@ -171965,6 +173701,20 @@
       "id": "82696b255743a5e31576bbb270ef5f55"
     },
     {
+      "name": "viju Nature HD (1080p)",
+      "logo": "https://i.imgur.com/8BPZ18l.png",
+      "category": "Documentary",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "vijuNature.ru@HD",
+      "url": "http://str2.iptvhd.ru:8080/Viasat_Nature_HD/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "67dee974f30bc632cd232803d4120417"
+    },
+    {
       "name": "viju TV1000 (576p)",
       "logo": "https://i.imgur.com/ZMsyjSr.png",
       "category": "Movies",
@@ -172089,6 +173839,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "bdb3fdff9ada5250a5bbbe3b2e068a0e"
+    },
+    {
+      "name": "viju+ Sport HD (1080p)",
+      "logo": "https://i.imgur.com/fXESG0l.png",
+      "category": "Sports",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "vijuPlusSport.ru@HD",
+      "url": "http://str2.iptvhd.ru:8080/Viasat_Sport/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "ed9782be5d7b846b5d4f41833b2c3e68"
     },
     {
       "name": "Vilayet TV",
@@ -172607,6 +174371,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "869c2b6d33446726c9a7ffb60f38a568"
+    },
+    {
+      "name": "Vivacom Arena (720p)",
+      "logo": "https://i.imgur.com/M7QKnH3.png",
+      "category": "Undefined",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "VivacomArena.bg@SD",
+      "url": "http://hls127.freeott.top:8080/BG_Vivacom_Arena_HD/video.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "26772fa82fcce9888c8a7624e573732b"
     },
     {
       "name": "Vivamóvil (720p)",
@@ -177901,6 +179679,20 @@
       "id": "158c216864d4b829289706595dbe8e04"
     },
     {
+      "name": "Zee Cinemalu HD (720p)",
+      "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022ZEQ9.png?lock=720x540",
+      "category": "Movies",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "ZeeCinemalu.in@HD",
+      "url": "https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "338a820e6f2f34e6604677b76bb44fbb"
+    },
+    {
       "name": "Zee Classic (576p)",
       "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CLASSIC/images/LOGO_HD/LOGO_HD_image.png",
       "category": "Classic",
@@ -178193,6 +179985,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "5520b406c581d93161b3de0f8618fa4b"
+    },
+    {
+      "name": "Zee Telugu HD (720p)",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TELUGU/images/LOGO_HD/LOGO_HD_image.png",
+      "category": "Entertainment",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "ZeeTelugu.in@HD",
+      "url": "https://mumbai-edge.smartplaytv.in/ZeeTeluguHD/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "60507afc9fa1147cfec31194209d347d"
     },
     {
       "name": "Zee Telugu News (720p)",
@@ -178833,10 +180639,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Zvezda.ru@HD",
-      "url": "https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8",
+      "url": "http://str2.iptvhd.ru:8080/Zvezda/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "11dff83ecb1fd80f0e872bb1a703b101"
+      "id": "d8c72a38cb44934f568bbcc5c5bc8afe"
     },
     {
       "name": "Zvezda Plus (576p)",
@@ -179357,20 +181163,6 @@
       "id": "a3580fba178656eb2bf25074a3fbb6f7"
     },
     {
-      "name": "Авто Плюс (576p)",
-      "logo": "https://i.imgur.com/sVc8cFt.png",
-      "category": "Auto",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "AutoPlus.ru@SD",
-      "url": "http://31.148.48.15/Avto_Plus/index.m3u8",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "446a4f1362cf4133f090e44c7fe5d87d"
-    },
-    {
       "name": "Аист ТВ (1080p)",
       "logo": "https://i.imgur.com/bcw0s4V.png",
       "category": "General",
@@ -179861,20 +181653,6 @@
       "id": "8a38577da7bd60cccd55629fb0751066"
     },
     {
-      "name": "Иллюзион+ (576p)",
-      "logo": "https://i.imgur.com/9GvuHQ5.png",
-      "category": "Movies",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "IllusionPlus.ru@SD",
-      "url": "http://31.148.48.15/Illusion_plus/index.m3u8",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "11f2470f78e9bf1a8979d8871b8620d7"
-    },
-    {
       "name": "Ингушетия ТВ (1080p)",
       "logo": "https://i.imgur.com/Fw2Hkk4.png",
       "category": "General",
@@ -179999,20 +181777,6 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "142423bf2935bf4263222b4a1a147386"
-    },
-    {
-      "name": "Кто есть Кто (576p)",
-      "logo": "https://i.imgur.com/PmD17UQ.png",
-      "category": "Education",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "Ktoestkto.ru@SD",
-      "url": "http://31.148.48.15/Kto_est_kto/index.m3u8",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "f2540d961a6430a758acf39c4604c506"
     },
     {
       "name": "Кубань 24 [Geo-blocked]",
@@ -180911,20 +182675,6 @@
       "id": "5d0f1175a88246710885caacf46de61d"
     },
     {
-      "name": "Русский Экстрим (576p)",
-      "logo": "https://i.imgur.com/hJK7mOW.png",
-      "category": "Sports",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "RussianExtreme.ru@SD",
-      "url": "http://31.148.48.15/Russkiy_Ekstrim/index.m3u8",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "fabcc63bebf5425b0598d85af936e28e"
-    },
-    {
       "name": "С1 (Сургут) (1080p) [Not 24/7]",
       "logo": "https://i.imgur.com/chNBF5t.png",
       "category": "Undefined",
@@ -181555,20 +183305,6 @@
       "id": "1e4f1e14bf9a6231f6d67d9688bf4345"
     },
     {
-      "name": "Телепутешествия (576p)",
-      "logo": "https://i.imgur.com/eXJm1n3.png",
-      "category": "Travel",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "Teleputeshestviya.ru@SD",
-      "url": "http://31.148.48.15/Teleputeshestviya/index.m3u8",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "f8fc451d0046799d43da9dfc32fee724"
-    },
-    {
       "name": "Телерадиокомпания 555 (Алушта) (720p)",
       "logo": "https://i.imgur.com/JQZkxeA.png",
       "category": "General",
@@ -181693,6 +183429,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "80f6dc6bdccca6e028a7e30fee7904ec"
+    },
+    {
+      "name": "Уникум (576p)",
+      "logo": "https://i.imgur.com/kSJZjDL.png",
+      "category": "Kids",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "Unikum.ru@SD",
+      "url": "http://31.148.48.15/Detskiy/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "6ad3ad7d64408f2d43724afff8dec5b3"
     },
     {
       "name": "Урал 24 (Челябинск) (1080p)",

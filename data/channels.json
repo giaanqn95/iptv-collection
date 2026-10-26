@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-25T08:04:55.463125+00:00",
-  "total": 13336,
+  "updated_at": "2026-10-26T08:28:31.223608+00:00",
+  "total": 13343,
   "channels": [
     {
       "name": "Andorra TV",
@@ -26673,6 +26673,20 @@
       "id": "2b54c89cfb93a0e2d2fe7045ce9e51d0"
     },
     {
+      "name": "6ter",
+      "logo": "https://i.imgur.com/2nd5Cox.png",
+      "category": "Entertainment",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "6ter.fr@SD",
+      "url": "http://149.62.177.107:9999/6ter/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "fa043552e7aebd239a83f2abfb78a161"
+    },
+    {
       "name": "7 Gold (1080p)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/7gold.jpg/960px-7gold.jpg",
       "category": "Entertainment",
@@ -27297,10 +27311,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "24.sk@SD",
-      "url": "http://88.212.15.17/live/test_trojka_25p/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_trojka_25p/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "a93f4acaeab652b719ca67bfdfa72c99"
+      "id": "4d1f37ae7b3902b8eec0276133612e27"
     },
     {
       "name": "A Haber (1080p)",
@@ -33617,6 +33631,20 @@
       "id": "29e6b97b35e01f41c28c4f1df3b7f2a0"
     },
     {
+      "name": "AMN TV (576p)",
+      "logo": "https://amntv.in/wp-content/uploads/2025/04/amntv-logo.png",
+      "category": "General",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "AMNTV.in@SD",
+      "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "da349cfefb0d15d0186405ae8245aa3c"
+    },
+    {
       "name": "Amou Yazid TV (576p)",
       "logo": "https://i.imgur.com/L8UPGPC.png",
       "category": "Kids",
@@ -34381,10 +34409,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "AnimalPlanet.cz@SD",
-      "url": "http://88.212.15.17/live/test_animal_planet_hd_hevc/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_animal_planet_hd_hevc/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "86b4566f2732d623043363a633238960"
+      "id": "b34243ebea46b8968bff00578be28370"
     },
     {
       "name": "Animal Planet (Hungary)",
@@ -34395,10 +34423,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "AnimalPlanet.hu@SD",
-      "url": "http://88.212.15.17/live/animal_hun/index.m3u8",
+      "url": "http://88.212.7.14/live/animal_hun/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "0aadd0e14c9093786fb2f503c6ab3230"
+      "id": "445b57e0ae91b72c5dc1b2830046cd06"
     },
     {
       "name": "Animal Planet (India) (720p)",
@@ -34513,6 +34541,20 @@
       "id": "97dbda942deb45e1e45d2b166f1b52e9"
     },
     {
+      "name": "Animax Asia Taiwan",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/960px-Animax.png",
+      "category": "Animation",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "AnimaxAsia.sg@Taiwan",
+      "url": "http://125.227.210.55:3056/VideoInput/play.ts",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "873e614a65c5faa37b51bacbd354f9ae"
+    },
+    {
       "name": "Anime Vision (1080p)",
       "logo": "https://i.imgur.com/pUpKznl.png",
       "category": "Animation",
@@ -34569,7 +34611,7 @@
       "id": "dc4bec3d3f691b8d1f1069e3a776d9f9"
     },
     {
-      "name": "Aniplus Asia (720p)",
+      "name": "Aniplus Asia (720p) [Geo-blocked]",
       "logo": "https://i.imgur.com/Im3MePy.png",
       "category": "Animation",
       "country": "Unknown",
@@ -34580,7 +34622,7 @@
       "url": "https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "17f4df984a288cf32884ca2f3ffd6d35"
+      "id": "7e64c3e77aacfab241e78568e1ad0419"
     },
     {
       "name": "Anixe + (360p)",
@@ -35655,10 +35697,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Arena4.hu@SD",
-      "url": "http://88.212.15.17/live/arena4/index.m3u8",
+      "url": "http://88.212.7.14/live/arena4/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "26bbe6b1bcc2e02b8de58f7de337fdaa"
+      "id": "a84d6e817492e9264be84f247c4f5ab8"
     },
     {
       "name": "Argentinisima Satelital (540p)",
@@ -39869,10 +39911,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "BBCEarth.uk@Czechia",
-      "url": "http://88.212.15.17/live/test_bbc_eartch_hevc/playlist.m3u8",
+      "url": "http://88.212.7.14/live/test_bbc_eartch_hevc/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "d2b3a5c0c8e5274ee558a6e53c3ea276"
+      "id": "7865f6779c0220c840e40aeae63ec676"
     },
     {
       "name": "BBC Earth Romania HD (576p)",
@@ -43781,18 +43823,18 @@
       "id": "e9d241b8d992c8028efbad44011e4960"
     },
     {
-      "name": "Boing (Italy) (720p)",
+      "name": "Boing (Italy) HD (1080p)",
       "logo": "https://i.imgur.com/rabKj9i.png",
       "category": "Kids",
       "country": "Unknown",
       "country_name": "Unknown",
       "language": "Unknown",
       "nsfw": false,
-      "tvg_id": "Boing.it@SD",
+      "tvg_id": "Boing.it@HD",
       "url": "https://boing.akamaized.net/6380392800112/eu-central-1/6284318116001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoib3dwbnN1LmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjI4NDMxODExNjAwMSIsImVobiI6ImJvaW5nLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYyODQzMTgxMTYwMDEiXSwianRpIjoiNjM4MDM5MjgwMDExMiJ9.0RWQ0yZrauU0cHSnbpBYhgyRPeq1Lyw6nOn_fo7_cg0/playlist-hls.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "6943113dcb0bc60658efbaee3344fe18"
+      "id": "0c64ddc937a2729c778692b7a1e0356d"
     },
     {
       "name": "Boing (Spain)",
@@ -46239,10 +46281,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "CanaTVDigital.do@SD",
-      "url": "https://stream.hostuis.com:19360/canatvdigital/canatvdigital.m3u8",
+      "url": "https://cdnfox.hostlagarto.com/canatvdigital/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "8c92f55af7ed01ec86470a410123f589"
+      "id": "6e4dac61b565a220f26532dacab3ecdb"
     },
     {
       "name": "Canada One (720p) [Not 24/7]",
@@ -49353,20 +49395,6 @@
       "id": "e80ebd214f52904d18d9078bd80ac265"
     },
     {
-      "name": "Canal Sur",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_Sur_Televisi%C3%B3n_2011-2017_logo.svg/960px-Canal_Sur_Televisi%C3%B3n_2011-2017_logo.svg.png",
-      "category": "General;Public",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "CanalSur.es@SD",
-      "url": "https://cdn.stmify.com/zapitv/stream/CANAL_SUR/canal_sur_hd.mpd",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "8a711960b8d56b01f5c6bb29f2686b41"
-    },
-    {
       "name": "Canal Sur 2 (720p)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Canal_Sur_2_-_2017_logo.png/500px-Canal_Sur_2_-_2017_logo.png",
       "category": "General;Public",
@@ -50663,10 +50691,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "CartoonNetworkCEE.uk@CzechRepublic",
-      "url": "http://88.212.15.17/live/test_cartoon_network_tizen/playlist.m3u8",
+      "url": "http://88.212.7.14/live/test_cartoon_network_tizen/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "9cf19f04a45636fa1dc0f153fea2c934"
+      "id": "bc2107c48c9a097aa4b66adfa3fa3136"
     },
     {
       "name": "Cartoon Network CEE Poland",
@@ -50761,10 +50789,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "CartoonitoCEE.uk@Czechia",
-      "url": "http://88.212.15.17/live/test_boomerang_tizen/playlist.m3u8",
+      "url": "http://88.212.7.14/live/test_boomerang_tizen/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "c4a9492fdf64297e3003edcfe85be68e"
+      "id": "d335e5ada689eb0763babb0a31c62faa"
     },
     {
       "name": "Cartoonito CEE Poland (1080p)",
@@ -50779,6 +50807,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "15e6d0eedae037ebe67cd7ab9da4945a"
+    },
+    {
+      "name": "Cartoonito HD (720p)",
+      "logo": "https://i.imgur.com/6vYWCD0.png",
+      "category": "Animation;Kids",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "Cartoonito.it@HD",
+      "url": "https://boing.akamaized.net/6380673432112/eu-central-1/6284318116001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoib3dwbnN1LmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjI4NDMxODExNjAwMSIsImVobiI6ImJvaW5nLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYyODQzMTgxMTYwMDEiXSwianRpIjoiNjM4MDY3MzQzMjExMiJ9.WACYETOZxZYmZHRpxwRrATxVZQBdSoeaWdfhtLKx1kI/playlist-hls.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "0f05b8c802ee6119a99eee78bca1c9e2"
     },
     {
       "name": "Cartoonito Latin America (1080p)",
@@ -55213,10 +55255,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Cinemax.cz@Czechia",
-      "url": "http://88.212.15.17/live/test_cinemax_hd_hevc/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_cinemax_hd_hevc/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "e20cb1b1b9b56dfd8b75211b21d7be54"
+      "id": "c3c076a32bf66667ae12fa7e1abe621d"
     },
     {
       "name": "Cinemax (United States) West (720p)",
@@ -55241,10 +55283,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Cinemax2.cz@Czechia",
-      "url": "http://88.212.15.17/live/test_cinemax2_hd_hevc/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_cinemax2_hd_hevc/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "27dad91d2359da0cd63565420f0d2a40"
+      "id": "e0fc4e4a8ca8a0531971d6732a617a4d"
     },
     {
       "name": "Cinemax Asia (720p) [Geo-blocked]",
@@ -55415,7 +55457,7 @@
       "id": "6df9b006884cace1741da89cddcc84cd"
     },
     {
-      "name": "CineWow",
+      "name": "CineWow (576i)",
       "logo": "https://cdn.gamma.app/tfnglu66dwji8hw/d36b2d5c45a544749b3739d46fb119cc/original/CineWow.png",
       "category": "Movies",
       "country": "Unknown",
@@ -55423,10 +55465,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "CineWow.ro@SD",
-      "url": "https://hls02ns.antenaplay.ro/hls/bollywood-clasic-sd/index.m3u8",
+      "url": "https://hls01ns.antenaplay.ro/hls/cinewow-sd/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "dd4983d7703e28a3a3addf2bd8c7efaa"
+      "id": "122e97e372bdad0b462481c9ec1315b4"
     },
     {
       "name": "Cinturao Verde",
@@ -57383,10 +57425,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "CNNPrimaNews.cz@SD",
-      "url": "http://88.212.15.17/live/test_cnn_pirma_news/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_cnn_pirma_news/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "5f84306d3f78cf236bad23ba33b932ed"
+      "id": "6b933278243091229db41ed2c3bef9f8"
     },
     {
       "name": "CNT Mas TV (720p) [Not 24/7]",
@@ -59161,10 +59203,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "CrimePlusInvestigationCEE.uk@SD",
-      "url": "http://88.212.15.17/live/test_cai_hevc/playlist.m3u8",
+      "url": "http://88.212.7.14/live/test_cai_hevc/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "a6ebfa320e0ab11403454716c6928d0b"
+      "id": "22f0fa1a7220fc7e844e264ec08d2e95"
     },
     {
       "name": "Crime + Investigation Polsat (576i)",
@@ -59581,10 +59623,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "CTDecko.cz@SD",
-      "url": "http://88.212.15.17/live/ct_art_avc_25p/playlist.m3u8",
+      "url": "http://88.212.15.50/live/ct_art_avc_25p/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "f7bfeab9a330f410976d6fc359506a32"
+      "id": "4826e183411b002fefec28ba104ce430"
     },
     {
       "name": "CT Sport (720p)",
@@ -59595,10 +59637,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "CTSport.cz@SD",
-      "url": "http://88.212.15.17/live/test_ctsport_25p/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_ctsport_25p/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "fbcd1a7272303b343a0861ec5a7a7a6b"
+      "id": "70821d1f24d957bb2a1a6521da1e740a"
     },
     {
       "name": "CT-N Court Feed (360p) [Not 24/7]",
@@ -59651,10 +59693,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "CT1.cz@SD",
-      "url": "http://88.212.15.17/live/test_ct1_25p/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_ct1_25p/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "4a16eed2631c07988a11b670c722e0fc"
+      "id": "9cce1a895164ae85cc275cb37eae3cec"
     },
     {
       "name": "CT2",
@@ -59665,10 +59707,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "CT2.cz@SD",
-      "url": "http://88.212.15.17/live/test_ct2_25p/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_ct2_25p/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "215f8ca0dcf22c1dc6b3e3eb86cc545b"
+      "id": "e83449a4e20526a8ea6ac6ff87bb28b1"
     },
     {
       "name": "CT24 (1080p)",
@@ -59679,10 +59721,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "CT24.cz@SD",
-      "url": "http://88.212.15.17/live/test_ct24_hevc/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_ct24_hevc/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "230836c2f13f5e6e59ac93face0bc37a"
+      "id": "d5da2868c1e0ce063d9c6a97ab5cce90"
     },
     {
       "name": "CTB Perth (720p)",
@@ -63129,20 +63171,6 @@
       "id": "20c317039b94b8169f3b0bcebb1a1dde"
     },
     {
-      "name": "Disco Mix (576p)",
-      "logo": "https://www.discomix.ro/wp-content/uploads/2023/03/Disco-Mix-1.png",
-      "category": "Music",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "DiscoMix.ro@SD",
-      "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-disco-mix/live_hq?offsetSeconds=0",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "f3c91b993a9b2a306b502ff940b4fa76"
-    },
-    {
       "name": "Disco Polo Music (1080p)",
       "logo": "https://i.imgur.com/ZZbuTv7.png",
       "category": "Music",
@@ -63207,10 +63235,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "DiscoveryChannel.cz@SD",
-      "url": "http://88.212.15.17/live/test_discovery_hd_hevc/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_discovery_hd_hevc/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "09506d848f098ce4d68a380f9d3643da"
+      "id": "d8950955df562454c0e0afcc76642dd5"
     },
     {
       "name": "Discovery Channel (Hungary)",
@@ -63221,10 +63249,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "DiscoveryChannel.hu@SD",
-      "url": "http://88.212.15.17/live/discovery_hungary/index.m3u8",
+      "url": "http://88.212.7.14/live/discovery_hungary/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "94e4024dc735f5b991f19637735ed642"
+      "id": "127d428ab4fab7d9d18239d87ac7db7c"
     },
     {
       "name": "Discovery Channel (India) (720p)",
@@ -63571,10 +63599,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "DisneyChannel.cz@SD",
-      "url": "http://88.212.15.17/live/test_disney/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_disney/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "5204a7b7c6f1bdd104b271db60b49cf7"
+      "id": "02839b721f500b15c1276b082cc81562"
     },
     {
       "name": "Disney Channel (Germany) (576p)",
@@ -63589,6 +63617,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "21a4b9b25518aee1bae08551d497b3d2"
+    },
+    {
+      "name": "Disney Channel (Germany) HD",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+      "category": "Kids",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "DisneyChannel.de@HD",
+      "url": "http://109.85.181.77:9981/stream/channelid/652495718?profile=pass",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "8d2af01f8a8790900ad1a8fe4f8244c8"
     },
     {
       "name": "Disney Channel (India) HD (1080p)",
@@ -63829,7 +63871,7 @@
       "id": "58f44caa4127043dc6ede3d0ea778ef4"
     },
     {
-      "name": "Disney XD (576p)",
+      "name": "Disney XD (Poland) (576p)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg",
       "category": "Kids",
       "country": "Unknown",
@@ -63840,7 +63882,21 @@
       "url": "http://185.227.34.179:8080/disney-xd/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "7b3aa0c9e85c6c9361a397ec67fe3ab1"
+      "id": "fab08fb13b13042e4c2837417614432f"
+    },
+    {
+      "name": "Disney XD (United States) (1080p)",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/960px-2015_Disney_XD_logo.svg.png",
+      "category": "Kids",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "DisneyXD.us@East",
+      "url": "http://89.187.179.148:826/1368/gXwiagaXda/1672",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "c194f51bab7e2363fe5d5641b7652501"
     },
     {
       "name": "District of Columbia Network (1080p)",
@@ -67819,7 +67875,7 @@
       "id": "ee675922a501e0adf6cdd758d1d6f623"
     },
     {
-      "name": "EMI TV",
+      "name": "EMI TV (576i)",
       "logo": "https://i.imgur.com/B5zssCz.png",
       "category": "Music",
       "country": "Unknown",
@@ -67827,24 +67883,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "EMITV.ro@SD",
-      "url": "https://astra.emitv.ro/hls/emi/index.m3u8",
+      "url": "https://hls01ns.antenaplay.ro/hls/emi-tv-sd/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "478ad7f3dc101509b26ded89045c19fb"
-    },
-    {
-      "name": "EMI TV HD (1080i)",
-      "logo": "https://i.imgur.com/B5zssCz.png",
-      "category": "Music",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "EMITV.ro@HD",
-      "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-emi/live_hq?offsetSeconds=0",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "3b9b67ebdb4fa98baae11e91b6c0e994"
+      "id": "23f91615689313ae423de6eb669c4e77"
     },
     {
       "name": "Emisora Comunitaria 104.1 FM",
@@ -70193,10 +70235,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Eurosport1.fr@Hungary",
-      "url": "http://88.212.15.17/live/esp1_hun/index.m3u8",
+      "url": "http://88.212.7.14/live/esp1_hun/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "6b0a1cff1ea73a6a710c3692881f58fc"
+      "id": "54e820c008a77d65655283b70ea1412e"
     },
     {
       "name": "Eurosport 1 Polska (1080p)",
@@ -70249,10 +70291,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Eurosport2.fr@Hungary",
-      "url": "http://88.212.15.17/live/esp2_hun/index.m3u8",
+      "url": "http://88.212.7.14/live/esp2_hun/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "3f075f944f1f4e9aec03afa2bb20b7d9"
+      "id": "69c5b1ab56cafcc5a790f9288c526774"
     },
     {
       "name": "Eurosport 2 Polska (1080p)",
@@ -71487,7 +71529,7 @@
       "id": "ddffbec360eb6894dbf5d1aa982e0b3d"
     },
     {
-      "name": "Farovision (720p)",
+      "name": "Farovision (720p) [Not 24/7]",
       "logo": "https://i.imgur.com/YtdOXWb.png",
       "category": "General",
       "country": "Unknown",
@@ -71495,10 +71537,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Farovision.do@SD",
-      "url": "https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8",
+      "url": "https://5790d294af2dc.streamlock.net/femeninatv/femeninatv/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "903e49d1f431905d7244fa1c232777c6"
+      "id": "c957e15ad3db380e82fc9806f6eea5c0"
     },
     {
       "name": "Farra Play (576p)",
@@ -72685,10 +72727,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "FILMBOXPlusOne.pl@Magyar",
-      "url": "http://88.212.15.17/live/filmbox_hungary/index.m3u8",
+      "url": "http://88.212.7.14/live/filmbox_hungary/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "743cce4db0697bbe7513b1108665030f"
+      "id": "482a56b5c5a15d774119838719674fb3"
     },
     {
       "name": "FILMBOX+ One Nederland",
@@ -73329,10 +73371,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "FoodNetwork.cz@SD",
-      "url": "http://88.212.15.17/live/test_food_network_atk_tv/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_food_network_atk_tv/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "690379d7645f7da7c178bdb0d1929b3c"
+      "id": "d0ba901bae41e3531447e44c103d22ad"
     },
     {
       "name": "Food Network (Hungary)",
@@ -73343,10 +73385,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "FoodNetwork.hu@SD",
-      "url": "http://88.212.15.17/live/fn_hungary/index.m3u8",
+      "url": "http://88.212.7.14/live/fn_hungary/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "068242bccb1bb85375d9a04bd1187535"
+      "id": "342603b5baca72c250ed67eaa06ae165"
     },
     {
       "name": "Food Network (Italy) (1080p)",
@@ -76597,7 +76639,7 @@
       "id": "c8a95151faf10c3bc340b096d057d50a"
     },
     {
-      "name": "Global TV (Dominican Republic) (720p)",
+      "name": "Global TV (Dominican Republic) (720p) [Not 24/7]",
       "logo": "https://i.imgur.com/1rQaROm.png",
       "category": "General",
       "country": "Unknown",
@@ -76605,10 +76647,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "GlobalTV.do@SD",
-      "url": "https://stmv4.voxtvhd.com.br/globaltv/globaltv/playlist.m3u8",
+      "url": "https://vtm1.msinteractiva.com./globaltv/globaltv/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "d1ca97db6bb0542bc15249ce4db615de"
+      "id": "94414bc8d73c37eab30f027328e1d929"
     },
     {
       "name": "Global TV (Peru) (1080p)",
@@ -78669,7 +78711,7 @@
       "id": "5559e09577555bee17d0464ba36a9b0c"
     },
     {
-      "name": "H!t Music Channel (Hungary) (480p)",
+      "name": "H!t Music Channel (480p)",
       "logo": "https://i.imgur.com/sqC2hqV.png",
       "category": "Music",
       "country": "Unknown",
@@ -78680,21 +78722,7 @@
       "url": "http://hitmusic.hu/hitmusic.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "5f0feca5295b16d6cd4f8e8a24de6e01"
-    },
-    {
-      "name": "H!t Music Channel (Romania)",
-      "logo": "https://i.imgur.com/sqC2hqV.png",
-      "category": "Music",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "HtMusicChannel.ro@SD",
-      "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-mooz-dance/live_hq?offsetSeconds=0",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "c9014e78e98f81de086d464159d8fcb9"
+      "id": "26bbe2d3852541b62fe43931906fc9da"
     },
     {
       "name": "Ha Tinh TV (720p)",
@@ -79363,10 +79391,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "HBO.cz@SD",
-      "url": "http://88.212.15.17/live/test_hbo_hd_hevc/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_hbo_hd_hevc/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "1e2a7dce8acb1cf863a4bbd30d198278"
+      "id": "ccf39cc7589427bce6829a20867db3d6"
     },
     {
       "name": "HBO (United States) (720p)",
@@ -79391,10 +79419,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "HBO2.cz@SD",
-      "url": "http://88.212.15.17/live/test_hbo2_hd_hevc/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_hbo2_hd_hevc/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "2d8bb5d0d373f949866de5d158f3ec25"
+      "id": "3ab029bd670c5f3a5c534b879f5be684"
     },
     {
       "name": "HBO 2 Latin America HD (1080p)",
@@ -79419,10 +79447,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "HBO3.cz@SD",
-      "url": "http://88.212.15.17/live/test_hbo3_hd_hevc/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_hbo3_hd_hevc/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "857c9006455535cd5c64dfac4272e865"
+      "id": "0b3047ff8a2b4bc24c73ddca86a219b4"
     },
     {
       "name": "HBO Asia SD (720p) [Geo-blocked]",
@@ -79979,10 +80007,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "HGTV.cz@SD",
-      "url": "http://88.212.15.17/live/test_hgtv_hevc_25p/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_hgtv_hevc_25p/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "5e8012ee6d535f642b3e15dcf544aa91"
+      "id": "cd5f5f806c919df7e15124019bec1cfc"
     },
     {
       "name": "HGTV (Hungary)",
@@ -79993,10 +80021,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "HGTV.hu@SD",
-      "url": "http://88.212.15.17/live/hgtv_hun/index.m3u8",
+      "url": "http://88.212.7.14/live/hgtv_hun/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "3b219e4e1ebfe7e4ac6b20a9c7631aa8"
+      "id": "98078619aed58aad76ae0685d081c1f9"
     },
     {
       "name": "HGTV (Italy) (1080p)",
@@ -82085,7 +82113,7 @@
       "id": "3ac4d2521bcf23c878b5ecb1fc023550"
     },
     {
-      "name": "HTV Sports",
+      "name": "HTV Sports (1080i)",
       "logo": "https://upload.wikimedia.org/wikipedia/vi/3/3f/HTV_THETHAO_2014.png",
       "category": "Sports",
       "country": "Unknown",
@@ -82093,10 +82121,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "HTVSports.vn@SD",
-      "url": "https://dethich.pw/htvthethao/index.m3u8",
+      "url": "https://vmttv.dpdns.org/tv360/?id=htv-the-thao",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "3a8556ce9e468e3259716414b77405e1"
+      "id": "3b8016acb752c45023454e63639f790c"
     },
     {
       "name": "HTV1 (720p)",
@@ -82181,6 +82209,48 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "60a06695d0ae71c9bda307fb3fa1b9fa"
+    },
+    {
+      "name": "HTVC Family (720p)",
+      "logo": "",
+      "category": "Family",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "HTVCFamily.vn@SD",
+      "url": "https://dethich.pw/htvcgiadinh/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "4ede9fd27f6657a58f9c43d20cc6397e"
+    },
+    {
+      "name": "HTVC Movies (720p)",
+      "logo": "",
+      "category": "Movies;Series",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "HTVCMovies.vn@SD",
+      "url": "https://dethich.pw/htvcphim/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "c1a9c7427361cec139267d6c0a450a7d"
+    },
+    {
+      "name": "HTVC Women (720p)",
+      "logo": "https://upload.wikimedia.org/wikipedia/vi/a/a9/HTVC_PHUNU.png",
+      "category": "Lifestyle",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "HTVCWomen.vn@SD",
+      "url": "https://dethich.pw/htvcphunu/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "3149455da97bc36c65cb9688c00910f1"
     },
     {
       "name": "Huacho Peru TV",
@@ -84767,10 +84837,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "InvestigationDiscovery.cz@SD",
-      "url": "http://88.212.15.17/live/test_id_hevc_atktv/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_id_hevc_atktv/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "c86fd3cc221288451ff5d96d819a7ce1"
+      "id": "7a1d8bb6167654547f56295e0612ef40"
     },
     {
       "name": "Investigation Discovery (Hungary)",
@@ -84781,10 +84851,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "InvestigationDiscovery.hu@SD",
-      "url": "http://88.212.15.17/live/id_hun/index.m3u8",
+      "url": "http://88.212.7.14/live/id_hun/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "371ede1d6816a7402be0bbc175404404"
+      "id": "84607af3d9f3aab0ee51e81ae34c729c"
     },
     {
       "name": "Investigation Discovery (India) (720p)",
@@ -86377,10 +86447,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Jednotka.sk@SD",
-      "url": "http://88.212.15.17/live/test_jednotka_25p/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_jednotka_25p/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "d9c3f561b82436a07372f2d8068bc4ba"
+      "id": "2c683311a77f7996c13140aea7a252f5"
     },
     {
       "name": "Jeevan TV (576p)",
@@ -93047,6 +93117,20 @@
       "id": "47edb4494b70b838228d4ddd602aec57"
     },
     {
+      "name": "LCI",
+      "logo": "https://i.imgur.com/DED8EXs.png",
+      "category": "News",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "LCI.fr@SD",
+      "url": "http://149.62.177.107:9999/LCI/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "865ca54647a6e9f3488487a07dbeb476"
+    },
+    {
       "name": "LCI HD (1080p)",
       "logo": "https://i.imgur.com/DED8EXs.png",
       "category": "News",
@@ -94301,10 +94385,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "BBCEarth.uk@Hungary",
-      "url": "http://88.212.15.17/live/bbce_hun/index.m3u8",
+      "url": "http://88.212.7.14/live/bbce_hun/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "af5d6a78e0895f708c24bd019391cfa9"
+      "id": "e7d409a88ce643d009a60ede9f6ee2cc"
     },
     {
       "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Documentary\",National Geographic (Czech Republic)",
@@ -94315,10 +94399,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "NationalGeographic.cz@SD",
-      "url": "http://88.212.15.17/live/test_ngc/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_ngc/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "9902dcb6879de485af1bff66af75b55f"
+      "id": "402b48dae2ed0a97781cf853731754d4"
     },
     {
       "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Documentary\",National Geographic Wild (Czech Republic)",
@@ -94329,10 +94413,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "NationalGeographicWild.cz@SD",
-      "url": "http://88.212.15.17/live/test_ngw/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_ngw/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "bc43bf9f476cabe7b8677af5767ad8c5"
+      "id": "ec141c9abb1dca643d85c3c2205b1d8b"
     },
     {
       "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Documentary\",Viasat Explore (Czech Republic)",
@@ -94343,10 +94427,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "ViasatExplore.cz@SD",
-      "url": "http://88.212.15.17/live/test_viasat_explore_atk_tv/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_viasat_explore_atk_tv/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "43b3fa1f47653787444c4700a7c961c7"
+      "id": "c1026616508718287ee9b21ce86133c5"
     },
     {
       "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Documentary\",Viasat History (Czech Republic)",
@@ -94357,10 +94441,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "ViasatHistory.cz@SD",
-      "url": "http://88.212.15.17/live/test_viasat_history_atk_tv/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_viasat_history_atk_tv/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "3f41b099c6de332cffe96d4616e8f487"
+      "id": "3824c60860a8d39ddd7d7be2a82ae647"
     },
     {
       "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Documentary\",Viasat Nature (Czech Republic)",
@@ -94371,10 +94455,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "ViasatNature.cz@SD",
-      "url": "http://88.212.15.17/live/test_viasat_nature_atk_tv/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_viasat_nature_atk_tv/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "96652333c5a3c4fa34077a7814cb616c"
+      "id": "24a742ce191049548458eb7a01a018a2"
     },
     {
       "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Entertainment\",BBC First Turkiye",
@@ -94385,10 +94469,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "BBCFirst.uk@Turkiye",
-      "url": "http://88.212.15.17/live/bbc_first/index.m3u8",
+      "url": "http://88.212.7.14/live/bbc_first/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "922b8ab40abbdd641dfd1e03cc750da0"
+      "id": "462301cf7a922bb60785ffa6e89b5c7c"
     },
     {
       "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Jocky TV",
@@ -94399,10 +94483,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "JockyTV.hu@SD",
-      "url": "http://88.212.15.17/live/jocky/index.m3u8",
+      "url": "http://88.212.7.14/live/jocky/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "63363241953dcfeab0789c7a32b5f7b4"
+      "id": "69653c62c0b155da64f207bdc309b188"
     },
     {
       "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Life TV (Hungary)",
@@ -94413,10 +94497,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "LifeTV.hu@SD",
-      "url": "http://88.212.15.17/live/lifetv/index.m3u8",
+      "url": "http://88.212.7.14/live/lifetv/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "26113766c268deaf49dd2bd111b771f7"
+      "id": "0922d540373fad1508dee6d058b3fd54"
     },
     {
       "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Moziklub",
@@ -94427,10 +94511,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Moziklub.hu@SD",
-      "url": "http://88.212.15.17/live/moziklub_atk/index.m3u8",
+      "url": "http://88.212.7.14/live/moziklub_atk/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "739d6df57ba1c266011a97aeec556117"
+      "id": "8d7dd7b29560b6feda35889c0f60042e"
     },
     {
       "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Sorozatklub",
@@ -94441,10 +94525,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Sorozatklub.hu@SD",
-      "url": "http://88.212.15.17/live/sorozatklub_atk/index.m3u8",
+      "url": "http://88.212.7.14/live/sorozatklub_atk/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "58196759bf01099ed742b0119f132b53"
+      "id": "e5b7a49a5929b65fbed08cd3af5a078e"
     },
     {
       "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"General\",1+1 Ukraina (1080p)",
@@ -94511,10 +94595,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "DisneyJunior.cz@SD",
-      "url": "http://88.212.15.17/live/test_disney_junior/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_disney_junior/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "1f1c270497ea32c1bbc40835746a84de"
+      "id": "d8cd665075c7c49a5654c55c23de61a9"
     },
     {
       "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Kids\",JimJam",
@@ -94525,10 +94609,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "JimJam.hu@SD",
-      "url": "http://88.212.15.17/live/jim_jam_hun/index.m3u8",
+      "url": "http://88.212.7.14/live/jim_jam_hun/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "72df0959c941eaf613143dc919a517b9"
+      "id": "d4df9823d7a6e0303979d3d536028733"
     },
     {
       "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Kids\",Kolyokklub",
@@ -94539,10 +94623,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Kolyokklub.hu@SD",
-      "url": "http://88.212.15.17/live/kolyokklub_atk/index.m3u8",
+      "url": "http://88.212.7.14/live/kolyokklub_atk/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "a5ce078dd68f7fd105cc6da843b9e828"
+      "id": "a3a8d71df03a7be26dc3025ba4b2b3f0"
     },
     {
       "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Kids\",Minimax (Hungary)",
@@ -94553,10 +94637,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Minimax.hu@SD",
-      "url": "http://88.212.15.17/live/minimax_hun/index.m3u8",
+      "url": "http://88.212.7.14/live/minimax_hun/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "125feb257b5c0b3e1eb907fdf65048b6"
+      "id": "481db4d3b6c39b2c2ff59cd3ef531f8c"
     },
     {
       "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Kids\",Nick Jr. (Czech Republic)",
@@ -94567,10 +94651,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "NickJr.cz@SD",
-      "url": "http://88.212.15.17/live/test_nick_jr/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_nick_jr/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "ba762ae4fd3785f843b8fff839de6293"
+      "id": "b04382f9d14fd5357cc9dbd582b7ffba"
     },
     {
       "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Kids\",Nick Jr. (Hungary)",
@@ -94581,10 +94665,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "NickJr.hu@SD",
-      "url": "http://88.212.15.17/live/nick_junior_hun/index.m3u8",
+      "url": "http://88.212.7.14/live/nick_junior_hun/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "6c05b9c729e0785484024766c3f418a8"
+      "id": "a9bce894b98ecffc447c8bed419e391e"
     },
     {
       "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Kids\",Nickelodeon (Czech Republic)",
@@ -94595,10 +94679,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Nickelodeon.cz@SD",
-      "url": "http://88.212.15.17/live/test_nickelodeon_hevc_25p/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_nickelodeon_hevc_25p/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "218fce9878361a45a2248c733d766328"
+      "id": "2009b811b5feb0edc631570b18673563"
     },
     {
       "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Kids\",Nicktoons (Hungary)",
@@ -94609,10 +94693,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Nicktoons.hu@SD",
-      "url": "http://88.212.15.17/live/nicktoons_hungary/index.m3u8",
+      "url": "http://88.212.7.14/live/nicktoons_hungary/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "8d5e365a2d2877629bb99b2d3759aaa6"
+      "id": "e1e16e79bf87211d994c8ea58ffb1256"
     },
     {
       "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Lifestyle;Travel\",TV Paprika (Czech Republic)",
@@ -94623,10 +94707,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "TVPaprika.cz@SD",
-      "url": "http://88.212.15.17/live/test_parpika_tv_sd_hevc/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_parpika_tv_sd_hevc/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "d3f7ebde8cb595fb6124a231e54fe2b6"
+      "id": "196df37ae628375627fbe09d72976ee5"
     },
     {
       "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Lifestyle;Travel\",TV Paprika (Hungary)",
@@ -94637,10 +94721,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "TVPaprika.hu@SD",
-      "url": "http://88.212.15.17/live/parpika_hun/index.m3u8",
+      "url": "http://88.212.7.14/live/parpika_hun/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "85edc6010b12e4669e20208de6a6537d"
+      "id": "c301e78e8b34658ef1cef5bc0535b49c"
     },
     {
       "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Movies\",AMC Europe Hungary",
@@ -94651,10 +94735,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "AMCEurope.uk@Hungary",
-      "url": "http://88.212.15.17/live/amc_hun/index.m3u8",
+      "url": "http://88.212.7.14/live/amc_hun/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "96bea13d03d2fe5ccddd3fb9b1bfc359"
+      "id": "4d630766438b5c84febb57a894d9230d"
     },
     {
       "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Movies\",AXN CEE",
@@ -94665,10 +94749,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "AXNCEE.es@Hungary",
-      "url": "http://88.212.15.17/live/axn_hun/index.m3u8",
+      "url": "http://88.212.15.50/live/axn_hun/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "ba5b793efee7993d310088aa406d1ef2"
+      "id": "b2ba02444d5e1f98fadbd34a4203955f"
     },
     {
       "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Movies\",Film Cafe",
@@ -94679,10 +94763,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "FilmCafe.hu@Hungary",
-      "url": "http://88.212.15.17/live/film_cafe/index.m3u8",
+      "url": "http://88.212.7.14/live/film_cafe/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "c5dc9242f090be3082b59b9211a581b4"
+      "id": "f43a38e856303eb84573131e8b2f6401"
     },
     {
       "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Movies\",FILMBOX+ Hits Hungary",
@@ -94693,10 +94777,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "FILMBOXPlusHits.pl@Hungary",
-      "url": "http://88.212.15.17/live/fb_premium_hungary/index.m3u8",
+      "url": "http://88.212.7.14/live/fb_premium_hungary/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "dc87564e0fd21b097a01cfcadc4a3384"
+      "id": "5cf9f898f0b40d459ea39ba309788e70"
     },
     {
       "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Outdoor\",The Fishing & Hunting Channel HD",
@@ -94707,10 +94791,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "TheFishingHuntingChannel.hu@HD",
-      "url": "http://88.212.15.17/live/fishing_hun/index.m3u8",
+      "url": "http://88.212.7.14/live/fishing_hun/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "ea8da3504ed1ae6d39191cfc3377a017"
+      "id": "35ba0f287b3c2e2e088c047c65db42b1"
     },
     {
       "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Science\",Ozone TV",
@@ -94721,10 +94805,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "OzoneTV.hu@SD",
-      "url": "http://88.212.15.17/live/ozone/index.m3u8",
+      "url": "http://88.212.7.14/live/ozone/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "4068ff35e33b3c7f994cc1be1345bcc8"
+      "id": "4ff40817a86e62a1ac10f85d5256c48a"
     },
     {
       "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Series\",Viasat Epic Drama Czechia",
@@ -94735,10 +94819,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "ViasatEpicDrama.uk@Czechia",
-      "url": "http://88.212.15.17/live/test_epic_drama_atk_tv/playlist.m3u8",
+      "url": "http://88.212.7.14/live/test_epic_drama_atk_tv/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "2995ee9ad77b43e35ccefe27774c2867"
+      "id": "44324021d01025c643b78e93469d09e3"
     },
     {
       "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Sports\",M4 Sport (1080p)",
@@ -94749,10 +94833,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "M4Sport.hu@SD",
-      "url": "http://88.212.15.17/live/uatlmvixrr/index.m3u8",
+      "url": "http://88.212.7.14/live/uatlmvixrr/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "2ca5a5e58b3499bb5e798e3ffc7b4f8d"
+      "id": "165af39cabc005d090bcd83962738f7e"
     },
     {
       "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Sports\",Radio Turrialba TV Sports (720p) [Not 24/7]",
@@ -94777,10 +94861,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Sport1.hu@SD",
-      "url": "http://88.212.15.17/live/sport1_hun/index.m3u8",
+      "url": "http://88.212.7.14/live/sport1_hun/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "ccdb2795fc7cd99954f914526c476a45"
+      "id": "44a00888149c10e6b7606b720b077e5e"
     },
     {
       "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport 2 (Hungary)",
@@ -94791,10 +94875,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Sport2.hu@SD",
-      "url": "http://88.212.15.17/live/sport2_hun/index.m3u8",
+      "url": "http://88.212.7.14/live/sport2_hun/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "51c2e2728a76f12a1317ff1f770384fc"
+      "id": "d3ddb154eb49f64e3429631970462fce"
     },
     {
       "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Undefined\",History2",
@@ -94805,10 +94889,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "History2.cz@SD",
-      "url": "http://88.212.15.17/live/test_h2/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_h2/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "d68f25227b89db6bc64b65012d8abcee"
+      "id": "100ed7cd11ce323b930da8cfa7e342bb"
     },
     {
       "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Undefined\",Prima SK",
@@ -94819,10 +94903,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "PrimaSK.sk@HD",
-      "url": "http://88.212.15.17/live/test_prima_plus_25p/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_prima_plus_25p/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "089362a400ee7c9e056c73fbd8584462"
+      "id": "ef6f8cadebd79540ef9b3b8d56055e4f"
     },
     {
       "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"Undefined\",TVE Internacional Europe",
@@ -94861,10 +94945,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Dvojka.sk@SD",
-      "url": "http://88.212.15.17/live/test_dvojka_25p/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_dvojka_25p/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "662ff121ded567368f281a0adeec94cd"
+      "id": "282f6b7913081bdfa5d067abef3d4ee6"
     },
     {
       "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Documentary\",H2 HD",
@@ -95029,10 +95113,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Sport1.cz@SD",
-      "url": "http://88.212.15.17/live/test_sport1_25p/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_sport1_25p/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "bfc7a0d7e46c44d1d058877ed2e9d35b"
+      "id": "3ec63cafcb3638be11bd99836f20972f"
     },
     {
       "name": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport2",
@@ -95043,10 +95127,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Sport2.cz@SD",
-      "url": "http://88.212.15.17/live/test_sport_2/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_sport_2/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "4be3805f72af226418fb7da308d5506d"
+      "id": "8e003407bd0162a5b3fe8ebed9df0296"
     },
     {
       "name": "like Gecko) Chrome/129.0.0.0 Safari/537.36\" group-title=\"Undefined\",TV Bahia (1080i)",
@@ -95407,10 +95491,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "TV2Comedy.hu@SD",
-      "url": "http://88.212.15.17/live/tv2_comedy/index.m3u8",
+      "url": "http://88.212.7.14/live/tv2_comedy/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "6b3e3ea44a68505898cb30276f47e251"
+      "id": "5dd40e31b057dc8502a3c2846e9adea6"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Culture\",Dikh TV",
@@ -95421,10 +95505,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "DikhTV.hu@SD",
-      "url": "http://88.212.15.17/live/dikh/index.m3u8",
+      "url": "http://88.212.7.14/live/dikh/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "94cd86ab0a5e67b071da08587f450f30"
+      "id": "c91a43ce0d48da3dbc75d30a76444dda"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Documentary\",BBC Earth Turkiye",
@@ -95449,10 +95533,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "History.hu@SD",
-      "url": "http://88.212.15.17/live/history_hun/index.m3u8",
+      "url": "http://88.212.7.14/live/history_hun/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "8824b40fd06b30197a6832cdde9303bb"
+      "id": "d9e0c1277dd46a0604e3345fecd40920"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Documentary\",National Geographic (Hungary)",
@@ -95463,10 +95547,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "NationalGeographic.hu@SD",
-      "url": "http://88.212.15.17/live/ngc_hun/index.m3u8",
+      "url": "http://88.212.7.14/live/ngc_hun/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "7cf17153581463ac145ac5947d8bc89c"
+      "id": "1395bd12ecebf3f73f86c789e14bdb5d"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Documentary\",National Geographic (Turkiye)",
@@ -95491,10 +95575,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "NationalGeographicWild.hu@SD",
-      "url": "http://88.212.15.17/live/ngw_hun/index.m3u8",
+      "url": "http://88.212.7.14/live/ngw_hun/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "3c89b471e3e1a23add5d3dd659bb4bc4"
+      "id": "0a82ba3f668c46c1dacb01ad31635d12"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Documentary\",National Geographic Wild (Turkiye)",
@@ -95519,10 +95603,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Spektrum.hu@SD",
-      "url": "http://88.212.15.17/live/spektrum_hun/index.m3u8",
+      "url": "http://88.212.7.14/live/spektrum_hun/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "97a860e3234465dd8e66e744335129fb"
+      "id": "d3de5c5ab3e531909c2202e22649a6f4"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Documentary\",Viasat History (Turkiye) (720p)",
@@ -95575,10 +95659,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "FEM3.hu@SD",
-      "url": "http://88.212.15.17/live/test_fem3_atktv/playlist.m3u8",
+      "url": "http://88.212.7.14/live/test_fem3_atktv/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "a3d45d0685f192b0a17cfd791b739158"
+      "id": "17bebf61d0e9d1005d9db1c92ff509e3"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Entertainment\",ICTV (Ukraine) (1080p)",
@@ -95603,10 +95687,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "IzauraTV.hu@SD",
-      "url": "http://88.212.15.17/live/izaura/index.m3u8",
+      "url": "http://88.212.7.14/live/izaura/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "ccf451d9a492a0cc02458474220cb916"
+      "id": "e2c0194af510a65174a49dd7f74ecf06"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Entertainment\",K1 (1080p)",
@@ -95659,10 +95743,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "RTLOtthon.hu@SD",
-      "url": "http://88.212.15.17/live/rtl_otthon_atk/index.m3u8",
+      "url": "http://88.212.7.14/live/rtl_otthon_atk/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "10a8d09723bfbf348eb18a4f1f62dd57"
+      "id": "70012f43998729bf064f530a0cf788bb"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Spektrum Home (Hungary)",
@@ -95673,10 +95757,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "SpektrumHome.hu@SD",
-      "url": "http://88.212.15.17/live/spektrum_home_hun/index.m3u8",
+      "url": "http://88.212.7.14/live/spektrum_home_hun/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "0bba8dadf82d28f1389dd63de10cca5b"
+      "id": "87b1c8dae593bfdef910034d85703d57"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Entertainment\",Zoom (Ukraine) (1080p)",
@@ -95715,10 +95799,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Duna.hu@SD",
-      "url": "http://88.212.15.17/live/duna_hun/index.m3u8",
+      "url": "http://88.212.7.14/live/duna_hun/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "14b7f901b0a8d8508378f95f2f70c205"
+      "id": "26ac40fa9a2b2324226d85cf076860b3"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"General\",Duna World",
@@ -95729,10 +95813,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "DunaWorld.hu@SD",
-      "url": "http://88.212.15.17/live/duna_world_hun/index.m3u8",
+      "url": "http://88.212.7.14/live/duna_world_hun/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "33dca6a39e908d4ca65d5333bceedd24"
+      "id": "1e78b840250264ec0bc8bdd0217acb65"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"General\",Inter (1080p)",
@@ -95785,10 +95869,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "DisneyChannel.hu@SD",
-      "url": "http://88.212.15.17/live/disney_channel_hun/index.m3u8",
+      "url": "http://88.212.7.14/live/disney_channel_hun/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "c6aa4c79d37665223decd60ad2795bd6"
+      "id": "4f6fbcc232b0891f2009957a0a6f7f5e"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Kids\",KinoKazka (1080p)",
@@ -95813,10 +95897,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Nickelodeon.hu@SD",
-      "url": "http://88.212.15.17/live/test_nickelodeon_hu_1200_atk/playlist.m3u8",
+      "url": "http://88.212.7.14/live/test_nickelodeon_hu_1200_atk/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "37455a4c8c289123543c3cace60c4a91"
+      "id": "943f15b0a4f729f53782ba43733e4230"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Kids\",PLUSPLUS (1080p)",
@@ -95841,10 +95925,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "TV2Kids.hu@SD",
-      "url": "http://88.212.15.17/live/tv2_kids/index.m3u8",
+      "url": "http://88.212.7.14/live/tv2_kids/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "8e13b2d1bcad2898e2f195ddfb44fa46"
+      "id": "652feb3b5c62a10a964c246b88810138"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Lifestyle\",Good Life (576p)",
@@ -95869,10 +95953,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "AXNCrime.us@SD",
-      "url": "http://88.212.15.17/live/viasat_film/index.m3u8",
+      "url": "http://88.212.7.14/live/viasat_film/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "b53e332c3b1dc4e08880c2c2aa0dec4b"
+      "id": "46c68c339fe0074331dcce0b55dbb1ae"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",beIN Box Office 1",
@@ -95967,10 +96051,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "FilmPlus.cz@SD",
-      "url": "http://88.212.15.17/live/test_film_plus_25p/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_film_plus_25p/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "85fa231f0953560a64291df2d8380263"
+      "id": "14dba9b277d54d1ae43fe5290a963700"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",Film+ (Hungary)",
@@ -95981,10 +96065,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "FilmPlus.hu@SD",
-      "url": "http://88.212.15.17/live/film_plus_hun_atk/index.m3u8",
+      "url": "http://88.212.7.14/live/film_plus_hun_atk/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "2ed8dbde6bb3299da3a966d030a6b2a8"
+      "id": "d1276b6d744096a2bda50206418b5348"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",Film4",
@@ -95995,10 +96079,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Film4.hu@SD",
-      "url": "http://88.212.15.17/live/film4_hun/index.m3u8",
+      "url": "http://88.212.7.14/live/film4_hun/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "60590dccbd0e0ef6360d44bd68115e21"
+      "id": "552250a64f86934ca5b3e800ccbedcf1"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",Kino 2 (1080p)",
@@ -96023,10 +96107,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "MagyarMoziTV.hu@SD",
-      "url": "http://88.212.15.17/live/mozi/index.m3u8",
+      "url": "http://88.212.7.14/live/mozi/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "67d4f74de5ab1044f75ca26ae0c8a4fc"
+      "id": "fdfce8321693672745119fbab9505d87"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",Mozi+",
@@ -96037,10 +96121,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "MoziPlus.hu@SD",
-      "url": "http://88.212.15.17/live/mozi_plusz/index.m3u8",
+      "url": "http://88.212.7.14/live/mozi_plusz/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "c5bb8470c3e373e890107738a18a556d"
+      "id": "677a49a76a66570eaae033403bbca560"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",Moziverzum",
@@ -96051,10 +96135,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Moziverzum.hu@SD",
-      "url": "http://88.212.15.17/live/moziverzum/index.m3u8",
+      "url": "http://88.212.7.14/live/moziverzum/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "e0bc98d69a708efa97f28ad19f5e9a40"
+      "id": "08d04e73eaeb04af3afe602c5505b3de"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Movies\",Nashe Lubimoe Kino Ukraine (1080p)",
@@ -96135,10 +96219,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "MuzsikaTV.hu@SD",
-      "url": "http://88.212.15.17/live/test_muzsika_hungary_1200_atk/playlist.m3u8",
+      "url": "http://88.212.7.14/live/test_muzsika_hungary_1200_atk/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "91d206453e6cc189aea1603a9719ebc3"
+      "id": "580ce52efd3da03cba212637a3775eea"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Music\",Slager TV",
@@ -96149,10 +96233,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "SlagerTV.hu@SD",
-      "url": "http://88.212.15.17/live/test_slager_tv_hungary_1200_atk/playlist.m3u8",
+      "url": "http://88.212.7.14/live/test_slager_tv_hungary_1200_atk/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "9f3d37eba3720adaf0ef9864c616d908"
+      "id": "d9561535c9f0c730cf60685e3fb50acf"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"News\",Channel 5 (Ukraine) (1080p)",
@@ -96177,10 +96261,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "M1.hu@HD",
-      "url": "http://88.212.15.17/live/test_m_1_hungary_1200_atk/playlist.m3u8",
+      "url": "http://88.212.7.14/live/test_m_1_hungary_1200_atk/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "065d3b0adbdd37b913dc8391980efd67"
+      "id": "3fbdbe33651764c1ca092de772fc2d56"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Sports\",Eurosport 4K Czechia",
@@ -96191,10 +96275,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Eurosport4KCzechia.cz@UHD",
-      "url": "http://88.212.15.17/live/esp_4k_atk/playlist.m3u8",
+      "url": "http://88.212.15.50/live/esp_4k_atk/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "bf8030ba3dd49cae8a66ec9eeb86ead8"
+      "id": "90cf44bc66acdcba80a63c47f918aeb2"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Sports\",Setanta Sports (1080p)",
@@ -96261,10 +96345,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Spiler1.hu@SD",
-      "url": "http://88.212.15.17/live/spiler1/index.m3u8",
+      "url": "http://88.212.7.14/live/spiler1/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "e1a3fda699863d57500619ca4975e55f"
+      "id": "19f772f583344b2d8f8e1f3547a4ad2d"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Sports\",Spiler 2",
@@ -96275,10 +96359,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Spiler2.hu@SD",
-      "url": "http://88.212.15.17/live/spiler2/index.m3u8",
+      "url": "http://88.212.7.14/live/spiler2/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "75b3d80db60fff147b694216563f49fa"
+      "id": "4ce7d500c3136b4aad916fda3f00c492"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Sports\",Sport 5 (1080p)",
@@ -96359,10 +96443,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "PrimaKrimi.cz@SD",
-      "url": "http://88.212.15.17/live/test_prima_krimi_cz/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_prima_krimi_cz/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "b2fa98c522d8005489beb49ae2e31c59"
+      "id": "4a61d2644f91340909f7d45eaa2aad67"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",Prima Krimi SK",
@@ -96373,10 +96457,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "PrimaKrimiSK.sk@HD",
-      "url": "http://88.212.15.17/live/prima_krimi_avc_25p/playlist.m3u8",
+      "url": "http://88.212.15.50/live/prima_krimi_avc_25p/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "a77d978b4c990c20c230441f82463c35"
+      "id": "01b06d7895d3dfc06cd634a356572494"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",Prima love SK (1080p)",
@@ -96387,10 +96471,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "PrimaloveSK.sk@SD",
-      "url": "http://88.212.15.17/live/prima_love_avc_25p/playlist.m3u8",
+      "url": "http://88.212.15.50/live/prima_love_avc_25p/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "974cbe59b10da52b9c93aba37c39b527"
+      "id": "a96eeed53ac3e13d86e5f1d72332f026"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",Prima Max",
@@ -96401,10 +96485,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "PrimaMax.cz@SD",
-      "url": "http://88.212.15.17/live/test_prima_max_cz/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_prima_max_cz/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "60f6a18be8b2359b74f90f785b96d0d0"
+      "id": "d33f392d37dc28681fc3df191fcd32a9"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",Prime (Hungary)",
@@ -96415,10 +96499,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Prime.hu@SD",
-      "url": "http://88.212.15.17/live/prime/index.m3u8",
+      "url": "http://88.212.7.14/live/prime/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "b56628638c0716317aa1a27399439284"
+      "id": "e579c281fc1255149be27f5e60b3baf9"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",RTL (Hungary)",
@@ -96429,10 +96513,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "RTL.hu@SD",
-      "url": "http://88.212.15.17/live/test_rtl_klub_hungary_1200_atk/playlist.m3u8",
+      "url": "http://88.212.7.14/live/test_rtl_klub_hungary_1200_atk/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "0698453e8c63b9f333c70d04314422b8"
+      "id": "14e9a0e8a91c488b69a73d037ac1f483"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",RTL Harom",
@@ -96443,10 +96527,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "RTLHarom.hu@SD",
-      "url": "http://88.212.15.17/live/test_rtl_plus_hungary_1200_atk/playlist.m3u8",
+      "url": "http://88.212.7.14/live/test_rtl_plus_hungary_1200_atk/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "bd3e12f991ab5e3d869ba742dec1f643"
+      "id": "fdc4fcc6d66225878629f1e9153712d1"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",RTL Ketto",
@@ -96457,10 +96541,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "RTLKetto.hu@SD",
-      "url": "http://88.212.15.17/live/test_rtl2_hungary_1200_atk/playlist.m3u8",
+      "url": "http://88.212.7.14/live/test_rtl2_hungary_1200_atk/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "37e4cac5aee3281901e4b3360de4a661"
+      "id": "91ca644960d8c57e8e71e75665dc7e79"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",Salt TV (Ukraine) (1080p)",
@@ -96527,10 +96611,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "SorozatPlus.hu@SD",
-      "url": "http://88.212.15.17/live/test_sorozat_hungary_1200_atk/playlist.m3u8",
+      "url": "http://88.212.7.14/live/test_sorozat_hungary_1200_atk/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "066f3567364595a774239a6a6652b023"
+      "id": "342a38ccfb5042c19bc87c5b0dc0201e"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",Story4 Czechia",
@@ -96541,10 +96625,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Story4.hu@Czechia",
-      "url": "http://88.212.15.17/live/story_4_cze_atk/index.m3u8",
+      "url": "http://88.212.7.14/live/story_4_cze_atk/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "e834369384242b1a218d7aeae027467a"
+      "id": "f04d1c973e0893b5f614c27a4d97f7c8"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",Super TV2",
@@ -96555,10 +96639,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "SuperTV2.hu@SD",
-      "url": "http://88.212.15.17/live/test_super_tv2_hungary_1200_atk/playlist.m3u8",
+      "url": "http://88.212.7.14/live/test_super_tv2_hungary_1200_atk/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "df2be2760259c520c4b03a93a1a10250"
+      "id": "f132360dc386493504c826fbc7b84410"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",TET (1080p)",
@@ -96583,10 +96667,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "TVBarrandov.cz@SD",
-      "url": "http://88.212.15.17/live/test_barrandov/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_barrandov/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "adf96d9883b9eddfaea4520b796c9243"
+      "id": "e5242c5631973517ffe84fc70b86e0c2"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",TV2 (Hungary)",
@@ -96597,10 +96681,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "TV2.hu@SD",
-      "url": "http://88.212.15.17/live/test_tv_2_hungary_1200_atk/playlist.m3u8",
+      "url": "http://88.212.7.14/live/test_tv_2_hungary_1200_atk/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "14f08dbbbcbceff4318c8440a6b4ca85"
+      "id": "749bcd331b4bc5d6d6425d4d6e7a53d0"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",TV2 Sef",
@@ -96611,10 +96695,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "TV2Sef.hu@SD",
-      "url": "http://88.212.15.17/live/test_lichi_tv_atk_tv/playlist.m3u8",
+      "url": "http://88.212.7.14/live/test_lichi_tv_atk_tv/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "1751e6ea8b8c9e7da7e545977ea0096f"
+      "id": "d5fbb2bc653faa9a35b041f077d46fdf"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",TV4 (Hungary)",
@@ -96625,10 +96709,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "TV4.hu@SD",
-      "url": "http://88.212.15.17/live/test_tv_4_hun_atk_1200/playlist.m3u8",
+      "url": "http://88.212.7.14/live/test_tv_4_hun_atk_1200/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "a70297706cdbdd968454c21cd3b58803"
+      "id": "d05c3a66b05d1d5fe08f475c8c307ef4"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",Viasat 3",
@@ -96639,10 +96723,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Viasat3.hu@SD",
-      "url": "http://88.212.15.17/live/viasat3/index.m3u8",
+      "url": "http://88.212.7.14/live/viasat3/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "92bc987f9c61ebd76c599ce0523df927"
+      "id": "b5fbcf51eee627a62466560f6ab6f0aa"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",Viasat 6",
@@ -96653,10 +96737,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Viasat6.hu@SD",
-      "url": "http://88.212.15.17/live/viasat6/index.m3u8",
+      "url": "http://88.212.7.14/live/viasat6/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "3546722b88b915fddf39e793bcc0c365"
+      "id": "db781aaa70801b626c66322fba285b13"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",Viasat2",
@@ -96667,10 +96751,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Viasat2.hu@SD",
-      "url": "http://88.212.15.17/live/viasat2/index.m3u8",
+      "url": "http://88.212.7.14/live/viasat2/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "749d2d48768ae430fbc4f5e3b8da4225"
+      "id": "2f38895ba65c3faeb2cf2b34fb5ba70d"
     },
     {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"Undefined\",Zenebutik",
@@ -96681,10 +96765,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Zenebutik.hu@SD",
-      "url": "http://88.212.15.17/live/zenebutik/index.m3u8",
+      "url": "http://88.212.7.14/live/zenebutik/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "90157da64c8ba0914fa9aa15cfe446f8"
+      "id": "b48c73fd473e1476bd1ee455319d2803"
     },
     {
       "name": "like Gecko) Chrome/131.0.0.0 Safari/537.36\" group-title=\"General\",Cubavision",
@@ -97661,10 +97745,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "History.cz@SD",
-      "url": "http://88.212.15.17/live/test_history/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_history/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "54ab01d2708d034d4dbcd958ad6cfc20"
+      "id": "bbf4cefca3b933b07df567b3a407b191"
     },
     {
       "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Documentary\",National Geographic (Netherlands) HD (1080p)",
@@ -97703,10 +97787,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "AXNWhite.us@CzechRepublic",
-      "url": "http://88.212.15.17/live/test_white/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_white/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "fcdacfaa0320539fd914bece7fe6071e"
+      "id": "d149f9857d40d41da6a2d7e7bcabaebb"
     },
     {
       "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Entertainment\",M6 HD (1080p)",
@@ -97829,10 +97913,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "AMCEurope.uk@CzechRepublic",
-      "url": "http://88.212.15.17/live/test_amc_25p/playlist.m3u8",
+      "url": "http://88.212.7.14/live/test_amc_25p/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "fc5abc179692c107bfdafaa5bae58c3e"
+      "id": "f423645568b55cecf8d19ba5095ba899"
     },
     {
       "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",AXN Adria",
@@ -97857,10 +97941,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "AXNBlack.us@CzechRepublic",
-      "url": "http://88.212.15.17/live/test_black/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_black/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "d9ff7cc10cf83b22b8ace2d68bed3fe5"
+      "id": "bf483e64d4e146206d7d38099b213d7f"
     },
     {
       "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",AXN CEE Czech Republic",
@@ -97871,10 +97955,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "AXNCEE.es@CzechRepublic",
-      "url": "http://88.212.15.17/live/test_axn/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_axn/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "e7efe0e993af06e6deff014401b6e5d5"
+      "id": "15881393684e8cc0e9047b692d806484"
     },
     {
       "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",AXN Movies (Portugal) (720p)",
@@ -97997,10 +98081,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "FILMBOXPlusComedy.pl@Czechia",
-      "url": "http://88.212.15.17/live/test_filmbox_family_atk_1200/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_filmbox_family_atk_1200/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "af0b0a9e4e32cce5c62e72c6a9fe5e2e"
+      "id": "f2bfc4918f04f48c29d4c9574804df78"
     },
     {
       "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FILMBOX+ Emotion Adria",
@@ -98039,10 +98123,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "FILMBOXPlusEmotion.pl@Czechia",
-      "url": "http://88.212.15.17/live/test_film_boxextra_hd_hevc/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_film_boxextra_hd_hevc/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "0d7a37b5dd08e269996f0027393f4125"
+      "id": "0ac9e9945f49a450a1fb5aaffe4ed4dc"
     },
     {
       "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FILMBOX+ Hits Adria",
@@ -98067,10 +98151,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "FILMBOXPlusHits.pl@Czechia",
-      "url": "http://88.212.15.17/live/test_film_boxpremium_hd_hevc/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_film_boxpremium_hd_hevc/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "402868064b64e4390cb0a015e6aaf08a"
+      "id": "1b42f5ae0f50fe0cd57fe226737ecfc0"
     },
     {
       "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FILMBOX+ Love & Crime",
@@ -98081,10 +98165,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "FILMBOXPlusLoveCrime.pl@Czechia",
-      "url": "http://88.212.15.17/live/test_filmbox_plus_atk_1200/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_filmbox_plus_atk_1200/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "4e4f68e1fbd3c897280e25e25e57484f"
+      "id": "63f82c1b17ebfba043f6d532a11d47f7"
     },
     {
       "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",FILMBOX+ Love & Crime Adria",
@@ -98109,10 +98193,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "FILMBOXPlusOne.pl@Czechia",
-      "url": "http://88.212.15.17/live/test_filmbox/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_filmbox/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "86a8ee1d5a9f8f8e07e8d02621d1c782"
+      "id": "07f9c9f19d2174f3145a5582da890652"
     },
     {
       "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Movies\",Kino Nova",
@@ -98319,10 +98403,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "ArenaSport1.sk@SD",
-      "url": "http://88.212.15.17/live/test_arenasport/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_arenasport/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "418c807b266865f1d2f34671445afc06"
+      "id": "0278744253a8d2378c4a2ab34e9876de"
     },
     {
       "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Sports\",Arena Sport 2",
@@ -98333,10 +98417,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "ArenaSport2.sk@SD",
-      "url": "http://88.212.15.17/live/test_arenasport_dva/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_arenasport_dva/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "dff497f3c6b648be09f40ddf28a12234"
+      "id": "f4459df16d35c142a5d1be16592f5228"
     },
     {
       "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Sports\",FightBox",
@@ -99075,10 +99159,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "FILMBOXPlusComedy.pl@Magyar",
-      "url": "http://88.212.15.17/live/test_filmbox_family_hun_atk_1200/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_filmbox_family_hun_atk_1200/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "faa2c457162eb3900ba2b5d43ed1046b"
+      "id": "57f302b5bf47f837739e8b3316dcd27f"
     },
     {
       "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Movies\",FILMBOX+ Emotion Hungary (1080p)",
@@ -99089,10 +99173,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "FILMBOXPlusEmotion.pl@Hungary",
-      "url": "http://88.212.15.17/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "7320571ea1b49115469e8e0e6fc20944"
+      "id": "072056bfb7f5efe23d5926af8ddafc6b"
     },
     {
       "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Movies\",FILMBOX+ Love & Crime Magyar",
@@ -99103,10 +99187,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "FILMBOXPlusLoveCrime.pl@Magyar",
-      "url": "http://88.212.15.17/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8",
+      "url": "http://88.212.7.14/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "f70539e5c76d905dcc6d42d0d32afc92"
+      "id": "f2b2b423244aae3553c07f1553980272"
     },
     {
       "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Movies\",Kino 1 (Ukraine) (1080p)",
@@ -99131,10 +99215,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "KinoBarrandov.cz@SD",
-      "url": "http://88.212.15.17/live/test_kino_barrandov_sd_hevc50/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_kino_barrandov_sd_hevc50/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "25c5312a120199b47301bb51490be3f2"
+      "id": "da3a4be76e3293a5e32f2ada2f24917f"
     },
     {
       "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Movies\",Kinoliving (1080p)",
@@ -99733,10 +99817,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Story4.hu@SD",
-      "url": "http://88.212.15.17/live/test_story_4_atk_1200/playlist.m3u8",
+      "url": "http://88.212.7.14/live/test_story_4_atk_1200/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "00417457d6de4db29764206e76a8d528"
+      "id": "85c8f1c6598dab7db1843cd4afe1254d"
     },
     {
       "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Undefined\",Terra (576p)",
@@ -102953,10 +103037,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "M2.hu@SD",
-      "url": "http://88.212.15.17/live/m2_hun/index.m3u8",
+      "url": "http://88.212.7.14/live/m2_hun/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "1c0526d1f5090c2ec1daf87ca8fb776d"
+      "id": "135fcfd9187f1b02922b1cc55fb554f6"
     },
     {
       "name": "m2o TV (1080p)",
@@ -102981,10 +103065,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "M5.hu@SD",
-      "url": "http://88.212.15.17/live/test_m_5_hun_atk_1200/playlist.m3u8",
+      "url": "http://88.212.7.14/live/test_m_5_hun_atk_1200/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "031efdc15c812d6d6969de74064b44ed"
+      "id": "21d6f4eb8cb661a9062f723d4f33b474"
     },
     {
       "name": "M6 Music",
@@ -104171,10 +104255,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "ManielTV.do@HD",
-      "url": "https://mp.panelchs.com/hls/8024/8024.m3u8",
+      "url": "https://5790d294af2dc.streamlock.net/manieltv/manieltv/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "a142fc60b623a1a5b50c701548605140"
+      "id": "3f2b1b9cf9d184f9f4c2ba70a6d775ac"
     },
     {
       "name": "Manorama News (1080p)",
@@ -107699,10 +107783,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "MinimaxCEE.cz@SD",
-      "url": "http://88.212.15.17/live/test_minimax/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_minimax/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "ab39868d2e4228c0b941974651e09b60"
+      "id": "5301b074766ed6b4837df2ebc165dc0b"
     },
     {
       "name": "Ministerio La Voz De Un Remanente TV",
@@ -111549,10 +111633,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "MusicBoxClassic.cz@SD",
-      "url": "http://88.212.15.17/live/mb_classic/index.m3u8",
+      "url": "http://88.212.15.50/live/mb_classic/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "1f64eac0567e87a06b032f4e8e2fa7bd"
+      "id": "775736068c885c0214d41ae28ae9923f"
     },
     {
       "name": "Music Box Dance",
@@ -111563,10 +111647,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "MusicBoxDance.cz@SD",
-      "url": "http://88.212.15.17/live/mb_dance/index.m3u8",
+      "url": "http://88.212.15.50/live/mb_dance/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "f213978f24f69853984c863a85c026bd"
+      "id": "cf2d39b18742e1bd98cd80e9438274b0"
     },
     {
       "name": "Music Box Hits",
@@ -111577,10 +111661,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "MusicBoxHits.cz@SD",
-      "url": "http://88.212.15.17/live/mb_hits/index.m3u8",
+      "url": "http://88.212.15.50/live/mb_hits/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "128254644f15fa1ed30a341ef0fb5048"
+      "id": "7581e06d018fc7f2ddce0dd874e2b015"
     },
     {
       "name": "Music Box Sexy",
@@ -111591,24 +111675,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "MusicBoxSexy.cz@SD",
-      "url": "http://88.212.15.17/live/mb_sexy/index.m3u8",
+      "url": "http://88.212.15.50/live/mb_sexy/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "3c1f2773c853b772356170dffc935748"
-    },
-    {
-      "name": "Music Channel SD",
-      "logo": "https://i.imgur.com/nadVCxM.png",
-      "category": "Music",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "MusicChannel.ro@SD",
-      "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-ncn/live_hq?offsetSeconds=0",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "bd1b57cb8f3b6acc823e0282bccd782c"
+      "id": "33e2a5b9cc453f5467bd6d39cda38f0a"
     },
     {
       "name": "Music India (576p)",
@@ -113205,20 +113275,6 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "fc182dbce7c3d54250bda790b99215ac"
-    },
-    {
-      "name": "National TV2",
-      "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a8/National_TV_2_2026.png/revision/latest/scale-to-width-down/1000?cb=20260611184456",
-      "category": "Undefined",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "NationalTV2.ro@SD",
-      "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-telestar1/live_hq?offsetSeconds=0",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "f73246fc81f2ab4604e2ce0ed8e607dc"
     },
     {
       "name": "Nativa (720p)",
@@ -116665,20 +116721,6 @@
       "id": "8f1b790b3f5126911e71c1f8fd4a60d5"
     },
     {
-      "name": "NickOnline Bob Esponja (720p) [Not 24/7]",
-      "logo": "https://x1colegal.com/nickonlinebobesponja.png",
-      "category": "Animation;Kids",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "NickOnlineBobEsponja.br@HD",
-      "url": "https://bob.x1colegal.com/hls/stream.m3u8",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "32ca60cc7d8e091577f09773fbc8e79b"
-    },
-    {
       "name": "NickOnline HD (720p)",
       "logo": "https://x1colegal.com/logo.png",
       "category": "Animation;Kids",
@@ -116701,10 +116743,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Nicktoons.cz@SD",
-      "url": "http://88.212.15.17/live/test_nicktoons/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_nicktoons/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "3c2217b8303f3fbaceb59ccc2373345e"
+      "id": "c3b3a5085ba0205ad1221611b2154fb4"
     },
     {
       "name": "Nicktoons (Poland) (576i)",
@@ -119403,10 +119445,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "O.ru@International",
-      "url": "http://88.212.15.17/live/test_telekanal_o/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_telekanal_o/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "2da2bc016f9a0005906bfc910cf42b55"
+      "id": "049f786a7a71e54698aba6673fdb739b"
     },
     {
       "name": "O'zbekiston (576p)",
@@ -120879,6 +120921,20 @@
       "id": "6c8b982e4d5bf2eef63b9f46d439bc42"
     },
     {
+      "name": "ON Style TV (1080p)",
+      "logo": "https://i.ibb.co/JFw65Mtk/IMG-2529.webp",
+      "category": "Lifestyle",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "ONStyleTV.vn@SD",
+      "url": "https://freem3u.xyz/api/live/play.m3u8?vid=184",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "81423a8afa44e1b197c08256a799b077"
+    },
+    {
       "name": "On The Case",
       "logo": "https://i.imgur.com/TAmVjUL.png",
       "category": "Documentary",
@@ -120891,6 +120947,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "be2a32e581d8e0e921623ccf0a053120"
+    },
+    {
+      "name": "ON Vie Dramas (1080i)",
+      "logo": "https://i.ibb.co/VptvgFVx/IMG-2530.webp",
+      "category": "Entertainment",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "ONVieDramas.vn@SD",
+      "url": "https://freem3u.xyz/api/live/play.m3u8?vid=177",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "b90ef182b1c610a936259c62705f337b"
     },
     {
       "name": "ON Vie Giai Tri (1080p)",
@@ -121481,6 +121551,20 @@
       "id": "6f4b926b926cea7ed2491b97ec69d46c"
     },
     {
+      "name": "Oplot 2 (720p) [Geo-blocked]",
+      "logo": "https://nettv.live/uploads/allimg/21/1-210123195A80-L.jpg",
+      "category": "Undefined",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "Oplot2.ru@SD",
+      "url": "http://91.224.16.9:7779/Oplot_2/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "1f782243166311bd06f8bb89c1b685a0"
+    },
+    {
       "name": "Oplot TV (1080p) [Geo-blocked]",
       "logo": "https://i.imgur.com/RvUkId2.png",
       "category": "News",
@@ -121615,10 +121699,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "ORF2.at@SD",
-      "url": "http://88.212.15.17/live/test_orf_zwei_tizen/playlist.m3u8",
+      "url": "http://88.212.7.14/live/test_orf_zwei_tizen/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "25de405d5c54ac40e53f161b4d6cee4d"
+      "id": "4c0da31b758429aa4601a23c910b2bec"
     },
     {
       "name": "ORF III HD (720p)",
@@ -121649,7 +121733,7 @@
       "id": "42e46c80a3eb55c483605a3846b19351"
     },
     {
-      "name": "Orizont TV (576p)",
+      "name": "Orizont TV (576i)",
       "logo": "https://static.wikia.nocookie.net/logopedia/images/8/8b/Orizont_TV.svg/revision/latest/scale-to-width-down/1000?cb=20241219232954",
       "category": "Music",
       "country": "Unknown",
@@ -121657,10 +121741,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "OrizontTV.ro@SD",
-      "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-orizont-tv/live_hq?offsetSeconds=0",
+      "url": "https://hls01ns.antenaplay.ro/hls/orizont-tv-sd/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "e73f42a5d341c5bd3e34c8cbe6e100eb"
+      "id": "832d05dbe0c4a6b6a5d32488196e5139"
     },
     {
       "name": "Orler TV (420p) [Not 24/7]",
@@ -121951,10 +122035,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "OTV.ee@SD",
-      "url": "http://88.212.15.17/live/otv/playlist.m3u8",
+      "url": "http://88.212.7.14/live/otv/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "356bb907a7ce87e0a84e6416b5831cc2"
+      "id": "5aa87fdfb8df22225620d342dac36d64"
     },
     {
       "name": "OTV (Ghana) (720p)",
@@ -131947,10 +132031,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Prima.cz@SD",
-      "url": "http://88.212.15.17/live/prima_avc_25p/playlist.m3u8",
+      "url": "http://88.212.15.50/live/prima_avc_25p/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "19c13173a3ec7dee58dfae143e437c25"
+      "id": "ceab7b5bb7e1c341ed4401818dcc8a21"
     },
     {
       "name": "Prima (Russia) (1080p)",
@@ -131975,10 +132059,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "PrimaCool.cz@SD",
-      "url": "http://88.212.15.17/live/prima_cool_cz_avc/index.m3u8",
+      "url": "http://88.212.15.50/live/prima_cool_cz_avc/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "1533d519314a4a952497605fc1a128a0"
+      "id": "6fde38370463f18c9cf144d28aba1b3e"
     },
     {
       "name": "Prima Cool SK (1080p)",
@@ -131989,10 +132073,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "PrimaCoolSK.sk@SD",
-      "url": "http://88.212.15.17/live/prima_cool_avc_25p/playlist.m3u8",
+      "url": "http://88.212.15.50/live/prima_cool_avc_25p/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "ca1eb9ff7b8a50e4810a267676bd69b9"
+      "id": "b6c6b655f1c9946a5ed10c00785a1290"
     },
     {
       "name": "Prima Free",
@@ -132017,10 +132101,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "PrimaLove.cz@SD",
-      "url": "http://88.212.15.17/live/prima_love_cz_avc/index.m3u8",
+      "url": "http://88.212.15.50/live/prima_love_cz_avc/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "cae55b920ab6ad5a72d1277c3c0b9b56"
+      "id": "d15090b704e4ec31b17c97e87d4b0c1f"
     },
     {
       "name": "Prima News",
@@ -132045,10 +132129,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "PrimaShow.cz@SD",
-      "url": "http://88.212.15.17/live/test_prima_show_hevc_25p/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_prima_show_hevc_25p/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "4f657501ea1fe6ee7cb0e1144b556056"
+      "id": "4c14365f7b66bde207948b01dfaa4082"
     },
     {
       "name": "Prima Sport Czechia",
@@ -132073,10 +132157,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "PrimaStar.cz@SD",
-      "url": "http://88.212.15.17/live/test_prima_star_hevc_25p/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_prima_star_hevc_25p/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "8a1c84b3ccd271c091614e86e42c610c"
+      "id": "17349cc2049d079da84daf4e36825457"
     },
     {
       "name": "Prima TV (720p)",
@@ -132101,10 +132185,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "PrimaZoom.cz@SD",
-      "url": "http://88.212.15.17/live/prima_zoom_avc_25p/playlist.m3u8",
+      "url": "http://88.212.15.50/live/prima_zoom_avc_25p/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "3e7b79e49e81bf27d5acc24dba0f9415"
+      "id": "14b1156c57b698be14e2181d20608b52"
     },
     {
       "name": "PrimAntenna TV (720p)",
@@ -138345,10 +138429,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "RealMadridTVEnglish.es@SD",
-      "url": "http://88.212.15.17/live/real_madrid_tv/index.m3u8",
+      "url": "http://88.212.15.50/live/real_madrid_tv/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "af0870449576e199532cf5303f744465"
+      "id": "7617077baafac5a760a8c4d07842e9eb"
     },
     {
       "name": "Real News Kerala (1080p) [Not 24/7]",
@@ -146471,20 +146555,6 @@
       "id": "0d821af3ec05ced9c860995e260cb21c"
     },
     {
-      "name": "SciFi (720p)",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d1/SciFi_2026.svg",
-      "category": "Entertainment",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "SciFi.fr@HD",
-      "url": "http://41.205.93.154/SYFY/index.m3u8",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "70f0c4da5c3c8a7117b1e048d5d726ee"
-    },
-    {
       "name": "Scorch TV (1080p)",
       "logo": "https://i.imgur.com/CNszwj1.png",
       "category": "Music",
@@ -147367,7 +147437,7 @@
       "id": "efe9733e4950757784bc9d61dad9830b"
     },
     {
-      "name": "ServusTV (1080p) [Geo-blocked]",
+      "name": "ServusTV (576p)",
       "logo": "https://i.imgur.com/6W637Gn.png",
       "category": "Movies",
       "country": "Unknown",
@@ -147375,10 +147445,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "ServusTV.at@SD",
-      "url": "https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8",
+      "url": "https://s6.hopslan.com/servuz1/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "f23d0160bb25a27729398b0845746322"
+      "id": "f3f556e0f03e05e6577fe853b388ad77"
     },
     {
       "name": "SESC TV (1080p)",
@@ -151897,10 +151967,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Spektrum.cz@SD",
-      "url": "http://88.212.15.17/live/test_spektrum/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_spektrum/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "ebe8ca532f70bb5c0b0ec7551f970a82"
+      "id": "704787131c127a13abf2afa10ce5033a"
     },
     {
       "name": "Spektrum Home (Czech Republic)",
@@ -151911,10 +151981,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "SpektrumHome.cz@SD",
-      "url": "http://88.212.15.17/live/test_home_hevc/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_home_hevc/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "eb47d2543471bc3efa354dd7a6e42470"
+      "id": "199f10441fd43a03b5d039073930bdf8"
     },
     {
       "name": "SperantaTV (1080p)",
@@ -152037,10 +152107,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Sport.sk@SD",
-      "url": "http://88.212.15.17/live/test_rtvs_sport_hevc/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_rtvs_sport_hevc/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "666e49c7c256ae4576aa54a0979964d2"
+      "id": "76409372deb1d1006f8d4ed71967f3f1"
     },
     {
       "name": "Sport (Uzbekistan)",
@@ -154851,10 +154921,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "SuperDigitalTV.do@SD",
-      "url": "https://mp.panelchs.com/hls/8032/8032.m3u8",
+      "url": "https://cdn.streamrd.cloud/live/ch_kb5qe1zr.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "c1509527963aa8d85ef0ed14903e76d6"
+      "id": "e1a6962439d20ea3bf0480b020885b62"
     },
     {
       "name": "Super Hungama (576p)",
@@ -155887,10 +155957,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Svoboda.ru@SD",
-      "url": "http://88.212.15.17/live/svoboda/index.m3u8",
+      "url": "http://88.212.15.50/live/svoboda/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "2abc3f455fbb099a8d989875da97d202"
+      "id": "e105904684ea7927f6f24b104ee545d7"
     },
     {
       "name": "Svoyo TV (1080p)",
@@ -161067,10 +161137,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "TelevizeSeznam.cz@SD",
-      "url": "http://88.212.15.17/live/test_seznam_hevc_25p/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_seznam_hevc_25p/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "23668904b0a368af52041d50d762b297"
+      "id": "ea5046098af94f6514023b66c5b23a76"
     },
     {
       "name": "Televizia Mocenok (720p)",
@@ -162355,10 +162425,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "TheFishingHuntingChannel.hu@SD",
-      "url": "http://88.212.15.17/live/test_fishing_hunting/playlist.m3u8",
+      "url": "http://88.212.7.14/live/test_fishing_hunting/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "a1c0971a21f83e0321858df0377685b0"
+      "id": "a32a10085b786c99d00d6a6a74a79588"
     },
     {
       "name": "The Graham Norton Show (1080p)",
@@ -164119,10 +164189,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "TLC.cz@SD",
-      "url": "http://88.212.15.17/live/test_tlc_1200_atk/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_tlc_1200_atk/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "d6fc2ab9ef6e3b9203a32ae43f48a5e8"
+      "id": "f4f00cd0dd2bf8fe8efeb6341b0b43af"
     },
     {
       "name": "TLC (Germany) (576p)",
@@ -164147,10 +164217,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "TLC.hu@SD",
-      "url": "http://88.212.15.17/live/tlc_hungary/index.m3u8",
+      "url": "http://88.212.7.14/live/tlc_hungary/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "23a03a85f2f2b6db9029dfc03e748cff"
+      "id": "08c68f9c736f5b85925be6d3d247e52b"
     },
     {
       "name": "TLC (India) (720p)",
@@ -166359,10 +166429,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "TravelChannel.cz@SD",
-      "url": "http://88.212.15.17/live/test_travel_channel_hd_hevc/playlist.m3u8",
+      "url": "http://88.212.15.50/live/test_travel_channel_hd_hevc/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "10bf7475c5ab2b49dcc11fd5ef77f77e"
+      "id": "343c59e3b79b2f765116718de695ce2c"
     },
     {
       "name": "Travel Channel (Hungary)",
@@ -166373,10 +166443,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "TravelChannel.hu@SD",
-      "url": "http://88.212.15.17/live/travel_hun/index.m3u8",
+      "url": "http://88.212.7.14/live/travel_hun/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "a4d1c0706620e97eba6629e8fbf7d74e"
+      "id": "dfc8ed0bbe958c64bc0905280cf1738d"
     },
     {
       "name": "Travel Channel (Poland) (576i)",
@@ -166643,6 +166713,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "41e4fec29eef52517b6f567cc1fd573d"
+    },
+    {
+      "name": "Trinitas TV (576i)",
+      "logo": "https://i.imgur.com/mOPEttN.png",
+      "category": "Undefined",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "TrinitasTV.ro@SD",
+      "url": "https://hls01ns.antenaplay.ro/hls/trinitas-tv-sd/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "300d76df1ef4c71ae65ddb1470a531b1"
     },
     {
       "name": "Trinity TV (480p) [Not 24/7]",
@@ -167583,7 +167667,7 @@
       "id": "9d39d85126f5a201f78df4a0b16dd779"
     },
     {
-      "name": "Turismo RDTV (720p)",
+      "name": "Turismo RDTV (720p) [Not 24/7]",
       "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3800-294x165-FFFFFF.jpg",
       "category": "Travel",
       "country": "Unknown",
@@ -167591,10 +167675,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "TurismoRDTV.do@HD",
-      "url": "https://streamunoapp.com:3086/live/telemileniolive.m3u8",
+      "url": "https://5790d294af2dc.streamlock.net/yosoyturismotv/live/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "7a08ed36e944844a17ff8624dfb8931d"
+      "id": "4c1b7544c907fd46b9543370ae0c71e5"
     },
     {
       "name": "Turismo Travel TV",
@@ -179365,10 +179449,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "VIATV.sk@SD",
-      "url": "http://88.212.15.17/live/via_tv/index.m3u8",
+      "url": "http://88.212.15.50/live/via_tv/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "df04770920bed64e262c7d92843d516a"
+      "id": "6e4783143f7382bb323049d206f9418e"
     },
     {
       "name": "Via X (576p)",
@@ -181051,6 +181135,20 @@
       "id": "b2c6b0e2583b87b3a7592c7f8a2324ef"
     },
     {
+      "name": "Voyo Sport 1 (1080i)",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a3/VoyoSport1.svg",
+      "category": "Sports",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "VoyoSport1.ro@HD",
+      "url": "https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "99948865f861eff7df4214033aa9f495"
+    },
+    {
       "name": "Voz Di Bonaire TV (720p)",
       "logo": "https://i.imgur.com/WOokQmj.png",
       "category": "Entertainment",
@@ -181815,10 +181913,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "WarnerTV.cz@SD",
-      "url": "http://88.212.15.17/live/warner_tv/index.m3u8",
+      "url": "http://88.212.15.50/live/warner_tv/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "2ca3926252ce90b50f77a30797f42ea6"
+      "id": "50ad2317a303a9f00fa7f4035a854fd5"
     },
     {
       "name": "Wasat TV (1080p)",

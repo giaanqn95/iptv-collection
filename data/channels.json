@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T08:28:31.223608+00:00",
+  "updated_at": "2026-10-27T08:36:27.409688+00:00",
   "total": 13343,
   "channels": [
     {
@@ -50613,7 +50613,7 @@
       "id": "6fe58e4d844910f43f89306c394a849d"
     },
     {
-      "name": "Cartoon Classics",
+      "name": "Cartoon Classics (Poland)",
       "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/3227c06e-333b-4b1b-b657-3e3ab99ebd06-width200-quality90.jpeg",
       "category": "Animation;Kids",
       "country": "Unknown",
@@ -50624,7 +50624,21 @@
       "url": "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "d8dbf6241dd8f38cec7f8d4d7649fe8c"
+      "id": "b7c79b407235f1a4d45dbb1909d194f5"
+    },
+    {
+      "name": "Cartoon Classics (Russia)",
+      "logo": "https://sales.planbkino.tv//b/c/471.png",
+      "category": "Kids",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "CartoonClassics.ru@SD",
+      "url": "http://88.218.242.237:8001/Cartoon_Classics",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "98d54a9ec7096c14ffdaab3620c00738"
     },
     {
       "name": "Cartoon Network (India) (720p)",
@@ -52279,7 +52293,7 @@
       "id": "233964db01aec2b10aaa17949d5c77b6"
     },
     {
-      "name": "CCTV-5+",
+      "name": "CCTV-5+ (1080p)",
       "logo": "https://i.imgur.com/OK8mdJV.png",
       "category": "Sports",
       "country": "Unknown",
@@ -52287,10 +52301,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "CCTV5Plus.cn@SD",
-      "url": "https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8",
+      "url": "https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "a55a9eacc62a9b4db681f94b08eeabb6"
+      "id": "47c1b312dc38d56d576241e4455a39ef"
     },
     {
       "name": "CCTV-6 [Geo-blocked]",
@@ -146861,20 +146875,6 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "52306b200594f4fe15a059c59eb60d91"
-    },
-    {
-      "name": "SCTV4K (2160p)",
-      "logo": "https://i.imgur.com/eQVMAur.png",
-      "category": "Undefined",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "SCTV4K.vn@UHD",
-      "url": "https://vietanhtv.id.vn/sctv/sctv-4k/index.m3u8",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "f67457a5ed620ce6ecdf4426e285c893"
     },
     {
       "name": "SCTV6 (720p)",

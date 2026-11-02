@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-01T10:01:35.883307+00:00",
-  "total": 13391,
+  "updated_at": "2026-11-02T10:29:46.828033+00:00",
+  "total": 13414,
   "channels": [
     {
       "name": "Andorra TV",
@@ -8978,7 +8978,7 @@
     },
     {
       "name": "90.9 Jazzy FM",
-      "logo": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/1/14/Jazzy.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
       "category": "Hungary",
       "country": "HU",
       "country_name": "HU",
@@ -8992,7 +8992,7 @@
     },
     {
       "name": "AMC Ⓖ",
-      "logo": "",
+      "logo": "https://www.tvmustra.hu/logok/csatikon/amc.gif",
       "category": "Hungary",
       "country": "HU",
       "country_name": "HU",
@@ -9048,7 +9048,7 @@
     },
     {
       "name": "Bartók Rádió",
-      "logo": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/hu/c/ce/MR3-BARTOK.png?utm_source=hu.wikipedia.org&utm_campaign=index&utm_content=original",
       "category": "Hungary",
       "country": "HU",
       "country_name": "HU",
@@ -9104,7 +9104,7 @@
     },
     {
       "name": "Cool",
-      "logo": "",
+      "logo": "https://media.port.hu/images/001/591/100x100/760.jpg",
       "category": "Hungary",
       "country": "HU",
       "country_name": "HU",
@@ -9132,7 +9132,7 @@
     },
     {
       "name": "Dankó Rádió",
-      "logo": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/hu/c/c4/Danko-radio-logo.png?utm_source=hu.wikipedia.org&utm_campaign=index&utm_content=original",
       "category": "Hungary",
       "country": "HU",
       "country_name": "HU",
@@ -9146,17 +9146,17 @@
     },
     {
       "name": "DikhTv Ⓨ",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/3/34/Dikhtv.png",
+      "logo": "",
       "category": "Hungary",
       "country": "HU",
       "country_name": "HU",
       "language": "Unknown",
       "nsfw": false,
-      "tvg_id": "DikhTV.hu",
-      "url": "https://www.youtube.com/c/DikhTvGipsyTv/live",
+      "tvg_id": "",
+      "url": "http://88.212.7.14/live/dikh/playlist.m3u8",
       "source": "Free-TV/playlist_hungary.m3u8",
       "status": "unknown",
-      "id": "e162e78acc12f9db7c7da802a8dce755"
+      "id": "c75110a3e66b322197e8124d6720a97f"
     },
     {
       "name": "DTV Ⓖ",
@@ -9185,6 +9185,20 @@
       "source": "Free-TV/playlist_hungary.m3u8",
       "status": "unknown",
       "id": "e3605d35f79cc9b2409789e0523e1e9b"
+    },
+    {
+      "name": "Duna World / M4+ Sport",
+      "logo": "https://i.imgur.com/DciAdFF.png",
+      "category": "Hungary",
+      "country": "HU",
+      "country_name": "HU",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "DunaWorld.hu",
+      "url": "http://141.94.193.53:80/Duna_World_M4_Sport+_HD/index.m3u8",
+      "source": "Free-TV/playlist_hungary.m3u8",
+      "status": "unknown",
+      "id": "13991272820a800083e5271516a2225a"
     },
     {
       "name": "ErdélyTV Ⓨ",
@@ -9229,6 +9243,20 @@
       "id": "8714570101671d7b5482cc051c1cafbd"
     },
     {
+      "name": "EuroSport1",
+      "logo": "https://files.cdn.magio.tv/tv_logos/eurosport-1-hd.png",
+      "category": "Hungary",
+      "country": "HU",
+      "country_name": "HU",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "Eurosport1.hu",
+      "url": "http://141.94.193.53:80/Eurosport_1_HD/index.m3u8",
+      "source": "Free-TV/playlist_hungary.m3u8",
+      "status": "unknown",
+      "id": "4140c696017c5b05109e8581364c1599"
+    },
+    {
       "name": "EWTN TV",
       "logo": "https://katolikus.tv/wp-content/themes/bonum/img/ewtn-badge.jpg",
       "category": "Hungary",
@@ -9265,14 +9293,14 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "FEM3.hu",
-      "url": "http://88.212.15.17/live/test_fem3_atktv/playlist.m3u8",
+      "url": "http://88.212.7.14/live/test_fem3_atktv/playlist.m3u8",
       "source": "Free-TV/playlist_hungary.m3u8",
       "status": "unknown",
-      "id": "def257045dcae9e0bd5c88489aa3ee30"
+      "id": "aff7947d3e95c656c46d82d09d16e437"
     },
     {
       "name": "Film+",
-      "logo": "",
+      "logo": "https://www.tvmustra.hu/logok/csatikon/filmplussz.gif",
       "category": "Hungary",
       "country": "HU",
       "country_name": "HU",
@@ -9286,7 +9314,7 @@
     },
     {
       "name": "Film4 Ⓖ",
-      "logo": "",
+      "logo": "https://www.tvmustra.hu/logok/csatikon/film4.gif",
       "category": "Hungary",
       "country": "HU",
       "country_name": "HU",
@@ -9300,7 +9328,7 @@
     },
     {
       "name": "Galaxy4 Ⓖ",
-      "logo": "",
+      "logo": "https://www.tvmustra.hu/logok/csatikon/galaxy4.gif",
       "category": "Hungary",
       "country": "HU",
       "country_name": "HU",
@@ -9370,7 +9398,7 @@
     },
     {
       "name": "Hír FM",
-      "logo": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0d/HirFM_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
       "category": "Hungary",
       "country": "HU",
       "country_name": "HU",
@@ -9412,7 +9440,7 @@
     },
     {
       "name": "Juventus Rádió",
-      "logo": "",
+      "logo": "https://myonlineradio.hu/public/uploads/radio_img/juventus-radio/play_250_250.webp",
       "category": "Hungary",
       "country": "HU",
       "country_name": "HU",
@@ -9510,7 +9538,7 @@
     },
     {
       "name": "Kossuth Rádió",
-      "logo": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/hu/6/69/Mr1.png?utm_source=hu.wikipedia.org&utm_campaign=index&utm_content=original",
       "category": "Hungary",
       "country": "HU",
       "country_name": "HU",
@@ -9535,20 +9563,6 @@
       "source": "Free-TV/playlist_hungary.m3u8",
       "status": "unknown",
       "id": "ff03713488999a8627ff8d302cbb2710"
-    },
-    {
-      "name": "M1 Hiradó Ⓨ",
-      "logo": "https://i.imgur.com/neddXUd.png",
-      "category": "Hungary",
-      "country": "HU",
-      "country_name": "HU",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "",
-      "url": "https://www.youtube.com/@M1-Hirado/live",
-      "source": "Free-TV/playlist_hungary.m3u8",
-      "status": "unknown",
-      "id": "f36e3a2d6c75c9eab84b6878b5925617"
     },
     {
       "name": "M1 Ⓖ",
@@ -9607,8 +9621,36 @@
       "id": "12958996ace00069d2d6bfd1f5d38f39"
     },
     {
+      "name": "Max4.",
+      "logo": "https://www.tvmustra.hu/logok/csatikon/max4.gif",
+      "category": "Hungary",
+      "country": "HU",
+      "country_name": "HU",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "",
+      "url": "http://141.94.193.53:80/MAX4_HD/index.m3u8",
+      "source": "Free-TV/playlist_hungary.m3u8",
+      "status": "unknown",
+      "id": "20fcda3cafda3d04d99ded59ae341964"
+    },
+    {
+      "name": "Minimax.",
+      "logo": "https://www.tvmustra.hu/logok/csatikon/minimax3d.gif",
+      "category": "Hungary",
+      "country": "HU",
+      "country_name": "HU",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "Minimax.hu",
+      "url": "http://141.94.193.53:80/Minimax/index.m3u8",
+      "source": "Free-TV/playlist_hungary.m3u8",
+      "status": "unknown",
+      "id": "d887e84d559fa4a7c43b01ce3d47270a"
+    },
+    {
       "name": "Mozi+ Ⓖ",
-      "logo": "",
+      "logo": "https://www.sms.cz/kategorie/televize/bmp/loga/velka/mozi.png",
       "category": "Hungary",
       "country": "HU",
       "country_name": "HU",
@@ -9619,6 +9661,20 @@
       "source": "Free-TV/playlist_hungary.m3u8",
       "status": "unknown",
       "id": "cba1ae8327d3489fdec4ed4384db7dce"
+    },
+    {
+      "name": "Nat Geo",
+      "logo": "https://www.tvmustra.hu/logok/csatikon/nghd.gif",
+      "category": "Hungary",
+      "country": "HU",
+      "country_name": "HU",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "",
+      "url": "http://141.94.193.53:80/Nat_Geo_HD/index.m3u8",
+      "source": "Free-TV/playlist_hungary.m3u8",
+      "status": "unknown",
+      "id": "aa140d5aefa29de229e455d6d016f477"
     },
     {
       "name": "Oroszlányi Városi Televízió",
@@ -9692,7 +9748,7 @@
     },
     {
       "name": "Petőfi Rádió",
-      "logo": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/hu/0/0c/MR2-Pet%C5%91fi.png?utm_source=hu.wikipedia.org&utm_campaign=index&utm_content=original",
       "category": "Hungary",
       "country": "HU",
       "country_name": "HU",
@@ -9720,7 +9776,7 @@
     },
     {
       "name": "Retró Rádió",
-      "logo": "",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/6/6c/Retroradio.svg/revision/latest?cb=20210520195847",
       "category": "Hungary",
       "country": "HU",
       "country_name": "HU",
@@ -9731,6 +9787,34 @@
       "source": "Free-TV/playlist_hungary.m3u8",
       "status": "unknown",
       "id": "2397682113befb645e056aee2abf1229"
+    },
+    {
+      "name": "RTL Három",
+      "logo": "https://www.tvmustra.hu/logok/csatikon/rtl_harom.gif",
+      "category": "Hungary",
+      "country": "HU",
+      "country_name": "HU",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "RTL3.hu",
+      "url": "http://88.212.7.14/live/test_rtl_plus_hungary_1200_atk/playlist.m3u8",
+      "source": "Free-TV/playlist_hungary.m3u8",
+      "status": "unknown",
+      "id": "55dd0475115fccc0188ce44718b430cf"
+    },
+    {
+      "name": "RTL Kettő",
+      "logo": "https://media.port.hu/images/001/707/100x100/203.jpg",
+      "category": "Hungary",
+      "country": "HU",
+      "country_name": "HU",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "",
+      "url": "http://88.212.7.14/live/test_rtl2_hungary_1200_atk/playlist.m3u8",
+      "source": "Free-TV/playlist_hungary.m3u8",
+      "status": "unknown",
+      "id": "9ff377445fc2a8a9b37cfcc1bca66b91"
     },
     {
       "name": "RTL Klub",
@@ -9748,7 +9832,7 @@
     },
     {
       "name": "Rádió1",
-      "logo": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/5/52/Radio1.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
       "category": "Hungary",
       "country": "HU",
       "country_name": "HU",
@@ -9762,7 +9846,7 @@
     },
     {
       "name": "Sláger FM",
-      "logo": "",
+      "logo": "https://myonlineradio.hu/public/uploads/radio_img/slager-fm/play_250_250.webp",
       "category": "Hungary",
       "country": "HU",
       "country_name": "HU",
@@ -9773,6 +9857,20 @@
       "source": "Free-TV/playlist_hungary.m3u8",
       "status": "unknown",
       "id": "ae9a018510448204ca8ef5c5c849654e"
+    },
+    {
+      "name": "Sorozat+",
+      "logo": "https://www.tvmustra.hu/logok/csatikon/sorozatplussz.gif",
+      "category": "Hungary",
+      "country": "HU",
+      "country_name": "HU",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "",
+      "url": "http://88.212.7.14/live/test_sorozat_hungary_1200_atk/playlist.m3u8",
+      "source": "Free-TV/playlist_hungary.m3u8",
+      "status": "unknown",
+      "id": "6c4b182eae9e86027d373d5ab13b8db2"
     },
     {
       "name": "Spektrum Home Ⓖ",
@@ -9790,7 +9888,7 @@
     },
     {
       "name": "Spektrum Ⓖ",
-      "logo": "",
+      "logo": "https://media.port.hu/images/001/591/100x100/776.jpg",
       "category": "Hungary",
       "country": "HU",
       "country_name": "HU",
@@ -9804,7 +9902,7 @@
     },
     {
       "name": "Spirit FM",
-      "logo": "",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/1/15/Spiritfm876logo.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
       "category": "Hungary",
       "country": "HU",
       "country_name": "HU",
@@ -9818,7 +9916,7 @@
     },
     {
       "name": "Sport1 Ⓖ",
-      "logo": "",
+      "logo": "https://www.tvmustra.hu/logok/csatikon/sport1.gif",
       "category": "Hungary",
       "country": "HU",
       "country_name": "HU",
@@ -9832,7 +9930,7 @@
     },
     {
       "name": "Sport2 Ⓖ",
-      "logo": "",
+      "logo": "https://www.tvmustra.hu/logok/csatikon/sport2.gif",
       "category": "Hungary",
       "country": "HU",
       "country_name": "HU",
@@ -9843,6 +9941,20 @@
       "source": "Free-TV/playlist_hungary.m3u8",
       "status": "unknown",
       "id": "59d60b8b15436723c14060f9452162a9"
+    },
+    {
+      "name": "Story4.",
+      "logo": "https://www.tvmustra.hu/logok/csatikon/story4.gif",
+      "category": "Hungary",
+      "country": "HU",
+      "country_name": "HU",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "Story4.hu",
+      "url": "http://141.94.193.53:80/Story4_HD/index.m3u8",
+      "source": "Free-TV/playlist_hungary.m3u8",
+      "status": "unknown",
+      "id": "56c39af40891b8decfcbc5680388c0fb"
     },
     {
       "name": "TV Eger",
@@ -9860,7 +9972,7 @@
     },
     {
       "name": "TV Paprika Ⓖ",
-      "logo": "",
+      "logo": "https://www.tvmustra.hu/logok/csatikon/tvpaprika.gif",
       "category": "Hungary",
       "country": "HU",
       "country_name": "HU",
@@ -9888,7 +10000,7 @@
     },
     {
       "name": "TV4",
-      "logo": "",
+      "logo": "https://www.tvmustra.hu/logok/csatikon/tv4.gif",
       "category": "Hungary",
       "country": "HU",
       "country_name": "HU",
@@ -9923,10 +10035,66 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "Viasat6.hu",
-      "url": "http://88.212.15.17/live/viasat6/index.m3u8",
+      "url": "http://88.212.7.14/live/viasat6/index.m3u8",
       "source": "Free-TV/playlist_hungary.m3u8",
       "status": "unknown",
-      "id": "3102e5aa76784246794c169e412291c3"
+      "id": "50d9e15ca54863f9a3a0289b0d63e90d"
+    },
+    {
+      "name": "Viasat Explore",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/7/71/Viasat_Explore_2026.svg?utm_source=hu.wikipedia.org&utm_campaign=index&utm_content=original",
+      "category": "Hungary",
+      "country": "HU",
+      "country_name": "HU",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "ViasatExplore.hu",
+      "url": "http://141.94.193.53:80/Viasat_Explore_HD/index.m3u8",
+      "source": "Free-TV/playlist_hungary.m3u8",
+      "status": "unknown",
+      "id": "989b2f27e93be5298221ef33813b47ab"
+    },
+    {
+      "name": "Viasat History",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Viasat_History_2026.svg?utm_source=hu.wikipedia.org&utm_campaign=index&utm_content=original",
+      "category": "Hungary",
+      "country": "HU",
+      "country_name": "HU",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "ViasatHistory.hu",
+      "url": "http://141.94.193.53:80/Viasat_History_HD/index.m3u8",
+      "source": "Free-TV/playlist_hungary.m3u8",
+      "status": "unknown",
+      "id": "8aab434c305d2ff59d3ead55bfe9c98e"
+    },
+    {
+      "name": "Viasat Nature",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Viasat_Nature_2026.svg?utm_source=hu.wikipedia.org&utm_campaign=index&utm_content=original",
+      "category": "Hungary",
+      "country": "HU",
+      "country_name": "HU",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "",
+      "url": "http://141.94.193.53:80/Viasat_Nature_HD/index.m3u8",
+      "source": "Free-TV/playlist_hungary.m3u8",
+      "status": "unknown",
+      "id": "4ce08cf8a0b83d3bcc573eacd37a14e8"
+    },
+    {
+      "name": "Viasat3.",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Viasat3_%281%29.png?utm_source=hu.wikipedia.org&utm_campaign=index&utm_content=original",
+      "category": "Hungary",
+      "country": "HU",
+      "country_name": "HU",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "Viasat3.hu",
+      "url": "http://141.94.193.53:80/VIASAT3_HD/index.m3u8",
+      "source": "Free-TV/playlist_hungary.m3u8",
+      "status": "unknown",
+      "id": "53120aecd504d953976aa04f795b1e33"
     },
     {
       "name": "Vásárhelyi Televízió",
@@ -34933,6 +35101,20 @@
       "id": "77666637d8abbaef7a4519684b4e3cee"
     },
     {
+      "name": "AntenaSport",
+      "logo": "https://cdn.as.ro/wp-content/themes/antenasport/images/icons-as/as.svg",
+      "category": "Sports",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "AntenaSport.ro@SD",
+      "url": "https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "278a942ef03c5f2d7901bf3de36ff9c6"
+    },
+    {
       "name": "Antenna 2 TV (720p)",
       "logo": "https://i.imgur.com/kNrzk3X.png",
       "category": "General",
@@ -36081,7 +36263,7 @@
       "id": "2b4005a382b5476a5d3721929290fcb2"
     },
     {
-      "name": "arte (France) (720p)",
+      "name": "arte (France) (1080p)",
       "logo": "https://i.imgur.com/ecXMjNl.png",
       "category": "Entertainment",
       "country": "Unknown",
@@ -36089,10 +36271,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "arte.fr@SD",
-      "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L5/3264727f/d0a3cb71.isml/.m3u8",
+      "url": "http://5.180.164.197:8080/ARTEFR/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "e25b21dcacade3adf6359d30da2ad182"
+      "id": "f3681e925fdacaca8cedccc82f4148fb"
     },
     {
       "name": "arte (Germany) (720p) [Geo-blocked]",
@@ -38742,7 +38924,7 @@
     },
     {
       "name": "B4U Music (1080p)",
-      "logo": "https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540",
+      "logo": "https://i.imgur.com/hytapio.png",
       "category": "Music",
       "country": "Unknown",
       "country_name": "Unknown",
@@ -43753,20 +43935,6 @@
       "id": "49a06369d5bf039bc57279f6af6b44e0"
     },
     {
-      "name": "Bolivision (1080p)",
-      "logo": "https://i.imgur.com/U98Z5zn.png",
-      "category": "General",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "Bolivision.bo@SD",
-      "url": "http://15.204.246.24:8080/BolivisionHD/index.m3u8",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "2f63dad081c56d702c1b68a9ea00438c"
-    },
-    {
       "name": "Bollygold (1080p)",
       "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000600Q_20260805T003941SQUARE.png",
       "category": "Movies",
@@ -43793,20 +43961,6 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "d59667661070a17f38feea7caa673fd9"
-    },
-    {
-      "name": "Bollywood Film",
-      "logo": "https://i.imgur.com/bEMUpHZ.png",
-      "category": "Classic;Movies",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "BollywoodFilm.ro@SD",
-      "url": "https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "31951e807627399254806d21b75e4017"
     },
     {
       "name": "Bollywood HD (576p)",
@@ -45560,7 +45714,7 @@
     },
     {
       "name": "Ca Mau TV (720p) [Geo-blocked]",
-      "logo": "",
+      "logo": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/Logo%20kh%C3%A1c/CTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20C%C3%A0%20Mau%20HD/CTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20C%C3%A0%20Mau.png",
       "category": "Undefined",
       "country": "Unknown",
       "country_name": "Unknown",
@@ -48877,20 +49031,6 @@
       "id": "c762cee89cfb2b6b8a92c7b531692c6a"
     },
     {
-      "name": "Canal Off (1080p)",
-      "logo": "https://i.imgur.com/1biaLgJ.png",
-      "category": "Undefined",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "CanalOff.br@SD",
-      "url": "http://170.82.202.31/OFF/index.m3u8",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "815b2a7d766bc0c86dc4ac3cc93586da"
-    },
-    {
       "name": "Canal Once (1080p)",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal_Once_logo_2025.png",
       "category": "Undefined",
@@ -49435,6 +49575,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "7d4fdab850029e5ecf82671b19dcbf5d"
+    },
+    {
+      "name": "Canal+ Action Europe Magyar",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/1920px-Canal%2B_Action_2024.svg.png",
+      "category": "Movies",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "CanalPlusActionEurope.nl@Magyar",
+      "url": "http://193.33.39.108:9016/play/a02n",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "1a7a5a6bfdf36c986b79cbeed9f74554"
     },
     {
       "name": "Canal+ Action Europe Slovakia (720p)",
@@ -50501,6 +50655,20 @@
       "id": "5082020fe366f7fef1bbf3c78859bb2c"
     },
     {
+      "name": "Cartoon Network CEE",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+      "category": "Animation;Kids",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "CartoonNetworkCEE.uk@Hungary",
+      "url": "http://193.33.39.108:9007/play/a00l",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "913dfdcd73b0f5b8483900e6b08e7186"
+    },
+    {
       "name": "Cartoon Network CEE Czech Republic",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
       "category": "Animation;Kids",
@@ -50597,6 +50765,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "99344c0f65e6fd8c07524f254e9018c5"
+    },
+    {
+      "name": "Cartoonito CEE",
+      "logo": "https://i.imgur.com/9MrzLb1.png",
+      "category": "Kids",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "CartoonitoCEE.uk@SD",
+      "url": "http://193.33.39.108:9019/play/a00t",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "4d5e360b9a6a6201aee3449892ad8a5c"
     },
     {
       "name": "Cartoonito CEE Czechia",
@@ -54807,10 +54989,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "CineSony.us@SD",
-      "url": "https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8",
+      "url": "http://186.148.196.82:8001/play/a0a4",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "f84b716729d88f1f4fc4907089c49374"
+      "id": "e298e770e61c8ca04cd75c45d54e6628"
     },
     {
       "name": "Cine Terror",
@@ -55121,6 +55303,20 @@
       "id": "e0fc4e4a8ca8a0531971d6732a617a4d"
     },
     {
+      "name": "Cinemax 2 Central Europe",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cinemax_2_%282016%29.png/960px-Cinemax_2_%282016%29.png",
+      "category": "Movies",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "Cinemax2CentralEurope.hu@SD",
+      "url": "http://193.33.39.108:9009/play/a024",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "fa407704fa6d15b9217c59887b377456"
+    },
+    {
       "name": "Cinemax Asia (720p) [Geo-blocked]",
       "logo": "https://i.imgur.com/c8crJfA.png",
       "category": "Movies",
@@ -55147,6 +55343,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "053c5f61939d278ea0bca8b3543e223f"
+    },
+    {
+      "name": "Cinemax Central Europe",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png",
+      "category": "Movies",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "CinemaxCentralEurope.hu@SD",
+      "url": "http://193.33.39.108:9023/play/a01b",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "120f7624ac22387d8df96531454ae83e"
     },
     {
       "name": "Cinemax Classics (1080p)",
@@ -57879,7 +58089,7 @@
       "id": "f6e5d2d2ed89664d333268ea1081a674"
     },
     {
-      "name": "Comedy TV (Georgia)",
+      "name": "Comedy TV",
       "logo": "https://i.imgur.com/i1TANKv.png",
       "category": "Comedy",
       "country": "Unknown",
@@ -57890,10 +58100,10 @@
       "url": "http://31.146.5.178:8087/play/a00b/index.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "df7939a6ba717f42380ab319b8561ae6"
+      "id": "8479b4971c1f6d9b02e26c2dce922024"
     },
     {
-      "name": "Comedy TV (United States) (720p)",
+      "name": "Comedy.TV (720p)",
       "logo": "https://i.imgur.com/KLfXnba.png",
       "category": "Comedy",
       "country": "Unknown",
@@ -57904,7 +58114,7 @@
       "url": "https://a-cdn.klowdtv.com/live2/comedytv_720p/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "1167c32659f0a7244b76b706d6584d29"
+      "id": "f261c998cac6a10b7d0ee4db72702368"
     },
     {
       "name": "Comercio TV (1080p)",
@@ -60162,7 +60372,7 @@
     },
     {
       "name": "Da Nang TV2 (1080p) [Not 24/7]",
-      "logo": "",
+      "logo": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/Logo%20kh%C3%A1c/DRT%20-%20Da%20Nang%20TV/DRT2%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20%C4%90%C3%A0%20N%E1%BA%B5ng%202%20%E2%80%A2%20B%E1%BA%A3n%202.png",
       "category": "General",
       "country": "Unknown",
       "country_name": "Unknown",
@@ -68379,6 +68589,20 @@
       "id": "c1001988810a1ca68899e3fdc2c22b0c"
     },
     {
+      "name": "ES.TV (720p)",
+      "logo": "https://i.imgur.com/ihY01ao.png",
+      "category": "Entertainment",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "ESTV.us@SD",
+      "url": "https://a-cdn.klowdtv.com/live2/estv_720p/playlist.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "8d18100911facf17bda47c82edc958e0"
+    },
+    {
       "name": "Esaie 45 Tele",
       "logo": "https://i.imgur.com/nc9QBnD.png",
       "category": "Religious",
@@ -69861,6 +70085,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "d231da9adf69c9eaf2ae565a95208af8"
+    },
+    {
+      "name": "Eurosport 1 Germany",
+      "logo": "https://i.imgur.com/olQJgm7.png",
+      "category": "Sports",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "Eurosport1.fr@Germany",
+      "url": "http://90.183.52.46:4000/play/a06v/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "292b58e471fb37c7e3840ba8e324c163"
     },
     {
       "name": "Eurosport 1 Hungary",
@@ -79146,7 +79384,7 @@
     },
     {
       "name": "HBO Asia HD (1080p)",
-      "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png",
+      "logo": "https://i.imgur.com/cE2gBt6.png",
       "category": "Movies",
       "country": "Unknown",
       "country_name": "Unknown",
@@ -79160,7 +79398,7 @@
     },
     {
       "name": "HBO Asia SD (720p) [Geo-blocked]",
-      "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png",
+      "logo": "https://i.imgur.com/cE2gBt6.png",
       "category": "Movies",
       "country": "Unknown",
       "country_name": "Unknown",
@@ -79174,7 +79412,7 @@
     },
     {
       "name": "HBO Asia Taiwan (1080p)",
-      "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png",
+      "logo": "https://i.imgur.com/cE2gBt6.png",
       "category": "Movies",
       "country": "Unknown",
       "country_name": "Unknown",
@@ -87601,7 +87839,7 @@
       "id": "5ce05da9c73ee2e9e49b5a2457f4c5a9"
     },
     {
-      "name": "Justice Central TV (720p)",
+      "name": "Justice Central.TV (720p)",
       "logo": "https://i.imgur.com/peuHszg.png",
       "category": "Entertainment",
       "country": "Unknown",
@@ -87612,7 +87850,7 @@
       "url": "https://a-cdn.klowdtv.com/live2/justicecentral_720p/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "78d969c83472ca4d31e619008da0c8a9"
+      "id": "592e89c572e27c7be7a3e7da2861ffa8"
     },
     {
       "name": "Justicia TV (Mexico) (720p)",
@@ -92529,7 +92767,7 @@
       "id": "f7e6ba363fb14cf37b54a00be69720f1"
     },
     {
-      "name": "Larivision TV",
+      "name": "Larivision TV (720p) [Not 24/7]",
       "logo": "https://www.larivision.com/web/wp-content/uploads/2025/07/logow.png",
       "category": "General",
       "country": "Unknown",
@@ -92537,10 +92775,10 @@
       "language": "Unknown",
       "nsfw": false,
       "tvg_id": "LarivisionTV.do@HD",
-      "url": "https://cloud5.larivision.net/hls/live.m3u8",
+      "url": "https://live.larivision.net/livelan/live.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "6ca7e402dfe20d86e145f3401ec96321"
+      "id": "5082b0325dc68ea0b143e57ae81edd92"
     },
     {
       "name": "Las Estrellas (1080p)",
@@ -109357,20 +109595,6 @@
       "id": "a77b0ef9dbb3c474eb2f1a8a8a50a165"
     },
     {
-      "name": "Mooz Dance",
-      "logo": "https://i.imgur.com/aX70RD2.png",
-      "category": "Music",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "MoozDance.ro@SD",
-      "url": "https://tvextra-hls.b-cdn.net/moozdance/moozdance.m3u8",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "54f150117f142fbf9477a2ab2092fcb0"
-    },
-    {
       "name": "Mooz Dance HD (1080i) [Geo-blocked]",
       "logo": "https://i.imgur.com/aX70RD2.png",
       "category": "Music",
@@ -109383,34 +109607,6 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "995c9abb07d4ee76fae61bac9b45aef9"
-    },
-    {
-      "name": "Mooz Hits",
-      "logo": "https://i.imgur.com/GwATd3Y.png",
-      "category": "Music",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "MoozHits.ro@SD",
-      "url": "https://tvextra-hls.b-cdn.net/moozhits/moozhits.m3u8",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "a05e66f6e657efc92de070b524bbe88e"
-    },
-    {
-      "name": "Mooz Ro!",
-      "logo": "https://i.imgur.com/Ft24x5T.png",
-      "category": "Music",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "MoozRo.ro@SD",
-      "url": "https://tvextra-hls.b-cdn.net/moozro/moozro.m3u8",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "781ecc2522ccc1d0351e3529fe41e602"
     },
     {
       "name": "Mora-Net TV (576p)",
@@ -115445,6 +115641,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "9e74f6bb40b9546c8188f8c1f1d2a82e"
+    },
+    {
+      "name": "News Malayalam 24x7 (576p)",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_MALAYALAM_24X7/images/LOGO_HD/image.png",
+      "category": "News",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "NewsMalayalam24x7.in@SD",
+      "url": "https://cdn.pishow.tv/ott/live/1629/master.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "0422fbecd1d4c2452cda2c49ca0c5a06"
     },
     {
       "name": "News Marathi 24x7 (720p)",
@@ -137021,6 +137231,20 @@
       "id": "130fa88f71e69750ee8f4ed135155b72"
     },
     {
+      "name": "Radio ZU (720p)",
+      "logo": "https://radiozu.ro/img/logo-zu.png",
+      "category": "Music",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "RadioZU.ro@720p",
+      "url": "https://stream1.antenaplay.ro/zurtv/zurtv/chunklist.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "319e163e6a6e73ebb3bd1c3a7a0a6b4c"
+    },
+    {
       "name": "Radiocanal (1080p)",
       "logo": "https://i.ibb.co/NNyDWsz/download-8.png",
       "category": "General",
@@ -138995,9 +139219,9 @@
       "id": "e3f6096fb997b0a10188dad071a89b93"
     },
     {
-      "name": "Recipe TV (720p)",
+      "name": "Recipe.TV (720p)",
       "logo": "https://i.imgur.com/HcL4a8z.png",
-      "category": "Undefined",
+      "category": "Cooking",
       "country": "Unknown",
       "country_name": "Unknown",
       "language": "Unknown",
@@ -139006,7 +139230,7 @@
       "url": "https://a-cdn.klowdtv.com/live2/recipetv_720p/playlist.m3u8",
       "source": "iptv-org/index",
       "status": "unknown",
-      "id": "1980e4a2cc9d3d1408cd548e53070be6"
+      "id": "a130f7c2c06019d6d351b28d12075d5c"
     },
     {
       "name": "Record (720p)",
@@ -141557,6 +141781,20 @@
       "id": "d234834a690ba54d4207eaa0e90137cc"
     },
     {
+      "name": "Romantic FM (576i)",
+      "logo": "https://assets.antenaplay.ro/2023/08/16/u0AuO3YCe1bdz3xSHgeK.png",
+      "category": "Music",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "RomanticFM.ro@SD",
+      "url": "https://stream1.antenaplay.ro/zurtv/rfmprem/chunklist.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "7cbc6b8bf2e81796359bbac50a739495"
+    },
+    {
       "name": "Romantica TV (1080p)",
       "logo": "https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Romantica%20TV.jpeg",
       "category": "General",
@@ -142551,6 +142789,20 @@
       "id": "48dc413b04ce5df0f42078434700b1d1"
     },
     {
+      "name": "RTL Super HD (576p)",
+      "logo": "https://i.imgur.com/KbdK8t9.png",
+      "category": "Undefined",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "RTLSuper.de@HD",
+      "url": "https://s6.hopslan.com/superX/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "d587015ab0a14e106be18d74468896c3"
+    },
+    {
       "name": "RTL Tele Letzebuerg (1080p)",
       "logo": "https://i.imgur.com/fkW5Gbl.png",
       "category": "General",
@@ -142605,6 +142857,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "63dd9e2d591c4c3f6d77ac8e15a6040f"
+    },
+    {
+      "name": "RTL Zwei HD (576p)",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/960px-RTLZWEI_Logo_2019.svg.png",
+      "category": "Undefined",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "RTLZwei.de@HD",
+      "url": "https://s6.hopslan.com/rtl2q/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "6200aa022d2bef8d806d4bd8dd9af282"
     },
     {
       "name": "RTL-TVI (1080p) [Not 24/7]",
@@ -152673,20 +152939,6 @@
       "id": "5d9f4763b9f40f57a8449c106d7243ef"
     },
     {
-      "name": "Sport Extra",
-      "logo": "https://static.wikia.nocookie.net/logopedia/images/f/fa/Sport_Extra_horizontal.svg/revision/latest/scale-to-width-down/1000?cb=20220425110755",
-      "category": "Sports",
-      "country": "Unknown",
-      "country_name": "Unknown",
-      "language": "Unknown",
-      "nsfw": false,
-      "tvg_id": "SportExtra.ro@SD",
-      "url": "https://tvextra-hls.b-cdn.net/sportextra/sportextra.m3u8",
-      "source": "iptv-org/index",
-      "status": "unknown",
-      "id": "8a295f05b087a9fefec96203646e9cb5"
-    },
-    {
       "name": "Sport TV (1080p)",
       "logo": "https://www.beltelecom.by/sites/default/files/styles/200200/public/tv-channels/2025-10/sporttv.png",
       "category": "Sports",
@@ -155457,6 +155709,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "e1a6962439d20ea3bf0480b020885b62"
+    },
+    {
+      "name": "Super Express TV (1080p)",
+      "logo": "https://i.imgur.com/HuIsALV.png",
+      "category": "News",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "SuperExpressTV.pl@FAST",
+      "url": "https://prx-y5cf8.mediatool.tv/playout/sepl-abr67/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "c216dd869d282e62f32045d132e0b923"
     },
     {
       "name": "Super J TV Teramo (720p)",
@@ -180365,6 +180631,20 @@
       "id": "24b540287dbfa35b31ac021922c1c7dd"
     },
     {
+      "name": "Viasat History (Hungary)",
+      "logo": "https://i.imgur.com/wRP9XA7.png",
+      "category": "Documentary",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "ViasatHistory.hu@SD",
+      "url": "http://193.33.39.108:9007/play/a00p",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "607968e81734beec3196ffd498eba357"
+    },
+    {
       "name": "Viasat Kino (576p)",
       "logo": "https://i.imgur.com/io0WAkA.png",
       "category": "Movies",
@@ -180405,6 +180685,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "ee2284b2c008a577e6c44982a2d75f6d"
+    },
+    {
+      "name": "Viasat Nature (Hungary)",
+      "logo": "https://i.imgur.com/ousRqqD.png",
+      "category": "Documentary",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "ViasatNature.hu@SD",
+      "url": "http://193.33.39.108:9000/play/a05r",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "bd154991232c497dce7645139a5abe38"
     },
     {
       "name": "Viasat True Crime",
@@ -181021,6 +181315,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "0cb05a1dd961064150ed3f0b27b94da2"
+    },
+    {
+      "name": "Vision Beats (720p)",
+      "logo": "https://i.imgur.com/xx5RQdi.png",
+      "category": "Music",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "VisionBeats.in@SD",
+      "url": "http://a-edge.bliscdn.com/Visionbeats/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "89247b74cb2f5343a0005986ff3eb4cf"
     },
     {
       "name": "Vision Latina (1080p)",
@@ -182435,6 +182743,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "32e81e4114ae574b0da7f2eaf9c8043e"
+    },
+    {
+      "name": "Wah Punjabi (720p)",
+      "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Wah_Punjabi.png",
+      "category": "Music",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "WahPunjabi.in@SD",
+      "url": "https://yuppnimrestreammum.akamaized.net/181224/smil:wahpunjabi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "2a299cbdd4148ca44cc00d3feea324fe"
     },
     {
       "name": "Wairarapa TV (1080p) [Not 24/7]",

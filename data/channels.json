@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-04T10:24:09.753045+00:00",
-  "total": 13414,
+  "updated_at": "2026-11-05T10:17:22.047476+00:00",
+  "total": 13418,
   "channels": [
     {
       "name": "Andorra TV",
@@ -34891,6 +34891,20 @@
       "id": "7458471491fbab8a2a74e535253d7f13"
     },
     {
+      "name": "Antena 1 (Romania) HD (1440p)",
+      "logo": "https://i.imgur.com/EPmwuuv.png",
+      "category": "General",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "Antena1.ro@HD",
+      "url": "https://live77cdn2.antenaplay.ro/live2_aws4_sdi01/live2_aws4_sdi01_5000k.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "eb40d3743ba55057d9799ced72a6be1e"
+    },
+    {
       "name": "Antena 21 (480p)",
       "logo": "https://i.imgur.com/QE0XWLh.png",
       "category": "Entertainment",
@@ -41413,6 +41427,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "f676c9d8b305fac61cfc6ab5c33ce135"
+    },
+    {
+      "name": "beIN Sports USA (576p)",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png",
+      "category": "Sports",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "beINSportsUSA.us@SD",
+      "url": "https://tvsen6.aynaott.com/beinsports/index.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "a145e5564eb9b723433fd8b23c619d63"
     },
     {
       "name": "beIN SPORTS XTRA (1080p)",
@@ -117603,6 +117631,20 @@
       "id": "ce75b80d501eb7a6f6f64c5d6ea17dfe"
     },
     {
+      "name": "Nippon TV",
+      "logo": "https://i.imgur.com/IxD8V5X.png",
+      "category": "General",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "NipponTV.jp@JOAXDTV",
+      "url": "https://ntv5.mov3.co/hls/ntv.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "4a6283f3111443ce6cf104c53cf54be5"
+    },
+    {
       "name": "Nitida TV (720p) [Not 24/7]",
       "logo": "https://i.imgur.com/z9JkxcM.png",
       "category": "Entertainment",
@@ -157966,7 +158008,7 @@
     },
     {
       "name": "Tay Ninh TV (720p)",
-      "logo": "https://tayninhtv.vn/static/images/logo.png",
+      "logo": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/Logo%20kh%C3%A1c/TTV11%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20T%C3%A2y%20Ninh%20HD/TTV11%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20T%C3%A2y%20Ninh.png",
       "category": "General",
       "country": "Unknown",
       "country_name": "Unknown",
@@ -172817,6 +172859,20 @@
       "source": "iptv-org/index",
       "status": "unknown",
       "id": "b652a010fb1db9b969ac39e3bc876419"
+    },
+    {
+      "name": "TV Tokyo",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/TV_Tokyo_%28Japanese%29_2023.svg/960px-TV_Tokyo_%28Japanese%29_2023.svg.png",
+      "category": "General",
+      "country": "Unknown",
+      "country_name": "Unknown",
+      "language": "Unknown",
+      "nsfw": false,
+      "tvg_id": "TVTokyo.jp@JOTXDTV",
+      "url": "https://tvtokyo.mov3.co/hls/tvtokyo.m3u8",
+      "source": "iptv-org/index",
+      "status": "unknown",
+      "id": "4b78d067d926356a738bd16ead5e96ab"
     },
     {
       "name": "TV Torun (1080p) [Not 24/7]",
